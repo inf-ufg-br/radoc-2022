@@ -2,28 +2,6 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-<html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
-</head>
-<body>
-
-<h2>Zebra Striped Table</h2>
-<p>For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows:</p>
 
 <table>
   <tr>
@@ -53,8 +31,6 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-</body>
-</html>
 
 IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 
