@@ -2,6 +2,232 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
+IV – 2 Atividades Administrativas
+
+Item
+
+Descrição
+
+Pontos
+
+Fonte da Informação
+
+Requisitos
+
+1
+
+Coordenador de projeto institucional com financiamento ou de contratos e convênio com plano de trabalho aprovado
+
+5
+
+(para 12 meses)
+
+SIGRH > Portarias
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+2
+
+Coordenador de curso de especialização, residência médica ou residência multiprofissional
+
+em saúde
+
+10
+(para 12 meses)
+(máx. 10)
+
+SIGRH > Portarias
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+3
+
+Vice-Diretor do CIAR ou Subcoordenadores de Cursos de Graduação e de Pós-Graduação
+
+stricto sensu
+
+4
+(por mês)
+
+SIGRH > Portarias
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+4
+
+Membro representante de classe da carreira docente no CONSUNI
+
+10
+(para 12 meses)
+
+SIGRH > Portarias
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+5
+
+Membro do Conselho de Curadores ou das Câmaras Superiores Setoriais ou do Plenário do
+
+CEPEC ou de Conselho de Fundações
+
+10
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar participação/representação em sindicatos ou fundações em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, casos onde não há emissão de portaria: termos de posse ou aprovações de ata, relacionados a representação ou participação em sindicatos ou fundações, devem ser informados pelo docente.
+
+5.1
+
+Membro do Conselho Gestor das Regionais ou das Câmaras Regionais Setoriais
+
+10
+(para 12 meses)
+
+SIGRH > Portarias
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+6
+
+Atividades acadêmicas e administrativas designadas por portaria do Reitor, Pró-Reitor ou
+
+Diretor de Unidade Acadêmica, ou Chefe de Unidade Acadêmica Especial ou o Diretor do CEPAE
+
+-
+
+-
+
+-
+
+6.1
+
+Com carga horária menor ou igual a 30 horas
+
+2
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
+
+6.2
+
+Com carga horária maior do que 30 horas e menor ou igual a 60 horas
+
+4
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
+
+6.3
+
+Com carga horária maior do que 60 horas e menor ou igual a 90 horas
+
+6
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
+
+6.4
+
+Com carga horária maior do que 90 horas e menor ou igual a 120 horas
+
+8
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
+
+6.5
+
+Com carga horária maior do que 120 horas e menor ou igual a 150 horas
+
+10
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
+
+6.6
+
+Com carga horária maior do que 150 horas
+
+12
+(para 12 meses)
+
+SIGRH > Portarias
+Formulário para informar portarias em 2022
+
+- Portaria de nomeação ou designação
+- Data de início anterior ou igual ao ano base
+- Data de término (opcional) igual ou posterior ao ano base
+- Finalidade
+- Não ter ocorrência sem efeito/revogação
+- Para o ano de 2022, portarias vigentes emitidas antes de setembro, por unidades acadêmicas ou órgãos, devem ser informadas pelo docente.
 
 ### IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS  
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
@@ -25,10 +251,11 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |17|Coordenador de Monitoria|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |18|Coordenador de Módulo de Metodologia Ativa|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |19|Coordenador de Trabalho de Conclusão de Curso ou<br>de Prática como Componente Curricular|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.1	Com classificação Qualis A**|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.2	Com classificação Qualis B**|4 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.3	Com classificação Qualis C**|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.4	Sem classificação Qualis**|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|Editor de revistas, periódicos ou jornais com periodicidade regular|-|-|
+|20|.... 20.1	Com classificação Qualis A|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|.... 20.2	Com classificação Qualis B|4 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|.... 20.3	Com classificação Qualis C|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|.... 20.4	Sem classificação Qualis|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |21|Membro de comitê de assessoramento de agências oficiais de fomento<br>(FAPs, Finep, Capes, CNPq)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |22|Membros de Comissões ou Conselhos ou<br>Comitês de Órgãos Governamentais (INEP, CNE, outros)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 
