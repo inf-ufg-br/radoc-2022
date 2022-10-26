@@ -20,7 +20,7 @@ Em 2022, a UFG passa a usar o software **SICAD+**[^3]:
 ```
 A Figura abaixo apresenta o fluxo geral para o SICAD+.
 
-<img src="./media/fluxo-geral.jpg" width="700">
+!<img src="./media/fluxo-geral.jpg" width="700">
 
 Sobre a figura acima, o fluxo se repete para cada atividade desempenhada pelo docente durante 2022:
 1. O docente EXECUTA uma atividade em 2022.
