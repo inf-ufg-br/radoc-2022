@@ -25,10 +25,10 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |17|Coordenador de Monitoria|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |18|Coordenador de Módulo de Metodologia Ativa|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |19|Coordenador de Trabalho de Conclusão de Curso ou<br>de Prática como Componente Curricular|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.1**	Com classificação Qualis A|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.2**	Com classificação Qualis B|4 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.3**	Com classificação Qualis C|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.4**	Sem classificação Qualis|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.1	Com classificação Qualis A**|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.2	Com classificação Qualis B**|4 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.3	Com classificação Qualis C**|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.4	Sem classificação Qualis**|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |21|Membro de comitê de assessoramento de agências oficiais de fomento<br>(FAPs, Finep, Capes, CNPq)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 
 22	Membros de Comissões ou Conselhos ou Comitês de Órgãos Governamentais (INEP, CNE, outros)	5
