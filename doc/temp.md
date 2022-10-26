@@ -2,7 +2,8 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-  
+
+### IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS  
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
 |-|-|-|-|
 |1|Presidente da CPPD|7 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
