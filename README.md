@@ -22,6 +22,8 @@ A Figura abaixo apresenta o fluxo geral para o SICAD+.
 
 <img src="./media/fluxo-geral.jpg" width="700">
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 Sobre a figura acima, o fluxo se repete para cada atividade desempenhada pelo docente durante 2022:
 1. O docente EXECUTA uma atividade em 2022.
    - A escolha do tipo de registro da atividade para o RADOC é baseada no **Anexo II** da [Resolução CONSUNI 18/2017](https://sistemas.ufg.br/consultas_publicas/resolucoes/arquivos/Resolucao_CONSUNI_2017_0018.pdf).
