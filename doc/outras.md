@@ -2,7 +2,7 @@
 
 **Outros tipos de registro** podem ser inseridos no RADOC:
 - O docente DEVE INSERIR os registros, pois tais não são importados.
-- Os tipos de registro para inserção são listados [aqui](./outras-cont.md).
+- Os tipos de registro para inserção são listados [AQUI](./outras-cont.md).
 
 ## Fluxo para Outros Registros RADOC
 
