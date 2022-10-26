@@ -2,18 +2,25 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-# X
-## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
-### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
+<table>
+<thead>
+<tr>
+  <th>First Header</th>
+  <th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+</tbody>
+</table>
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:Blue;}</style>
-<style>H3{color:Blue;}</style>
-
-<style>p{color:red;}</style>
-<p><em>foo</em></p>
-
-# X
 ## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 ### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
