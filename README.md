@@ -39,7 +39,7 @@ Sobre a figura acima, o fluxo se repete para cada atividade desempenhada pelo do
 ## Orientações do _Apoio Institucional_
 
 As **orientações oficiais** da UFG sobre o SICAD+ podem ser obtidas no _Apoio Institucional_:
-- Para ter acesso às postagens do **Apoio Institucional**, clique [aqui](./doc/apoio-institucional.md).
+- Para ter acesso às postagens do **Apoio Institucional**, clique [**AQUI**](./doc/apoio-institucional.md).
 
 A **principal postagem** do apoio institucional é [Fontes de informação do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad):
 - Todos os tipos de registro para o RADOC são descritos e identificados, conforme o **Anexo II** da [Resolução CONSUNI 18/2017](https://sistemas.ufg.br/consultas_publicas/resolucoes/arquivos/Resolucao_CONSUNI_2017_0018.pdf).
@@ -54,7 +54,7 @@ A **principal postagem** do apoio institucional é [Fontes de informação do SI
 ## Orientações do _Mural INF/UFG_
 
 O _Mural de Informações_ visa a trazer **conteúdos adicionais** ao apoio institucional, concernentes à alimentação do RADOC:
-- Para acessar o **Mural INF/UFG**, clique [aqui](./doc/mural.md).
+- Para acessar o **Mural INF/UFG**, clique [**AQUI**](./doc/mural.md).
 
 ---
 ## Interação com a Comissão RADOC 2022
@@ -62,7 +62,7 @@ O _Mural de Informações_ visa a trazer **conteúdos adicionais** ao apoio inst
 O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão:
 
 A interação com a Comissão RADOC 2022 ocorre via a inserção de "issues" do [GitHub](https://www.github.com):
-- Clique [aqui](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
+- Clique [**AQUI**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
 1. clicar em "Issues" ;
