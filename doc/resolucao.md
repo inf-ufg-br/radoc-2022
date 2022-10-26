@@ -1,8 +1,8 @@
 
 
 ### IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
-[IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA](./resolucao-iv-1.md)
-[IV – 2 ATIVIDADES ADMINISTRATIVAS(./resolucao-iv-2.md)
-[IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS(./resolucao-iv-3.md)
-[IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG(./resolucao-iv-4.md)
+[IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA](./resolucao-iv-1.md)<br>
+[IV – 2 ATIVIDADES ADMINISTRATIVAS](./resolucao-iv-2.md)<br>
+[IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS](./resolucao-iv-3.md)<br>
+[IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG](./resolucao-iv-4.md)<br>
 
