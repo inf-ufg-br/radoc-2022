@@ -2,7 +2,7 @@
 
 Abaixo estão as categorias (grupos) para os tipos de registros RADOC:
 - Clique nas categorias abaixo, para consultar os tipos de registro de cada categoria.
-- Os registros desses tipos DEVEM SER INSERIDOS pelo docente.
+- Os registros desses tipos DEVEM SER INSERIDOS pelo docente, conforme descrito [AQUI](./outras.md).
 
 <details><summary>Atividades Acadêmicas – Bancas e Cursos:</summary>
 <p>
