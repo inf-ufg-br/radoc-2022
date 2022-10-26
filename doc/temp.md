@@ -2,15 +2,59 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-<table width="40%" border="0" cellspacing="10" cellpadding="4" bgcolor="YELLOW">
-   <caption><b>Curso HTML Progressivo</b></caption>
-   <tr align="center">
-      <td>Curso de HTML</td> <td>Curso de CSS</td>
-   </tr>
-   <tr align="center"  bgcolor="#0000ff">
-      <td>Curso de HTML 5</td> <td>Curso de Webmaster</td>
-   </tr>
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+</style>
+</head>
+<body>
+
+<h2>Zebra Striped Table</h2>
+<p>For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows:</p>
+
+<table>
+  <tr>
+  <th>First Name</th>
+  <th>Last Name</th>
+  <th>Points</th>
+  </tr>
+  <tr>
+  <td>Peter</td>
+  <td>Griffin</td>
+  <td>$100</td>
+  </tr>
+  <tr>
+  <td>Lois</td>
+  <td>Griffin</td>
+  <td>$150</td>
+  </tr>
+  <tr>
+  <td>Joe</td>
+  <td>Swanson</td>
+  <td>$300</td>
+  </tr>
+  <tr>
+  <td>Cleveland</td>
+  <td>Brown</td>
+  <td>$250</td>
+  </tr>
 </table>
+
+</body>
+</html>
 
 IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 
