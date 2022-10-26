@@ -12,11 +12,9 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |4|Membros da Coordenação Permanente do Centro de Seleção|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |5|Diretores do Hospital das Clínicas|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |6|Membros da CPPD, da Comissão de Avaliação Institucional,<br>da Comissão Própria de Avaliação, da CAD|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|7|Membros da CPAD ou da Comissão de Sindicância ou<br>da Comissão de Processo Administrativo|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|8|Membro do NDE|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 
-7	Membros da CPAD ou da Comissão de Sindicância ou da Comissão de Processo Administrativo	5
-(por mês)	[Registro oriundo de Portaria](./portaria.md)
-8	Membro do NDE	3
-(por mês)	[Registro oriundo de Portaria](./portaria.md)
 Formulário para informar portarias em 2022
 
 9	Gestor de Convênios/Projetos Internacionais da Coordenadoria de Assuntos Internacionais	5
