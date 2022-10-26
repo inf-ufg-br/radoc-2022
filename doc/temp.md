@@ -2,6 +2,15 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
+<table width="40%" border="0" cellspacing="10" cellpadding="4" bgcolor="YELLOW">
+   <caption><b>Curso HTML Progressivo</b></caption>
+   <tr align="center">
+      <td>Curso de HTML</td> <td>Curso de CSS</td>
+   </tr>
+   <tr align="center"  bgcolor="#0000ff">
+      <td>Curso de HTML 5</td> <td>Curso de Webmaster</td>
+   </tr>
+</table>
 
 IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 
