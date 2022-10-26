@@ -10,6 +10,9 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 <style>H2{color:Blue;}</style>
 <style>H3{color:Blue;}</style>
 
+<style>p{color:red;}</style>
+<p><em>foo</em></p>
+
 # X
 ## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 ### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
