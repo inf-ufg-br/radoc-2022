@@ -2,39 +2,16 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-<span style="color: green"> Some green text </span>
+# X
+## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
+### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
 
-<table>
-  <tr>
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Points</th>
-  </tr>
-  <tr>
-  <td>Peter</td>
-  <td>Griffin</td>
-  <td>$100</td>
-  </tr>
-  <tr>
-  <td>Lois</td>
-  <td>Griffin</td>
-  <td>$150</td>
-  </tr>
-  <tr>
-  <td>Joe</td>
-  <td>Swanson</td>
-  <td>$300</td>
-  </tr>
-  <tr>
-  <td>Cleveland</td>
-  <td>Brown</td>
-  <td>$250</td>
-  </tr>
-</table>
+<style>H1{color:Blue;}</style>
+<style>H2{color:Blue;}</style>
+<style>H3{color:Blue;}</style>
 
-
-IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
-
+# X
+## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 ### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
 |-|-|-|-|
