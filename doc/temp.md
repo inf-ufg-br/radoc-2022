@@ -2,17 +2,13 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-IV – 2 Atividades Administrativas
+*** IV – 2 ATIVIDADES ADMINISTRATIVAS
 
-Item
+### IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG
+|Item|Descrição|Pontos|**_Link_ para Orientação**|
+|-|-|-|-|
+|1|Coordenador de projeto institucional com financiamento ou<br>de contratos e convênio com plano de trabalho aprovado|5<br>(para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 
-Descrição
-
-Pontos
-
-Fonte da Informação
-
-Requisitos
 
 1
 
