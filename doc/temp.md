@@ -30,14 +30,12 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.3	Com classificação Qualis C**|3 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |20|Editor de revistas, periódicos ou jornais com periodicidade regular<br>**20.4	Sem classificação Qualis**|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |21|Membro de comitê de assessoramento de agências oficiais de fomento<br>(FAPs, Finep, Capes, CNPq)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|22|Membros de Comissões ou Conselhos ou<br>Comitês de Órgãos Governamentais (INEP, CNE, outros)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 
-22	Membros de Comissões ou Conselhos ou Comitês de Órgãos Governamentais (INEP, CNE, outros)	5
-(por mês)	[Registro oriundo de Portaria](./portaria.md)
-Item	Descrição	Pontos	Fonte da Informação
-1	Representante titular em conselho de classe profissional com carga horária igual ou superior a
-150 horas	10
-(para 12 meses)
-(para 150h)	[Registro oriundo de Portaria](./portaria.md)
+### IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG
+|Item|Descrição|Pontos|**_Link_ para Orientação**|
+|-|-|-|-|
+|1|Representante titular em conselho de classe profissional<br>com carga horária igual ou superior a 150 horas|10<br>(para 12 meses)<br>(para 150h)|[Registro oriundo de Portaria](./portaria.md)|
 
 
 2	Presidente do Sindicato de Docentes da UFG	10
