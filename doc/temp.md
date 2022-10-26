@@ -6,8 +6,7 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |Item|Descrição|Pontos|**_Link_**|
 |-|-|-|-|
 |1|Presidente da CPPD|7 (por mês)|[Portaria](./portaria.md)|
-|2|Presidente dos Comitês de Ética em Pesquisa (CEP) ou das Comissões de Ética no Uso de
-Animais (CEUA)|6 (por mês)|[Portaria](./portaria.md)|
+|2|Presidente dos Comitês de Ética em Pesquisa (CEP) ou das Comissões de Ética no Uso de Animais (CEUA)|6 (por mês)|[Portaria](./portaria.md)|
 
 
 3	Presidente da Comissão de Avaliação Institucional ou da Comissão Própria de Avaliação	5
