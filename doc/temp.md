@@ -9,7 +9,7 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |2|Coordenador de curso de especialização, residência médica ou<br>residência multiprofissional em saúde|10 (para 12 meses) (máx. 10)|[Registro oriundo de Portaria](./portaria.md)|
 |3|Vice-Diretor do CIAR ou Subcoordenadores de Cursos<br>de Graduação e de Pós-Graduação stricto sensu|4 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |4|Membro representante de classe da carreira docente no CONSUNI|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
-|5|Membro do Conselho de Curadores ou das Câmaras Superiores Setoriais ou<br>do Plenário do CEPEC ou de Conselho de Fundações	|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
+|5|Membro do Conselho de Curadores ou das Câmaras Superiores Setoriais ou do Plenário do CEPEC ou de Conselho de Fundações	|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |5.1|Membro do Conselho Gestor das Regionais <br>ou das Câmaras Regionais Setoriais|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |6|Atividades acadêmicas e administrativas designadas<br>por portaria do Reitor, Pró-Reitor ou Diretor de Unidade Acadêmica,<br>ou Chefe de Unidade Acadêmica Especial ou o Diretor do CEPAE|-|-|
 |6.1|.... Com carga horária menor ou igual a 30 horas|2<br>(para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
