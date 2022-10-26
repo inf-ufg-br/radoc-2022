@@ -7,11 +7,10 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
 |-|-|-|-|
 |1|Presidente da CPPD|7 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
-|2|Presidente dos Comitês de Ética em Pesquisa (CEP)<br>ou das Comissões de Ética no Uso de Animais (CEUA)|6 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|2|Presidente dos Comitês de Ética em Pesquisa (CEP) ou<br>das Comissões de Ética no Uso de Animais (CEUA)|6 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+|3|Presidente da Comissão de Avaliação Institucional ou<br>da Comissão Própria de Avaliação|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 
-
-3	Presidente da Comissão de Avaliação Institucional ou da Comissão Própria de Avaliação	5
-(por mês)	[Portaria](./portaria.md)
+[Portaria](./portaria.md)
 4	Membros da Coordenação Permanente do Centro de Seleção	5
 (por mês)	[Portaria](./portaria.md)
 5	Diretores do Hospital das Clínicas	5
