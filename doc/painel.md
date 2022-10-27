@@ -6,6 +6,7 @@ O painel apresentado a seguir apoia o docente no processo de alimentar o seu RAD
 |[![FLipkart](../media/painel-zero-apresentacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./apoio-institucional.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-zero-interacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./temp.md#inserção-de-registros-no-radoc/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./lattes.md/)
 
+Fim &#9997;
 
 ## Inserção de Registros no RADOC
 
