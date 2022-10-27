@@ -2,7 +2,7 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-mural.jpg)](./lattes.md/)
+[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-fluxos.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-mural-inf.jpg)](./lattes.md/)
 
 [![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)[![FLipkart](../media/painel-producao-intelectual.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-extensao.jpg)](./lattes.md/)[![FLipkart](../media/painel-administracao.jpg)](./lattes.md/)[![FLipkart](../media/painel-representacao.jpg)](./lattes.md/)
