@@ -8,29 +8,8 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 [![FLipkart](../media/painel-extensao.jpg)](./lattes.md/)[![FLipkart](../media/painel-administracao.jpg)](./lattes.md/)[![FLipkart](../media/painel-representacao.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-outras-atividades.jpg)](./lattes.md/)[![FLipkart](../media/painel-afastamento.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
 
-<img src="../media/painel-ensino.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-producao-intelectual.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-pesquisa.jpg" width="160">[**GO**]()<br>
-<img src="../media/painel-branco.jpg" width="6"><br>
-<img src="../media/painel-extensao.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-administracao.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-representacao.jpg" width="160">[**GO**]()<br>
-<img src="../media/painel-branco.jpg" width="6"><br>
-<img src="../media/painel-outras-atividades.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-afastamento.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-representacao.jpg" width="160">[**GO**]()<br>
 
-<table>
-<thead>
-<tr>
-  <th>First Header</th>
-  <th>Second Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>Content Cell</td>
-  <td>Content Cell</td>
-</tr>
-<tr>
-  <td>Content Cell</td>
-  <td>Content Cell</td>
-</tr>
-</tbody>
+
 </table>
 
 ## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
