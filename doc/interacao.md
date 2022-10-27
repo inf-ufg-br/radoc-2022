@@ -6,11 +6,11 @@ A interação com a Comissão RADOC 2022 ocorre via a inserção de "issues" do 
 - Clique [**AQUI**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
-1. clicar em "Issues" ;
-1. clicar em "new issue" ;
-1. selecionar o tipo de comunicação: "dificuldade" ou "sugestão" ;
-1. preencher o _template_ para introduzir a comunicação.
-1. a comissão formulará uma resposta para o docente.
-1. o docente será notificado por e-mail sobre a resposta formulada.
+1. Clicar em "Issues".
+1. Clicar em "new issue".
+1. Selecionar o tipo de comunicação: "dificuldade" ou "sugestão".
+1. Preencher o _template_ para introduzir a comunicação.
+1. A comissão formulará uma resposta para o docente.
+1. O docente será notificado por e-mail sobre a resposta formulada.
 
 Fim &#9997;
