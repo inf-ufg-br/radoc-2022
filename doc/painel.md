@@ -1,6 +1,7 @@
 # Mural INF/UFG sobre o RADOC/SICAD+
 
 O painel apresentado a seguir apoia o docente no processo de alimentar o seu RADOC, no contexto do SICAD+.
+<br><br><br>
 
 [![FLipkart](../media/painel-zero-apresentacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./apoio-institucional.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-zero-interacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./temp.md#inserção-de-registros-no-radoc/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./lattes.md/)
