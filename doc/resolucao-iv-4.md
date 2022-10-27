@@ -1,7 +1,7 @@
 ## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
 ### IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG
 
-<details><summary>Atividades Acadêmicas – Orientação:</summary>
+<details><summary><b>Atividades Acadêmicas – Orientação:</b></summary>
 <br>
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
 |-|-|-|-|
