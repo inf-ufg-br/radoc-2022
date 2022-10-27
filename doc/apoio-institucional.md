@@ -5,7 +5,9 @@ O Apoio Institucional ao RADOC/SICAD+ são as **orientações oficiais** da UFG,
 - Acesso às [Perguntas Frequentes (FAQ) do SICAD+](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).
 - Acesso às [Fontes de informação do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad).
 - Acesso às [Atualizações do SICAD+](https://cercomp.ufg.br/p/versoes-sicad).
-- E-mail para relatar problemas no _software_ SICAD+: **sicad@ufg.br**
+- Em caso de problemas:
+  - Checar se os dados foram inseridos corretamente no sistema de origem (por exemplo, SIGAA, Lattes, SIGRH-Portarias).
+  - Se estiver tudo correto no sistema de origem e o problema permanecer no SICAD+, entre em contato através do e-mail sicad@ufg.br ou abra um chamado para o CERCOMP em https://oscercomp.ufg.br/.
 
 A **principal postagem** do apoio institucional é [Fontes de informação do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad):
 - Todos os tipos de registro para o RADOC são descritos e identificados, conforme o **Anexo II** da [Resolução CONSUNI 18/2017](https://sistemas.ufg.br/consultas_publicas/resolucoes/arquivos/Resolucao_CONSUNI_2017_0018.pdf).
