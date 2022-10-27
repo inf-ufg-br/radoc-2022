@@ -1,8 +1,4 @@
-temporário
-
-A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
-
-## Orientações sobre o RADOC/SICAD+
+# Orientações sobre o RADOC/SICAD+
 
 [![FLipkart](../media/painel-zero-apresentacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-zero-interacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./temp.md#inserção-de-registros-no-radoc/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./lattes.md/)
