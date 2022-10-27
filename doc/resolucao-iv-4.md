@@ -2,7 +2,7 @@
 ### IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG
 
 <details><summary>Atividades Acadêmicas – Orientação:</summary>
-
+<br>
 |Item|Descrição|Pontos|**_Link_ para Orientação**|
 |-|-|-|-|
 |1|Representante titular em conselho de classe profissional<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./portaria.md)|
