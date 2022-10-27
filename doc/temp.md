@@ -5,7 +5,7 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 ## Orientações sobre o RADOC/SICAD+
 
 [![FLipkart](../media/painel-zero-apresentacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)
-[![FLipkart](../media/painel-zero-interacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./lattes.md/)
+[![FLipkart](../media/painel-zero-interacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./#inserção-de-Registros-no-RADOC/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./lattes.md/)
 
 
 ## Inserção de Registros no RADOC
