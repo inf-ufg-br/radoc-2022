@@ -2,18 +2,10 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-feature_row:
-  - image_path: ../media/painel-ensino.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "./lattes.md/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+|x|
+|-|
 
-{% include feature_row %}
-
-[![FLipkart](../media/painel-ensino.jpg)](./lattes.md/) [[FLipkart](../media/producao-intelectual.jpg)](./lattes.md/)
+[![FLipkart](../media/painel-ensino.jpg)](./lattes.md/) 
 
 
 <img src="../media/painel-ensino.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-producao-intelectual.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-pesquisa.jpg" width="160">[**GO**]()<br>
