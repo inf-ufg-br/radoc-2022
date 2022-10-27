@@ -7,7 +7,7 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 [![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-mural-inf.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-fluxos.jpg)](./lattes.md/)
 
 
-## Inserção de Registros RADOC
+## Inserção de Registros no RADOC
 
 [![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)[![FLipkart](../media/painel-producao-intelectual.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-extensao.jpg)](./lattes.md/)[![FLipkart](../media/painel-administracao.jpg)](./lattes.md/)[![FLipkart](../media/painel-representacao.jpg)](./lattes.md/)
