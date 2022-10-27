@@ -2,7 +2,10 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-TESTE<img src="../media/fluxo-outras.jpg" width="200">TESTE&#32;&#32;&#32;&#32;&#32;&#32;&#32;<img src="../media/fluxo-outras.jpg" width="200">TESTE
+<img src="../media/fluxo-outras.jpg" width="200">TESTE
+<img src="../media/fluxo-outras.jpg" width="200">TESTE
+<img src="../media/fluxo-outras.jpg" width="200">TESTE
+<img src="../media/fluxo-outras.jpg" width="200">TESTE
 
 
 <table>
