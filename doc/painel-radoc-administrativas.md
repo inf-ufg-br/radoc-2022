@@ -1,7 +1,7 @@
 
 # RADOC &#x2015; Administrativas
 
-<img src="../media/painel-administracao.jpg" width="200">
+<img src="../media/painel-administracao.jpg" width="150">
 
 <details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
   
