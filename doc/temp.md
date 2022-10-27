@@ -4,8 +4,7 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 
 |x|
 |-|
-
-[![FLipkart](../media/painel-ensino.jpg)](./lattes.md/) 
+| [![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)  |
 
 
 <img src="../media/painel-ensino.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-producao-intelectual.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-pesquisa.jpg" width="160">[**GO**]()<br>
