@@ -40,6 +40,7 @@
 |6.4|....	Com carga horária maior do que 90 horas e menor ou igual a 120 horas|8 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |6.5|.... Com carga horária maior do que 120 horas e menor ou igual a 150 horas|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |6.6|.... Com carga horária maior do que 150 horas|12 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
+</details>
 
 <details><summary><b><H2>IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS</H2></b></summary>
   
