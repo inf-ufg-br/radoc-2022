@@ -1,7 +1,9 @@
 
+# RADOC &#x2015; Representação
 
-### IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA
-|Item|Descrição|Pontos|**_Link_ para Orientação**|
+<details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
+  
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |2|Diretor de Regional da UFG|14 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
@@ -18,9 +20,12 @@
 |13|Vice-Diretor de Unidade Acadêmica ou<br>Subchefe de Unidade Acadêmica Especial ou do CEPAE|8 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |14|Diretor do Hospital Veterinário|8 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |15|Diretor de Órgão da Administração (CERCOMP, CGA, CEGRAF,<br>CIAR, DDRH, CS, SIASS, Museu, Rádio, Biblioteca etc.)|8 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+</details>
 
-### IV – 2 ATIVIDADES ADMINISTRATIVAS
-|Item|Descrição|Pontos|**_Link_ para Orientação**|
+
+<details><summary><b><H2>IV – 2 ATIVIDADES ADMINISTRATIVAS</H2></b></summary>
+  
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Coordenador de projeto institucional com financiamento ou de contratos e convênio com plano de trabalho aprovado|5 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |2|Coordenador de curso de especialização, residência médica ou residência multiprofissional em saúde|10 (para 12 meses) (máx. 10)|[Registro oriundo de Portaria](./portaria.md)|
@@ -36,8 +41,9 @@
 |6.5|.... Com carga horária maior do que 120 horas e menor ou igual a 150 horas|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 |6.6|.... Com carga horária maior do que 150 horas|12 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 
-### IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS  
-|Item|Descrição|Pontos|**_Link_ para Orientação**|
+<details><summary><b><H2>IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS</H2></b></summary>
+  
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Presidente da CPPD|7 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |2|Presidente dos Comitês de Ética em Pesquisa (CEP) ou<br>das Comissões de Ética no Uso de Animais (CEUA)|6 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
@@ -65,13 +71,6 @@
 |20.4|.... Sem classificação Qualis|2 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |21|Membro de comitê de assessoramento de agências oficiais de fomento<br>(FAPs, Finep, Capes, CNPq)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
 |22|Membros de Comissões ou Conselhos ou<br>Comitês de Órgãos Governamentais (INEP, CNE, outros)|5 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+</details>
 
-### IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG
-|Item|Descrição|Pontos|**_Link_ para Orientação**|
-|-|-|-|-|
-|1|Representante titular em conselho de classe profissional<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./portaria.md)|
-|2|Presidente do Sindicato de Docentes da UFG|10 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
-|3|Diretor do Sindicato de Docentes da UFG|3 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
-|4|Representante sindical<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./portaria.md)|
-|5|Representante em entidade científica, artística e cultural<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./portaria.md)|
-|6|Representante em comissão de órgão governamental<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./portaria.md)|
+Fim &#9997;
