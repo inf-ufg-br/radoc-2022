@@ -1,4 +1,4 @@
-# Apoio institucional
+# Apoio Institucional
 
 O Apoio Institucional ao RADOC/SICAD+ são as **orientações oficiais** da UFG, incluindo as postagens:
 - Acesso ao [Tutorial do SICAD+](https://cercomp.ufg.br/p/40704-tutorial-sicad).
