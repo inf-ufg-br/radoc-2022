@@ -2,10 +2,10 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-<img src="../media/painel-ensino.jpg" width="200">TESTE<img src="../media/branco.jpg" width="100"><img src="../media/painel-ensino.jpg" width="200">TESTE<br>
-<img src="../media/branco.jpg" width="30"><br>
+<img src="../media/painel-ensino.jpg" width="200">TESTE<img src="../media/painel-branco.jpg" width="100"><img src="../media/painel-ensino.jpg" width="200">TESTE<br>
+<img src="../media/painel-branco.jpg" width="30"><br>
 <img src="../media/painel-ensino.jpg" width="200">TESTE<br>
-<img src="../media/branco.jpg" width="30"><br>
+<img src="../media/painel-branco.jpg" width="30"><br>
 <img src="../media/painel-ensino.jpg" width="200">TESTE<br>
 
 
