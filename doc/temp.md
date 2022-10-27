@@ -5,7 +5,8 @@ A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5
 <img src="../media/painel-ensino.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-producao-intelectual.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-pesquisa.jpg" width="160">[**@**]()<br>
 <img src="../media/painel-branco.jpg" width="8"><br>
 <img src="../media/painel-extensao.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-administracao.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-representacao.jpg" width="160">[**@**]()<br>
-
+<img src="../media/painel-branco.jpg" width="8"><br>
+<img src="../media/painel-outras-atividades.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-afastamento.jpg" width="160">[**@**]()<img src="../media/painel-branco.jpg" width="10"><img src="../media/painel-representacao.jpg" width="160">[**@**]()<br>
 
 <table>
 <thead>
