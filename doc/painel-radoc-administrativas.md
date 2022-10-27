@@ -1,5 +1,5 @@
 
-# RADOC &#x2015; Representação
+# RADOC &#x2015; Administrativas
 
 <details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
   
