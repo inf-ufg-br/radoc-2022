@@ -2,9 +2,9 @@ temporário
 
 A Alterar [aqui](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429)
 
-|x|y|
+
 |-|-|
-| [![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)  | [![FLipkart](../media/painel-ensino.jpg)](./lattes.md/) |
+|[![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)|[![FLipkart](../media/painel-producao-intelectual.jpg)](./lattes.md/)|[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)|
 
 
 <img src="../media/painel-ensino.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-producao-intelectual.jpg" width="160">[**GO**]()<img src="../media/painel-branco.jpg" width="15"><img src="../media/painel-pesquisa.jpg" width="160">[**GO**]()<br>
