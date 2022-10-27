@@ -8,13 +8,6 @@ O painel apresentado a seguir apoia o docente no processo de alimentar o seu RAD
 
 Fim &#9997;
 
-## Inserção de Registros no RADOC
-
-[![FLipkart](../media/painel-ensino.jpg)](./lattes.md/)[![FLipkart](../media/painel-producao-intelectual.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
-[![FLipkart](../media/painel-extensao.jpg)](./lattes.md/)[![FLipkart](../media/painel-administracao.jpg)](./lattes.md/)[![FLipkart](../media/painel-representacao.jpg)](./lattes.md/)
-[![FLipkart](../media/painel-outras-atividades.jpg)](./lattes.md/)[![FLipkart](../media/painel-afastamento.jpg)](./lattes.md/)
-
-
 </table>
 
 ## IV - ATIVIDADES ADMINISTRATIVAS E DE REPRESENTAÇÃO
