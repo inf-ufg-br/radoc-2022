@@ -1,8 +1,8 @@
 # RADOC &#x2015; Representação
 
-<img src="../media/painel-representacao.jpg" width="150">
+<img src="../media/painel-representacao.jpg" width="150"> Clique em uma das categorias abaixo, para **instruções** sobre o tipo de registro RADOC.
 
-<details><summary><b><H2>IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG</H2></b></summary>
+<details><summary><b><H3>IV – 4 ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG</H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
