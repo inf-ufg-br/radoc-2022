@@ -18,9 +18,9 @@
 |4.2|.... Nacional|6|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4.3|....	Regional ou Local|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5|Resumo simples publicado em anais de congresso|(máx. 10)|-|
-|5.1|Internacional|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|5.2|Nacional|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|5.3|Regional ou Local|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5.1|.... Internacional|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5.2|.... Nacional|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5.3|.... Regional ou Local|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
 6	Trabalho completo publicado em anais de congresso científico	10
