@@ -4,7 +4,7 @@
 
 <details><summary><b><H3>TABELA V–1) <ins>ATIVIDADES ACADÊMICAS – ORIENTAÇÃO</ins></H3></b></summary>
   
-|Item|Descrição|Pontos|**Origem do registro**|
+|Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
 |1|Aluno orientado em tese de doutorado defendida e aprovada|20|[&#9752; _Lattes_](./fonte-lattes.md)|
 |2|Aluno co-orientado em tese de doutorado defendida e aprovada|7|[&#9752; _Lattes_](./fonte-lattes.md)|
