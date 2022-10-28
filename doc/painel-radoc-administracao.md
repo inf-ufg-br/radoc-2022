@@ -3,7 +3,7 @@
 |[![FLipkart](../media/painel-administracao.jpg)](.)|teste|
 
 
-|<img src="../media/painel-administracao.jpg" width="150">|treste |
+<img src="../media/painel-administracao.jpg" width="150"> > teste
 
 > Clique em uma das categorias abaixo, para selecionar o tipo de registro RADOC.
 
