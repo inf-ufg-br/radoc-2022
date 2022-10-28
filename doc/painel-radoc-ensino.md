@@ -22,8 +22,8 @@
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Coordenador de projeto de ensino com comprovação de financiamento (exceto bolsas)|10|[Registro importado de Sistemas UFG](./portaria.md)|
-|2|	Coordenador de projeto de ensino sem financiamentoo|5 (máx. 10)|[Registro importado de Sistemas UFG](./portaria.md)|
+|1|Coordenador de projeto de ensino<br>com comprovação de financiamento (exceto bolsas)|10|[Registro importado de Sistemas UFG](./portaria.md)|
+|2|	Coordenador de projeto de ensino<br>sem financiamentoo|5 (máx. 10)|[Registro importado de Sistemas UFG](./portaria.md)|
 </details>
 
 Fim &#9997;
