@@ -2,7 +2,7 @@
 
 <img src="../media/painel-outras-atividades.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
-<details><summary><b><H3>TABELA V–1) <ins>ATIVIDADES ACADÊMICAS - ORIENTAÇÃO</ins></H3></b></summary>
+<details><summary><b><H3>TABELA V–1) <ins>ATIVIDADES ACADÊMICAS – ORIENTAÇÃO</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
