@@ -1,4 +1,4 @@
-## Inserção de Registros no RADOC
+## Alimentar o RADOC
 
 O Painel abaixo orienta o docente sobre as **instruções para a inserção** de registros no RADOC:
 1. Clique no quadro que melhor denota o registro a ser inserido.
