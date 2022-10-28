@@ -16,8 +16,8 @@
 |8|Aluno co-orientado em dissertação de mestrado em andamento|3|[&#9752; _Lattes_](./fonte-lattes.md)|
 |9|Aluno orientado em monografia de especialização aprovada|8<br>(máx. 24)|[&#9752; _Lattes_](./fonte-lattes.md)|
 |10|Aluno orientado em monografia de especialização em andamento|4<br>(máx. 12)|[&#9752; _Lattes_](./fonte-lattes.md)|
-|11|Aluno orientado em residência médica ou em residência multiprofissional em saúde|5|[&#9728; Manual](./fonte-insercao.md)|
-|12|Aluno orientado em estágio curricular obrigatório|3|[&#9728; Manual](./fonte-insercao.md)|
+|11|Aluno orientado em residência médica ou em residência multiprofissional em saúde|5|[&#9728; Manual](./fonte-manual.md)|
+|12|Aluno orientado em estágio curricular obrigatório|3|[&#9728; Manual](./fonte-manual.md)|
 |13|Aluno orientado em projeto de final de curso|3|[&#9752; _Lattes_](./fonte-lattes.md)|
 |14|Aluno de outra IFE orientado em tese de doutorado defendida e aprovada|6|[&#9752; _Lattes_](./fonte-lattes.md)|
 |15|Aluno de outra IFE co-orientado em tese de doutorado defendida e aprovada|3|[&#9752; _Lattes_](./fonte-lattes.md)|
@@ -29,18 +29,18 @@
 |21|Aluno de outra IFE co-orientado em dissertação de mestrado em andamento|1|[&#9752; _Lattes_](./fonte-lattes.md)|
 |22|Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)|6|[&#9752; _Lattes_](./fonte-lattes.md)|
 Manual](./fonte-insercao.md)|
-|24|Aluno orientado em programa especial de treinamento (PET)|5|[&#9728; Manual](./fonte-insercao.md)|
-|25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|[&#9728; Manual](./fonte-insercao.md)|
-|26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[&#9728; Manual](./fonte-insercao.md)|
+|24|Aluno orientado em programa especial de treinamento (PET)|5|[&#9728; Manual](./fonte-manual.md)|
+|25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|[&#9728; Manual](./fonte-manual.md)|
+|26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[&#9728; Manual](./fonte-manual.md)|
 |27|Aluno orientado em programa de monitoria|3|[&#10084; Sistemas](./fonte-sistema.md)|
-|28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[&#9728; Manual](./fonte-insercao.md)|
-|29|Aluno orientado em prática como componente curricular (PCC)|1|[&#9728; Manual](./fonte-insercao.md)|
-|30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[&#9728; Manual](./fonte-insercao.md)|
+|28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[&#9728; Manual](./fonte-manual.md)|
+|29|Aluno orientado em prática como componente curricular (PCC)|1|[&#9728; Manual](./fonte-manual.md)|
+|30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[&#9728; Manual](./fonte-manual.md)|
 |31|Pesquisador supervisionado em estágio de pós-doutoramento (PRODOC, PNPD, DCR, PDJ, PDS e similares)|8|[&#9752; _Lattes_](./fonte-lattes.md)|
-|32|Aluno orientado em atividade de Preceptoria|1|[&#9728; Manual](./fonte-insercao.md)|
-|33|Aluno orientado em atividade de Tutoria|1|[&#9728; Manual](./fonte-insercao.md)|
-|34|Aluno orientado em Programa de Intercâmbio Internacional|1|[&#9728; Manual](./fonte-insercao.md)|
-|35|Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial|4<br>(máx. 20)|[&#9728; Manual](./fonte-insercao.md)|
+|32|Aluno orientado em atividade de Preceptoria|1|[&#9728; Manual](./fonte-manual.md)|
+|33|Aluno orientado em atividade de Tutoria|1|[&#9728; Manual](./fonte-manual.md)|
+|34|Aluno orientado em Programa de Intercâmbio Internacional|1|[&#9728; Manual](./fonte-manual.md)|
+|35|Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial|4<br>(máx. 20)|[&#9728; Manual](./fonte-manual.md)|
 </details>
 
 Fim &#9997;
