@@ -27,27 +27,20 @@
 |19|Aluno de outra IFE co-orientado em dissertação de mestrado defendida e aprovada|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |20|Aluno de outra IFE orientado em dissertação de mestrado em andamento|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |21|Aluno de outra IFE co-orientado em dissertação de mestrado em andamento|1|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|22|Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)|6|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|23|Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares|5|[O docente insere o registro](./fonte-insercao.md)|
+|24|Aluno orientado em programa especial de treinamento (PET)|5|[O docente insere o registro](./fonte-insercao.md)|
+|25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|[O docente insere o registro](./fonte-insercao.md)|
+|26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[O docente insere o registro](./fonte-insercao.md)|
+|27|Aluno orientado em programa de monitoria|3|[Registro importado de Sistemas UFG](./fonte-sistema.md)|
+|28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[O docente insere o registro](./fonte-insercao.md)|
+|29|Aluno orientado em prática como componente curricular (PCC)|1|[O docente insere o registro](./fonte-insercao.md)|
+|30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[O docente insere o registro](./fonte-insercao.md)|
+|31|Pesquisador supervisionado em estágio de pós-doutoramento (PRODOC, PNPD, DCR, PDJ, PDS e similares)|8|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|32|Aluno orientado em atividade de Preceptoria|1|[O docente insere o registro](./fonte-insercao.md)|
+|33|Aluno orientado em atividade de Tutoria|1|[O docente insere o registro](./fonte-insercao.md)|
+|34|Aluno orientado em Programa de Intercâmbio Internacional|1|[O docente insere o registro](./fonte-insercao.md)|
+|35|Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial|4<br>(máx. 20)|[O docente insere o registro](./fonte-insercao.md)|
 </details>
-
-
-22	Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)	6
-23	Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares	5
-24	Aluno orientado em programa especial de treinamento (PET)	5
-25	Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino	4
-26	Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino	3
-27	Aluno orientado em programa de monitoria	3
-28	Aluno orientado em estágio curricular não obrigatório ou estágio docência	2
-29	Aluno orientado em prática como componente curricular (PCC)	1
-30	Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso	20
-(máx. 40)
-31	Pesquisador supervisionado em estágio de pós-doutoramento (PRODOC, PNPD, DCR, PDJ,
-PDS e similares)	8
-32	Aluno orientado em atividade de Preceptoria	1
-33	Aluno orientado em atividade de Tutoria	1
-34	Aluno orientado em Programa de Intercâmbio Internacional	1
-35	Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial	4
-(máx. 20)
-
-
 
 Fim &#9997;
