@@ -31,7 +31,7 @@
 |23|Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares|5|[&#9728; O docente insere o registro](./fonte-insercao.md)|
 |24|Aluno orientado em programa especial de treinamento (PET)|5|&#9728; [O docente insere o registro](./fonte-insercao.md)|
 |25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|&#9728; [O docente insere o registro](./fonte-insercao.md)|
-|26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[O docente insere o registro](./fonte-insercao.md)|
+|26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|&#9728; [O docente insere o registro](./fonte-insercao.md)|
 |27|Aluno orientado em programa de monitoria|3|&#10084; [Registro importado de Sistemas UFG](./fonte-sistema.md)|
 |28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[&#9728; O docente insere o registro](./fonte-insercao.md)|
 |29|Aluno orientado em prática como componente curricular (PCC)|1|&#9728; [O docente insere o registro](./fonte-insercao.md)|
