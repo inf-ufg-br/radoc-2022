@@ -1,11 +1,6 @@
 # RADOC &#x2015; Administrativas
 
-|[![FLipkart](../media/painel-administracao.jpg)](.)|teste|
-
-
-<img src="../media/painel-administracao.jpg" width="150"> > teste
-
-> Clique em uma das categorias abaixo, para selecionar o tipo de registro RADOC.
+<img src="../media/painel-administracao.jpg" width="150"> **Clique em uma das categorias abaixo, para selecionar o tipo de registro RADOC.**
 
 <details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
 
