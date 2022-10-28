@@ -53,33 +53,28 @@
 |3|Criação de trilha sonora para cinema, televisão ou teatro|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4|Criação e produção de projeto de iluminação cênica,<br>figurinos, formas animadas e similares|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5|Design de impressos por peça|1<br>(máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|6|Exposições e apresentações artísticas locais ou regionais|-|-|
+|6.1|.... Participação individual, camerista, solista ou ator principal|16|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|6.2|.... Participação coletiva ou coadjuvante|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|7	Exposições e apresentações artísticas nacionais|-|-|
+|7.1|.... Participação individual, camerista, solista ou ator principal|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|7.2|.... Participação coletiva ou coadjuvante|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|8	Exposições e apresentações artísticas internacionais|-|-|
+|8.1|.... Participação individual, camerista, solista ou ator principal|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|8.2|.... Participação coletiva ou coadjuvante|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9	Composições musicais|-|-|
+|9.1|.... Editadas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9.2|.... Publicadas em revistas científicas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9.3|.... Gravadas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9.4|.... Executadas em apresentações públicas|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|10	Produção artística, arquitetônica ou de design premiada em evento|-|-|
+|10.1|.... Local ou regional|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|10.2|.... Nacional|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|10.3|.... Internacional|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|11|Arranjos musicais (canto, coral e orquestral)|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|12|presentação artística ou cultural em rádio ou TV|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|13|Sonoplastia (cinema, música, rádio, televisão, teatro)|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|14|Fotos publicitárias, jornalísticas, portfólio ou dossiê jornalístico,<br>ensaio jornalístico ou artístico, charge ou ilustração|3 (máx. 15)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
-
-Item	Descrição	Pontos
-6	Exposições e apresentações artísticas locais ou regionais	-
-6.1	Participação individual, camerista, solista ou ator principal	16
-6.2	Participação coletiva ou coadjuvante	5
-7	Exposições e apresentações artísticas nacionais	-
-7.1	Participação individual, camerista, solista ou ator principal	20
-7.2	Participação coletiva ou coadjuvante	10
-8	Exposições e apresentações artísticas internacionais	-
-8.1	Participação individual, camerista, solista ou ator principal	20
-8.2	Participação coletiva ou coadjuvante	15
-9	Composições musicais	-
-9.1	Editadas	20
-9.2	Publicadas em revistas científicas	20
-9.3	Gravadas	20
-9.4	Executadas em apresentações públicas	15
-10	Produção artística, arquitetônica ou de design premiada em evento	-
-10.1	Local ou regional	5
-10.2	Nacional	10
-10.3	Internacional	15
-11	Arranjos musicais (canto, coral e orquestral)	5
-12	Apresentação artística ou cultural em rádio ou TV	5
-13	Sonoplastia (cinema, música, rádio, televisão, teatro)	3
-14	Fotos publicitárias, jornalísticas, portfólio ou dossiê
-jornalístico , ensaio jornalístico ou artístico, charge ou ilustração	3
-(máx. 15)
-
 
 Fim &#9997;
