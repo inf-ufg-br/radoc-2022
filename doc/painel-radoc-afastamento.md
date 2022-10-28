@@ -4,6 +4,6 @@
 
 |Descrição|**COMO INCLUIR**|
 |-|-|
-|Afastamentos do docente|[&#10084; Sistemas](./fonte-sistema.md)<br>Importação de registros a partir do **SIGRH > Cadastro**|
+|Afastamentos do docente|[&#10084; Sistemas](./fonte-sistema.md)<br>Registros importados a partir do **SIGRH > Cadastro**|
 
 Fim &#9997;
