@@ -43,7 +43,7 @@
 |6.6|.... Com carga horária maior do que 150 horas|12 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 </details>
 
-<details><summary><b><H3>TABELA IV – 3) <ins>OUTRAS ATIVIDADES ADMINISTRATIVAS</ins></H3></b></summary>
+<details><summary><b><H3>TABELA IV–3) <ins>OUTRAS ATIVIDADES ADMINISTRATIVAS</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
