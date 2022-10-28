@@ -41,21 +41,21 @@
 |20|Bolsista de Produtividade do CNPq|20<br>(para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
 </details>
 
+<details><summary><b><H3>TABELA II–2) <ins>PRODUÇÃO ARTÍSTICA E CULTURAL</ins></H3></b></summary>
+
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Criação, produção e direção de filmes, vídeos, discos,<br>audiovisuais, coreografias, peças teatrais, óperas ou musicais,<br>ou musicais apresentados em eventos|-|-|
+|1.1|.... Locais ou regionais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1.2|.... Nacionais|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1.3|.... Internacionais|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|2|Criação e produção do projeto gráfico de livros: concepção gráfica (mancha gráfica, diagramação, escolha de fonte)|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|3|Criação de trilha sonora para cinema, televisão ou teatro|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|4|Criação e produção de projeto de iluminação cênica,<br>figurinos, formas animadas e similares|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5|Design de impressos por peça|1 (máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
 Item	Descrição	Pontos
-1	Criação, produção e direção de filmes, vídeos, discos, audiovisuais, coreografias, peças teatrais, óperas ou musicais, ou musicais apresentados em eventos	-
-1.1	Locais ou regionais	10
-1.2	Nacionais	15
-1.3	Internacionais	20
-2	Criação e produção do projeto gráfico de livros: concepção gráfica (mancha gráfica, diagramação, escolha de fonte)	10
-3	Criação de trilha sonora para cinema, televisão ou teatro	15
-4	Criação e produção de projeto de iluminação cênica, figurinos, formas animadas e similares	15
-5	Design de impressos por peça	1
-(máx. 20)
 6	Exposições e apresentações artísticas locais ou regionais	-
 6.1	Participação individual, camerista, solista ou ator principal	16
 6.2	Participação coletiva ou coadjuvante	5
