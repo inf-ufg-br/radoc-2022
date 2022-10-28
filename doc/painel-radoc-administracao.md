@@ -2,7 +2,7 @@
 
 <img src="../media/painel-administracao.jpg" width="150"> **Clique em uma das categorias abaixo, para orientações sobre o tipo de registro RADOC.**
 
-<details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
+<details><summary><b><H3>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H3></b></summary>
 
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
