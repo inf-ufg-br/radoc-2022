@@ -41,4 +41,45 @@
 |20|Bolsista de Produtividade do CNPq|20<br>(para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
 </details>
 
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|-|-|-|-|
+|1|Criação, produção e direção de filmes, vídeos, discos,<br>audiovisuais, coreografias, peças teatrais, óperas ou musicais,<br>ou musicais apresentados em eventos|-|-|
+</details>
+
+Item	Descrição	Pontos
+1	Criação, produção e direção de filmes, vídeos, discos, audiovisuais, coreografias, peças teatrais, óperas ou musicais, ou musicais apresentados em eventos	-
+1.1	Locais ou regionais	10
+1.2	Nacionais	15
+1.3	Internacionais	20
+2	Criação e produção do projeto gráfico de livros: concepção gráfica (mancha gráfica, diagramação, escolha de fonte)	10
+3	Criação de trilha sonora para cinema, televisão ou teatro	15
+4	Criação e produção de projeto de iluminação cênica, figurinos, formas animadas e similares	15
+5	Design de impressos por peça	1
+(máx. 20)
+6	Exposições e apresentações artísticas locais ou regionais	-
+6.1	Participação individual, camerista, solista ou ator principal	16
+6.2	Participação coletiva ou coadjuvante	5
+7	Exposições e apresentações artísticas nacionais	-
+7.1	Participação individual, camerista, solista ou ator principal	20
+7.2	Participação coletiva ou coadjuvante	10
+8	Exposições e apresentações artísticas internacionais	-
+8.1	Participação individual, camerista, solista ou ator principal	20
+8.2	Participação coletiva ou coadjuvante	15
+9	Composições musicais	-
+9.1	Editadas	20
+9.2	Publicadas em revistas científicas	20
+9.3	Gravadas	20
+9.4	Executadas em apresentações públicas	15
+10	Produção artística, arquitetônica ou de design premiada em evento	-
+10.1	Local ou regional	5
+10.2	Nacional	10
+10.3	Internacional	15
+11	Arranjos musicais (canto, coral e orquestral)	5
+12	Apresentação artística ou cultural em rádio ou TV	5
+13	Sonoplastia (cinema, música, rádio, televisão, teatro)	3
+14	Fotos publicitárias, jornalísticas, portfólio ou dossiê
+jornalístico , ensaio jornalístico ou artístico, charge ou ilustração	3
+(máx. 15)
+
+
 Fim &#9997;
