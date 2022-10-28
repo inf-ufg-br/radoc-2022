@@ -7,37 +7,37 @@
 |Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Artigo completo ou texto literário publicado em periódico|-|-|
-|1.1|.... Com classificação no Qualis/CAPES **A**|25||[&#9752; _Lattes_](./fonte-lattes.md)|
-|1.2|.... Com classificação no Qualis/CAPES **B**|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|1.3|.... Com classificação no Qualis/CAPES **C**|15||[&#9752; _Lattes_](./fonte-lattes.md)|
-|1.4|.... Não sujeito à classificação no Qualis/CAPES|10 (máx. 10)||[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.1|.... Com classificação no Qualis/CAPES **A**|25|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.2|.... Com classificação no Qualis/CAPES **B**|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.3|.... Com classificação no Qualis/CAPES **C**|15|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.4|.... Não sujeito à classificação no Qualis/CAPES|10 (máx. 10)|[&#9752; _Lattes_](./fonte-lattes.md)|
 |2|Resumo de artigo em periódicos especializados<br>nacional ou internacional com corpo editorial|5|[&#9728; Manual](./fonte-manual.md)|
 |3|Artigos ou textos literários em repositórios de<br>publicação eletrônica ligados a editoras ou universidades|5 (máx. 10)|[&#9728; Manual](./fonte-manual.md)|
 |4|Resumo expandido publicado em anais de congresso|(máx. 10)|-|
-|4.1|....	Internacional|8||[&#9752; _Lattes_](./fonte-lattes.md)|
-|4.2|.... Nacional|6||[&#9752; _Lattes_](./fonte-lattes.md)|
-|4.3|....	Regional ou Local|4||[&#9752; _Lattes_](./fonte-lattes.md)|
+|4.1|....	Internacional|8|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4.2|.... Nacional|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4.3|....	Regional ou Local|4|[&#9752; _Lattes_](./fonte-lattes.md)|
 |5|Resumo simples publicado em anais de congresso|(máx. 10)|-|
-|5.1|.... Internacional|4||[&#9752; _Lattes_](./fonte-lattes.md)|
-|5.2|.... Nacional|3||[&#9752; _Lattes_](./fonte-lattes.md)|
-|5.3|.... Regional ou Local|2||[&#9752; _Lattes_](./fonte-lattes.md)|
-|6|Trabalho completo publicado em anais de congresso científico|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|7|Livro publicado com selo de editora que possua corpo editorial|40||[&#9752; _Lattes_](./fonte-lattes.md)|
-|8|Livro publicado com selo de editora que não possua corpo editorial|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|9|Capítulo de livro publicado com selo de editora<br>que possua corpo editorial|10 (máx. 40)||[&#9752; _Lattes_](./fonte-lattes.md)|
-|10|Edição ou organização de livro (coletânea) publicado<br>com selo de editora que possua corpo editorial|12||[&#9752; _Lattes_](./fonte-lattes.md)|
-|11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5 (máx. 20)||[&#9752; _Lattes_](./fonte-lattes.md)|
-|12|Tradução de livro publicado com selo de editora que possua corpo editorial|20||[&#9752; _Lattes_](./fonte-lattes.md)|
+|5.1|.... Internacional|4|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5.2|.... Nacional|3|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5.3|.... Regional ou Local|2|[&#9752; _Lattes_](./fonte-lattes.md)|
+|6|Trabalho completo publicado em anais de congresso científico|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|7|Livro publicado com selo de editora que possua corpo editorial|40|[&#9752; _Lattes_](./fonte-lattes.md)|
+|8|Livro publicado com selo de editora que não possua corpo editorial|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|9|Capítulo de livro publicado com selo de editora<br>que possua corpo editorial|10 (máx. 40)|[&#9752; _Lattes_](./fonte-lattes.md)|
+|10|Edição ou organização de livro (coletânea) publicado<br>com selo de editora que possua corpo editorial|12|[&#9752; _Lattes_](./fonte-lattes.md)|
+|11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5 (máx. 20)|[&#9752; _Lattes_](./fonte-lattes.md)|
+|12|Tradução de livro publicado com selo de editora que possua corpo editorial|20|[&#9752; _Lattes_](./fonte-lattes.md)|
 |13|Tradução de artigos publicados em periódicos<br>com classificação no Qualis|10|[&#9728; Manual](./fonte-manual.md)|
 |14|Resenhas, prefácios ou verbetes|5|[&#9728; Manual](./fonte-manual.md)|
 |15|Tradução de resenhas, prefácios ou verbetes|2|[&#9728; Manual](./fonte-manual.md)|
-|16|Livro didático desenvolvido para projetos<br>institucionais/governamentais|10||[&#9752; _Lattes_](./fonte-lattes.md)|
+|16|Livro didático desenvolvido para projetos<br>institucionais/governamentais|10|[&#9752; _Lattes_](./fonte-lattes.md)|
 |17|Editor de Anais de Eventos|(máx. 1 evento)|-|
 |17.1|.... Internacional|15|[&#9728; Manual](./fonte-manual.md)|
 |17.2|.... Nacional|10|[&#9728; Manual](./fonte-manual.md)|
 |17.3|.... Regional ou Local|5|[&#9728; Manual](./fonte-manual.md)|
-|18|Dissertação de Mestrado defendida e aprovada<br>(sendo o docente o autor da dissertação)|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|19|Tese de Doutorado defendida e aprovada<br>(sendo o docente o autor da tese)|40||[&#9752; _Lattes_](./fonte-lattes.md)|
+|18|Dissertação de Mestrado defendida e aprovada<br>(sendo o docente o autor da dissertação)|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|19|Tese de Doutorado defendida e aprovada<br>(sendo o docente o autor da tese)|40|[&#9752; _Lattes_](./fonte-lattes.md)|
 |20|Bolsista de Produtividade do CNPq|20<br>(para 12 meses)|[&#9728; Manual](./fonte-manual.md)|
 </details>
 
@@ -46,49 +46,49 @@
 |Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Criação, produção e direção de filmes, vídeos, discos,<br>audiovisuais, coreografias, peças teatrais, óperas ou musicais,<br>ou musicais apresentados em eventos|-|-|
-|1.1|.... Locais ou regionais|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|1.2|.... Nacionais|15||[&#9752; _Lattes_](./fonte-lattes.md)|
-|1.3|.... Internacionais|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|2|Criação e produção do projeto gráfico de livros: concepção gráfica<br>(mancha gráfica, diagramação, escolha de fonte)|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|3|Criação de trilha sonora para cinema, televisão ou teatro|15||[&#9752; _Lattes_](./fonte-lattes.md)|
-|4|Criação e produção de projeto de iluminação cênica,<br>figurinos, formas animadas e similares|15||[&#9752; _Lattes_](./fonte-lattes.md)|
-|5|Design de impressos por peça|1<br>(máx. 20)||[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.1|.... Locais ou regionais|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.2|.... Nacionais|15|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.3|.... Internacionais|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|2|Criação e produção do projeto gráfico de livros: concepção gráfica<br>(mancha gráfica, diagramação, escolha de fonte)|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|3|Criação de trilha sonora para cinema, televisão ou teatro|15|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4|Criação e produção de projeto de iluminação cênica,<br>figurinos, formas animadas e similares|15|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5|Design de impressos por peça|1<br>(máx. 20)|[&#9752; _Lattes_](./fonte-lattes.md)|
 |6|Exposições e apresentações artísticas locais ou regionais|-|-|
-|6.1|.... Participação individual, camerista, solista ou ator principal|16||[&#9752; _Lattes_](./fonte-lattes.md)|
-|6.2|.... Participação coletiva ou coadjuvante|5||[&#9752; _Lattes_](./fonte-lattes.md)|
+|6.1|.... Participação individual, camerista, solista ou ator principal|16|[&#9752; _Lattes_](./fonte-lattes.md)|
+|6.2|.... Participação coletiva ou coadjuvante|5|[&#9752; _Lattes_](./fonte-lattes.md)|
 |7|Exposições e apresentações artísticas nacionais|-|-|
-|7.1|.... Participação individual, camerista, solista ou ator principal|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|7.2|.... Participação coletiva ou coadjuvante|10||[&#9752; _Lattes_](./fonte-lattes.md)|
+|7.1|.... Participação individual, camerista, solista ou ator principal|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|7.2|.... Participação coletiva ou coadjuvante|10|[&#9752; _Lattes_](./fonte-lattes.md)|
 |8|Exposições e apresentações artísticas internacionais|-|-|
-|8.1|.... Participação individual, camerista, solista ou ator principal|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|8.2|.... Participação coletiva ou coadjuvante|15||[&#9752; _Lattes_](./fonte-lattes.md)|
+|8.1|.... Participação individual, camerista, solista ou ator principal|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|8.2|.... Participação coletiva ou coadjuvante|15|[&#9752; _Lattes_](./fonte-lattes.md)|
 |9|Composições musicais|-|-|
-|9.1|.... Editadas|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|9.2|.... Publicadas em revistas científicas|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|9.3|.... Gravadas|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|9.4|.... Executadas em apresentações públicas|15||[&#9752; _Lattes_](./fonte-lattes.md)|
+|9.1|.... Editadas|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|9.2|.... Publicadas em revistas científicas|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|9.3|.... Gravadas|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|9.4|.... Executadas em apresentações públicas|15|[&#9752; _Lattes_](./fonte-lattes.md)|
 |10|Produção artística, arquitetônica ou de design premiada em evento|-|-|
-|10.1|.... Local ou regional|5||[&#9752; _Lattes_](./fonte-lattes.md)|
-|10.2|.... Nacional|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|10.3|.... Internacional|15||[&#9752; _Lattes_](./fonte-lattes.md)|
-|11|Arranjos musicais (canto, coral e orquestral)|5||[&#9752; _Lattes_](./fonte-lattes.md)|
-|12|presentação artística ou cultural em rádio ou TV|5||[&#9752; _Lattes_](./fonte-lattes.md)|
-|13|Sonoplastia (cinema, música, rádio, televisão, teatro)|3||[&#9752; _Lattes_](./fonte-lattes.md)|
-|14|Fotos publicitárias, jornalísticas, portfólio ou dossiê jornalístico,<br>ensaio jornalístico ou artístico, charge ou ilustração|3 (máx. 15)||[&#9752; _Lattes_](./fonte-lattes.md)|
+|10.1|.... Local ou regional|5|[&#9752; _Lattes_](./fonte-lattes.md)|
+|10.2|.... Nacional|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|10.3|.... Internacional|15|[&#9752; _Lattes_](./fonte-lattes.md)|
+|11|Arranjos musicais (canto, coral e orquestral)|5|[&#9752; _Lattes_](./fonte-lattes.md)|
+|12|presentação artística ou cultural em rádio ou TV|5|[&#9752; _Lattes_](./fonte-lattes.md)|
+|13|Sonoplastia (cinema, música, rádio, televisão, teatro)|3|[&#9752; _Lattes_](./fonte-lattes.md)|
+|14|Fotos publicitárias, jornalísticas, portfólio ou dossiê jornalístico,<br>ensaio jornalístico ou artístico, charge ou ilustração|3 (máx. 15)|[&#9752; _Lattes_](./fonte-lattes.md)|
 </details>
 
 <details><summary><b><H3>TABELA II–3) <ins>PRODUÇÃO TÉCNICA E TECNOLÓGICA</ins></H3></b></summary>
 
 |Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
-|1|Desenvolvimento de programa de computador (software) com registro<br>no INPI ou com disponibilização em ambientes de software livre|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|2|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|3|Desenvolvimento de software para uso institucional|5<br>(máx. 10)||[&#9752; _Lattes_](./fonte-lattes.md)|
-|4|Desenvolvimento e registro no INPI de topografia de circuito integrado|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|5|Desenvolvimento de produto, processo ou técnica<br>com registro de patente no INPI ou modelo de utilidade|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|6|Desenvolvimento e registro no INPI de desenho industrial|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|7|Desenvolvimento e registro no INPI de processo de indicação geográfica|20||[&#9752; _Lattes_](./fonte-lattes.md)|
-|8|Desenvolvimento e registro no INPI de marcas|5||[&#9752; _Lattes_](./fonte-lattes.md)|
+|1|Desenvolvimento de programa de computador (software) com registro<br>no INPI ou com disponibilização em ambientes de software livre|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|2|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|3|Desenvolvimento de software para uso institucional|5<br>(máx. 10)|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4|Desenvolvimento e registro no INPI de topografia de circuito integrado|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5|Desenvolvimento de produto, processo ou técnica<br>com registro de patente no INPI ou modelo de utilidade|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|6|Desenvolvimento e registro no INPI de desenho industrial|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|7|Desenvolvimento e registro no INPI de processo de indicação geográfica|20|[&#9752; _Lattes_](./fonte-lattes.md)|
+|8|Desenvolvimento e registro no INPI de marcas|5|[&#9752; _Lattes_](./fonte-lattes.md)|
 |9|Membro de corpo editorial de periódicos com classificação Qualis<br>ou de editora universitária / científica|10<br>(para 12 meses)|[&#9728; Manual](./fonte-manual.md)|
 |10|Parecer ad hoc de avaliação para publicação de<br>livros de editoras com corpo editorial|8<br>(máx. 30)|[&#9728; Manual](./fonte-manual.md)|
 |11|Parecer ad hoc de avaliação de artigos para publicação<br>em periódicos especializados com corpo editorial|6<br>(máx. 30)|[&#9728; Manual](./fonte-manual.md)|
@@ -104,8 +104,8 @@
 |15.3|.... Projeto ou relatório técnico com anotação de responsabilidade técnica (ART)<br>ou registro de responsabilidade técnica (RRT)|20|[&#9728; Manual](./fonte-manual.md)|
 |15.4|.... Projeto ou relatório técnico sem anotação de responsabilidade técnica (ART)<br>ou registro de responsabilidade técnica (RRT)|10|[&#9728; Manual](./fonte-manual.md)|
 |16|Anais, manuais, catálogos, boletins, com ficha bibliográfica<br>(organizador / redator)|5|[&#9728; Manual](./fonte-manual.md)|
-|17|Produção e publicação de mapas, cartas ou similares|10||[&#9752; _Lattes_](./fonte-lattes.md)|
-|18|Desenvolvimento de maquete|5||[&#9752; _Lattes_](./fonte-lattes.md)|
+|17|Produção e publicação de mapas, cartas ou similares|10|[&#9752; _Lattes_](./fonte-lattes.md)|
+|18|Desenvolvimento de maquete|5|[&#9752; _Lattes_](./fonte-lattes.md)|
 |19|Manutenção de obra artística|-|-|
 |19.1|.... Restauração de obra artística|20|[&#9728; Manual](./fonte-manual.md)|
 |19.2|.... Conservação de obra artística|10<br>(para 12 meses)|[&#9728; Manual](./fonte-manual.md)|
