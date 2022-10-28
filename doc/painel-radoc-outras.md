@@ -7,7 +7,7 @@
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Aluno orientado em tese de doutorado defendida e aprovada|20|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|2|Aluno co-orientado em tese de doutorado defendida e aprovada|7|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|2|Aluno co-orientado em tese de doutorado defendida e aprovada|7|&#10084; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |3|Aluno orientado em tese de doutorado em andamento|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4|Aluno co-orientado em tese de doutorado em andamento|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5|Aluno orientado em dissertação de mestrado defendida e aprovada|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
