@@ -1,10 +1,7 @@
-
-# RADOC &#x2015; Administrativas
-
-<img src="../media/painel-administracao.jpg" width="150">
+Clique em uma das categorias abaixo, para selecionar o tipo de registro RADOC.
 
 <details><summary><b><H2>IV – 1 DIREÇÃO E FUNÇÃO GRATIFICADA</H2></b></summary>
-  
+
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
