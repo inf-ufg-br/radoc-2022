@@ -78,7 +78,12 @@
   
 |Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
-|1|Membro de banca de concurso para docente efetivo|-|-|
+|1|Docente regularmente matriculado em curso de Pós-Graduação stricto sensu com relatórios de pós-graduação aprovados|12<br>(por mês)|[&#9728; Manual](./fonte-manual.md)|
+|2|Estágio Pós-Doutoral ou Estágio Sênior|12<br>(por mês)|[&#9728; Manual](./fonte-manual.md)|
+|3|Docente em licença para capacitação (Artigo 87, Lei N.8112) , com relatório final aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou do Colegiado da Unidade Acadêmica Especial|12<br>(por mês)|[&#9728; Manual](./fonte-manual.md)|
+|4|Curso de aperfeiçoamento realizado com carga horária igual ou superior a 40 horas|3|[&#9728; Manual](./fonte-manual.md)|
+|5|Curso de aperfeiçoamento realizado com carga horária inferior a 40 horas|1|[&#9728; Manual](./fonte-manual.md)|
+|6|Participação em Congressos, Seminários, Encontros, Jornadas etc.|2<br>(máx. 10)|[&#9728; Manual](./fonte-manual.md)|
 </details>
 
 Fim &#9997;
