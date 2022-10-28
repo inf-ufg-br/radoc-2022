@@ -6,7 +6,7 @@
 
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[Registro oriundo de Portaria](./fonte-portaria.md)|
+|1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[&#8505; Portaria](./fonte-portaria.md)|
 |2|Diretor de Regional da UFG|14 (por mês)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |3|Vice-Diretor de Regional da UFG|12 (por mês)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |4|Coordenadores das Regionais paralelos aos Pró-Reitores da UFG|12 (por mês)|[Registro oriundo de Portaria](./fonte-portaria.md)|
