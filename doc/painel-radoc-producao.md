@@ -10,7 +10,7 @@
 |1.1|.... Com classificação no Qualis/CAPES **A**|25|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |1.2|.... Com classificação no Qualis/CAPES **B**|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |1.3|.... Com classificação no Qualis/CAPES **C**|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|1.4|.... Não sujeito à classificação no Qualis/CAPESA|10 (máx. 10)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1.4|.... Não sujeito à classificação no Qualis/CAPES|10 (máx. 10)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |2|Resumo de artigo em periódicos especializados nacional<br>ou internacional com corpo editorial|5|[O docente insere o registro](./fonte-insercao.md)|
 </details>
 
