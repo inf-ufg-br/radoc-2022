@@ -12,18 +12,13 @@
 |1.3|.... Com classificação no Qualis/CAPES **C**|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |1.4|.... Não sujeito à classificação no Qualis/CAPES|10 (máx. 10)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |2|Resumo de artigo em periódicos especializados<br>nacional ou internacional com corpo editorial|5|[O docente insere o registro](./fonte-insercao.md)|
+|3|Artigos ou textos literários em repositórios de<br>publicação eletrônica ligados a editoras ou universidades|5 (máx. 10)|[O docente insere o registro](./fonte-insercao.md)|
+|4|Resumo expandido publicado em anais de congresso|(máx. 10)|-|
+|4.1|....	Internacional|8|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|4.2|.... Nacional|6|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|4.3|....	Regional ou Local|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
-3	Artigos ou textos literários em repositórios de publicação eletrônica ligados a editoras ou universidades	5
-(máx. 10)
-
-
-
-4	Resumo expandido publicado em anais de congresso	-
-(máx. 10)
-4.1	Internacional	8
-4.2	Nacional	6
-4.3	Regional ou Local	4
 5	Resumo simples publicado em anais de congresso	-
 (máx. 10)
 5.1	Internacional	4
