@@ -13,32 +13,12 @@
 ---
 ## Cronograma
 
-<table>
-    <thead>
-        <tr>
-            <th>ATIVIDADE</th>
-            <th><i>QUEM</i></th>
-            <th><i>DATA LIMITE</i></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Alimentar e enviar o RADOC para a Comissão</td>
-            <td>Docente</td>
-            <td><b>15 Nov 2022</b></td>
-        </tr>    
-        <tr>
-            <td>Analisar e devolver o RADOC com anotações ao Docente </td>
-            <td>Comissão</td>
-            <td><b>28 Nov 2022</b></td>
-        </tr>    
-        <tr>
-            <td>Ajustar o RADOC conforme anotações e devolver a Comissão</td>
-            <td>Docente</td>
-            <td><b>05 Dez 2022</b></td>
-        </tr>    
-    </tbody>
-</table>
+|Seq|ATIVIDADE|QUEM|**DATA LIMITE**|
+|-|-|-|-|
+|1|Alimentar e enviar o RADOC para a Comissão|Docente|**15 Nov 2022**|
+|2|Analisar e devolver os RADOCs com anotações ao Docente|Comissão|**28 Nov 2022**|
+|3|Ajustar o RADOC conforme anotações e devolver a Comissão|Docente|**05 Dez 2022**|
+|4|Analisar os RADOCs ajustados e elaborar **Relatórios Finais**|Comissão|**15 Dez 2022**|
 
 Fim	&#9749;
 
