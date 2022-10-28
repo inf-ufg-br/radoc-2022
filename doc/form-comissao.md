@@ -2,7 +2,8 @@
 
 O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão.
 
-A _**interação com a Comissão**_ ocorre via a inserção de "issues" do **GitHub**:
+**Falar com a Comissão é <ins>SIMPLES</ins>**:
+- A interação ocorre via "issues" do **GitHub**:
 - Clique [**AQUI**](https://github.com/signup) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
