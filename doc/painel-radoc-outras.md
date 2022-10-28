@@ -28,7 +28,7 @@
 |20|Aluno de outra IFE orientado em dissertação de mestrado em andamento|2|[&#9752; _Lattes_](./fonte-lattes.md)|
 |21|Aluno de outra IFE co-orientado em dissertação de mestrado em andamento|1|[&#9752; _Lattes_](./fonte-lattes.md)|
 |22|Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)|6|[&#9752; _Lattes_](./fonte-lattes.md)|
-Manual](./fonte-insercao.md)|
+|23|Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares|5|[&#9728; Manual](./fonte-manual.md)|
 |24|Aluno orientado em programa especial de treinamento (PET)|5|[&#9728; Manual](./fonte-manual.md)|
 |25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|[&#9728; Manual](./fonte-manual.md)|
 |26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[&#9728; Manual](./fonte-manual.md)|
