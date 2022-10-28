@@ -5,7 +5,7 @@ O Painel abaixo orienta o docente sobre as **instruções para a inserção** de
 1. Selecione (localize) o tipo de registro nas tabelas apresentadas.
 1. Clique na coluna "_Link_ para instruções", para saber sobre como inserir o registro.
 
-[![FLipkart](../media/painel-ensino.jpg)](./painel-radoc-ensino.md/)[![FLipkart](../media/painel-radoc-producao-intelectual.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
+[![FLipkart](../media/painel-ensino.jpg)](./painel-radoc-ensino.md/)[![FLipkart](../media/painel-producao-intelectual.jpg)](./lattes.md/)[![FLipkart](../media/painel-pesquisa.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-extensao.jpg)](./lattes.md/)[![FLipkart](../media/painel-administracao.jpg)](./painel-radoc-administracao.md/)[![FLipkart](../media/painel-representacao.jpg)](./painel-radoc-representacao.md/)
 [![FLipkart](../media/painel-outras-atividades.jpg)](./lattes.md/)[![FLipkart](../media/painel-afastamento.jpg)](./lattes.md/)
 
