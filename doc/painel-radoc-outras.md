@@ -35,7 +35,7 @@
 |27|Aluno orientado em programa de monitoria|3|[Registro importado de Sistemas UFG](./fonte-sistema.md)|
 |28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[O docente insere o registro](./fonte-insercao.md)|
 |29|Aluno orientado em prática como componente curricular (PCC)|1|[O docente insere o registro](./fonte-insercao.md)|
-|30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[O docente insere o registro](./fonte-insercao.md)|
+|30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[O docente insere o registro](./fonte-insercao.md)|
 |31|Pesquisador supervisionado em estágio de pós-doutoramento (PRODOC, PNPD, DCR, PDJ, PDS e similares)|8|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |32|Aluno orientado em atividade de Preceptoria|1|[O docente insere o registro](./fonte-insercao.md)|
 |33|Aluno orientado em atividade de Tutoria|1|[O docente insere o registro](./fonte-insercao.md)|
