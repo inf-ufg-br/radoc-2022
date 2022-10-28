@@ -3,7 +3,7 @@
 > Os cartões abaixo orientam sobre o RADOC/SICAD+:<br>&#9749; Sugestão: inicie por "Apresentação" e siga os cartões em sentido horário.
 
 [![](../media/painel-zero-apresentacao.jpg)](./lattes.md/)
-[![](../media/painel-zero-fluxo.jpg)](./lattes.md/)
+[![](../media/painel-zero-fluxos.jpg)](./lattes.md/)
 [![](../media/painel-zero-apoio-institucional.jpg)](./apoio-institucional.md/)
 [![](../media/painel-zero-interacao.jpg)](./interacao.md/)
 [![](../media/painel-zero-radoc.jpg)](./painel-radoc.md/)
