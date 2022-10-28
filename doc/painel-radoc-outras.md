@@ -74,4 +74,11 @@
 |11|Coordenador de projeto institucional de intercâmbio internacional|10<br>(para 12 meses)|[&#9728; Manual](./fonte-manual.md)|
 </details>
 
+<details><summary><b><H3>TABELA V–3) <ins>ATIVIDADES DE APRENDIZADO E APERFEIÇOAMENTO</ins></H3></b></summary>
+  
+|Item|Descrição|Pontos|**COMO<br>INCLUIR**|
+|-|-|-|-|
+|1|Membro de banca de concurso para docente efetivo|-|-|
+</details>
+
 Fim &#9997;
