@@ -7,6 +7,6 @@ O Painel abaixo orienta o docente sobre as **instruções para a inserção** de
 
 [![](../media/painel-ensino.jpg)](./painel-radoc-ensino.md/)[![](../media/painel-producao-intelectual.jpg)](./painel-radoc-producao.md/)[![](../media/painel-pesquisa.jpg)](./painel-radoc-pesquisa.md/)
 [![](../media/painel-extensao.jpg)](./painel-radoc-extensao.md/)[![](../media/painel-administracao.jpg)](./painel-radoc-administracao.md/)[![](../media/painel-representacao.jpg)](./painel-radoc-representacao.md/)
-[![](../media/painel-outras-atividades.jpg)](./painel-radoc-outras.md.md/)[![](../media/painel-afastamento.jpg)](./lattes.md/)
+[![](../media/painel-outras-atividades.jpg)](./painel-radoc-outras.md/)[![](../media/painel-afastamento.jpg)](./lattes.md/)
 
 Fim &#9997;
