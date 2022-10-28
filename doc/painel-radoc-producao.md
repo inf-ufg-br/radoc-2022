@@ -4,7 +4,7 @@
 
 <details><summary><b><H3>TABELA II–1) <ins>PRODUÇÃO CIENTÍFICA</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Como incluir**|
+|Item|Descrição|Pontos|**COMO INCLUIR**|
 |-|-|-|-|
 |1|Artigo completo ou texto literário publicado em periódico|-|-|
 |1.1|.... Com classificação no Qualis/CAPES **A**|25|[&#9752; _Lattes_](./fonte-lattes.md)|
@@ -43,7 +43,7 @@
 
 <details><summary><b><H3>TABELA II–2) <ins>PRODUÇÃO ARTÍSTICA E CULTURAL</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Origem do Registro**|
+|Item|Descrição|Pontos|**Como incluir**|
 |-|-|-|-|
 |1|Criação, produção e direção de filmes, vídeos, discos,<br>audiovisuais, coreografias, peças teatrais, óperas ou musicais,<br>ou musicais apresentados em eventos|-|-|
 |1.1|.... Locais ou regionais|10|[&#9752; _Lattes_](./fonte-lattes.md)|
