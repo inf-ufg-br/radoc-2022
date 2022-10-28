@@ -1,6 +1,6 @@
 # RADOC &#x2015; Administrativas
 
-<img src="../media/painel-administracao.jpg" width="150"> Clique em uma das tabelas abaixo, para **instruções** sobre o tipo de registro RADOC.
+<img src="../media/painel-administracao.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
 <details><summary><b><H3>TABELA IV – 1) DIREÇÃO E FUNÇÃO GRATIFICADA</H3></b></summary>
 
