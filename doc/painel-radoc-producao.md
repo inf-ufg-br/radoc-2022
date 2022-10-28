@@ -26,7 +26,7 @@
 |8|Livro publicado com selo de editora que não possua corpo editorial|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9|Capítulo de livro publicado com selo de editora que possua corpo editorial|10 (máx. 40)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |10|Edição ou organização de livro (coletânea) publicado<br>com selo de editora que possua corpo editorial|12|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5(máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5 (máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |12|Tradução de livro publicado com selo de editora que possua corpo editorial|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
