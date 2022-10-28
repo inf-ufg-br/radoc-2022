@@ -4,7 +4,7 @@
 
 <details><summary><H3><b>TABELA III-1) <ins>ATIVIDADES DE COORDENAÇÃO DE PESQUISA E INOVAÇÃO</ins></H3></b></summary>
   
-|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Coordenador de projeto conjuntos de pesquisa e cooperação científica (tipo PRODOC, PROCAD, PNPD, entre outros) e de cursos MINTER e DINTER aprovados por órgãos oficiais de fomento|10<br>(para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |2|Coordenador de projeto de pesquisa ou inovação aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[Registro importado de Sistemas UFG](./fonte-sistema.md)|
