@@ -6,7 +6,7 @@
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Aulas presenciais na graduação / Educação básica|10 * has (horas no ano/32)|[Registro importado de Sistemas UFG](./portaria.md)|
+|1|Aulas presenciais na graduação / Educação básica|10 * has (horas no ano/32)|[Registro oriundo de Portaria](./portaria.md)|
 |2|Aulas do ensino a distância na graduação / Educação básica|10 * has (horas no ano/32)|[Registro importado de Sistemas UFG](./portaria.md)|
 </details>
 
