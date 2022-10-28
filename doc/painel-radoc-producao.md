@@ -91,7 +91,7 @@
 |8|Desenvolvimento e registro no INPI de marcas|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9|Membro de corpo editorial de periódicos com classificação Qualis<br>ou de editora universitária / científica|10<br>(para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
 |10|Parecer ad hoc de avaliação para publicação de<br>livros de editoras com corpo editorial|8<br>(máx. 30)|[O docente insere o registro](./fonte-insercao.md)|
-|11|Parecer ad hoc de avaliação de artigos para publicação em periódicos especializados com corpo editorial|6<br>(máx. 30)|[O docente insere o registro](./fonte-insercao.md)|
+|11|Parecer ad hoc de avaliação de artigos para publicação<br>em periódicos especializados com corpo editorial|6<br>(máx. 30)|[O docente insere o registro](./fonte-insercao.md)|
 |12|Parecer ad hoc referente a trabalhos a serem apresentados em eventos|(máx. 20)|-|
 |12.1|.... Trabalho completo|5|[O docente insere o registro](./fonte-insercao.md)|
 |12.2|.... Resumo expandido|3|[O docente insere o registro](./fonte-insercao.md)|
