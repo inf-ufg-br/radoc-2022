@@ -2,6 +2,7 @@
 
 ### Membros
 
+Deborah Silva Alves Fernandes<br>
 Hebert Coelho da Silva<br>
 Julliano Rosa Nascimento<br>
 Márcia Rodrigues Cappelle Santana<br>
