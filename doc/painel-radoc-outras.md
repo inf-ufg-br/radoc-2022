@@ -28,11 +28,11 @@
 |20|Aluno de outra IFE orientado em dissertação de mestrado em andamento|2|[&#9752; _Lattes_](./fonte-lattes.md)|
 |21|Aluno de outra IFE co-orientado em dissertação de mestrado em andamento|1|[&#9752; _Lattes_](./fonte-lattes.md)|
 |22|Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)|6|[&#9752; _Lattes_](./fonte-lattes.md)|
-|23|Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares|5|[&#9728; inserção manual](./fonte-insercao.md)|
+Manual](./fonte-insercao.md)|
 |24|Aluno orientado em programa especial de treinamento (PET)|5|[&#9728; Manual](./fonte-insercao.md)|
 |25|Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino|4|[&#9728; Manual](./fonte-insercao.md)|
 |26|Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino|3|[&#9728; Manual](./fonte-insercao.md)|
-|27|Aluno orientado em programa de monitoria|3|[&#10084; Sistemas UFG](./fonte-sistema.md)|
+|27|Aluno orientado em programa de monitoria|3|[&#10084; Sistemas](./fonte-sistema.md)|
 |28|Aluno orientado em estágio curricular não obrigatório ou estágio docência|2|[&#9728; Manual](./fonte-insercao.md)|
 |29|Aluno orientado em prática como componente curricular (PCC)|1|[&#9728; Manual](./fonte-insercao.md)|
 |30|Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades / superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso|20<br>(máx. 40)|[&#9728; Manual](./fonte-insercao.md)|
