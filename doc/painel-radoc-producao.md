@@ -4,7 +4,7 @@
 
 <details><summary><b><H3>TABELA II–1) <ins>PRODUÇÃO CIENTÍFICA</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**COMO INCLUIR**|
+|Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
 |1|Artigo completo ou texto literário publicado em periódico|-|-|
 |1.1|.... Com classificação no Qualis/CAPES **A**|25|[&#9752; _Lattes_](./fonte-lattes.md)|
