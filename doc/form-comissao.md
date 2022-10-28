@@ -1,8 +1,8 @@
-# Interação com a Comissão
+# Falar com a Comissão RADOC 2022
 
 O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão.
 
-A interação com a Comissão RADOC 2022 ocorre via a inserção de "issues" do [GitHub](https://www.github.com):
+A _**interação com a Comissão**_ ocorre via a inserção de "issues" do [GitHub](https://www.github.com):
 - Clique [**AQUI**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
