@@ -81,7 +81,8 @@ Abaixo estão as categorias (grupos) para os tipos de registros RADOC:
 
 <details><summary>Produção Científica:</summary>
 <p>
-- Artigos ou textos literários em repositórios de publicação eletrônica ligados a editoras ou universidades | Bolsista de Produtividade do CNPQ<br>
+- Artigos ou textos literários em repositórios de publicação eletrônica ligados a editoras ou universidades<br>
+- Bolsista de Produtividade do CNPQ<br>
 - Editor de Anais de Eventos Internacional<br>
 - Editor de Anais de Eventos Nacional<br>
 - Editor de Anais de Eventos Regional ou Local<br>
