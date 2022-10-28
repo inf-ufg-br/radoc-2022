@@ -24,7 +24,7 @@
 </details>
 
 
-<details><summary><b><H2>IV – 2 ATIVIDADES ADMINISTRATIVAS</H2></b></summary>
+<details><summary><b><H3>IV – 2 ATIVIDADES ADMINISTRATIVAS</H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
@@ -43,7 +43,7 @@
 |6.6|.... Com carga horária maior do que 150 horas|12 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 </details>
 
-<details><summary><b><H2>IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS</H2></b></summary>
+<details><summary><b><H3>IV – 3 OUTRAS ATIVIDADES ADMINISTRATIVAS</H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
