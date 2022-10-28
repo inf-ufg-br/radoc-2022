@@ -117,6 +117,21 @@
 |23|Participação em entrevista, mesa redonda, comentário ou programa de rádio,<br>TV, impressos e mídia digital, vinculados à área de atuação do professor|(máx 10)|-|
 |23.1|.... Regional/Local|2|[O docente insere o registro](./fonte-insercao.md)|
 |23.2|.... Nacional|3|[O docente insere o registro](./fonte-insercao.md)|
-|23.3|.... Internacional|4|[O docente insere o registro](./fonte-insercao.md)|</details>
+|23.3|.... Internacional|4|[O docente insere o registro](./fonte-insercao.md)|
+</details>
+
+<details><summary><b><H3>TABELA II–4) <ins>OUTRO TIPO DE PRODUÇÃO</ins></H3></b></summary>
+
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|-|-|-|-|
+|1|Artigos de opinião veiculados em jornais e revistas<br>(eletrônico ou impresso)|1|[O docente insere o registro](./fonte-insercao.md)|
+|2|Texto ou material didático para uso institucional<br>(não fracionados e com ampla divulgação)|2|[O docente insere o registro](./fonte-insercao.md)|
+|3|Artigos de divulgação científica, tecnológica e artística veiculados em jornais e revistas (eletrônico ou impresso)|3|[O docente insere o registro](./fonte-insercao.md)|
+|4|Apresentação oral de trabalho em congresso científico|3<br>(máx. 9)|[O docente insere o registro](./fonte-insercao.md)|
+|5|Apresentação de pôsteres em congresso científico|1<br>(máx. 3)|[O docente insere o registro](./fonte-insercao.md)|
+|6|Organização de caderno de programação e resumos de eventos|3<br>(máx. 9)|[O docente insere o registro](./fonte-insercao.md)|
+|7|Trabalho premiado em evento científico nacional ou internacional|5|[O docente insere o registro](./fonte-insercao.md)|
+|8|Tese, dissertação ou trabalho de iniciação científica premiados<br>por instituições de fomento (sendo o docente o autor ou orientador do produto)|8|[O docente insere o registro](./fonte-insercao.md)|
+</details>
 
 Fim &#9997;
