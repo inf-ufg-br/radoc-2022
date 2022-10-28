@@ -1,6 +1,6 @@
 ## Alimentar o RADOC
 
-O Painel abaixo orienta o docente sobre as **instruções para a inserção** de registros no RADOC:
+> O Painel abaixo busca a orientar o docente sobre **como inserir registros** no RADOC/SICAD+:
 1. Clique no quadro que melhor denota o registro a ser inserido.
 1. Selecione (localize) o tipo de registro nas tabelas apresentadas.
 1. Clique na coluna "_Link_ para instruções", para saber sobre como inserir o registro.
