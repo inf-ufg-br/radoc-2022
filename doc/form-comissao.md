@@ -6,6 +6,7 @@ A _**interação com a Comissão**_ ocorre via a inserção de "issues" do [GitH
 - Clique [**AQUI**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
+1. Logar no [GitHub](https://www.github.com).
 1. Clicar em "Issues".
 1. Clicar em "new issue".
 1. Selecionar o tipo de comunicação: "dificuldade" ou "sugestão".
