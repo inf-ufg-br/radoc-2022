@@ -6,9 +6,9 @@ O painel apresentado a seguir apoia o docente no processo de alimentar o seu RAD
 <table>
     <thead>
         <tr>
-            <th><i>Atividade</i></th>
-            <th><i>Quem?</i></th>
-            <th><i>Data Limite</i></th>
+            <th>ATIVIDADE</th>
+            <th><i>QUEM</i></th>
+            <th><i>DATA LIMITE</i></th>
         </tr>
     </thead>
     <tbody>
