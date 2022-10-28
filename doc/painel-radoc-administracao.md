@@ -4,7 +4,7 @@
 
 <details><summary><b><H3>TABELA IV–1) <ins>DIREÇÃO E FUNÇÃO GRATIFICADA</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[&#8505; Portaria](./fonte-portaria.md)|
 |2|Diretor de Regional da UFG|14 (por mês)|[&#8505; Portaria](./fonte-portaria.md)|
@@ -26,7 +26,7 @@
 
 <details><summary><b><H3>TABELA IV–2) <ins>ATIVIDADES ADMINISTRATIVAS</ins></H3></b></summary>
   
-|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Coordenador de projeto institucional com financiamento<br>ou de contratos e convênio com plano de trabalho aprovado|5 (para 12 meses)|[&#8505; Portaria](./fonte-portaria.md)|
 |2|Coordenador de curso de especialização, residência médica<br>ou residência multiprofissional em saúde|10 (para 12 meses) (máx. 10)|[&#8505; Portaria](./fonte-portaria.md)|
@@ -45,7 +45,7 @@
 
 <details><summary><b><H3>TABELA IV–3) <ins>OUTRAS ATIVIDADES ADMINISTRATIVAS</ins></H3></b></summary>
   
-|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Presidente da CPPD|7 (por mês)|[&#8505; Portaria](./fonte-portaria.md)|
 |2|Presidente dos Comitês de Ética em Pesquisa (CEP) ou<br>das Comissões de Ética no Uso de Animais (CEUA)|6 (por mês)|[&#8505; Portaria](./fonte-portaria.md)|
