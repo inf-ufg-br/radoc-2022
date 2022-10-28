@@ -1,6 +1,6 @@
 # RADOC &#x2015; Outras Atividades
 
-<img src="../media/painel-outras-atividades.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
+<img src="../media/painel-outras-atividades.jpg" width="150"> Clique em uma das tabelas abaixo, para saber COMO INCLUIR um registro RADOC.
 
 <details><summary><b><H3>TABELA V–1) <ins>ATIVIDADES ACADÊMICAS – ORIENTAÇÃO</ins></H3></b></summary>
   
