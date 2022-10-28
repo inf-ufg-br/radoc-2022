@@ -1,9 +1,9 @@
 # RADOC &#x2015; Administrativas
 
-[![FLipkart](../media/painel-administracao.jpg)](.)||
+|[![FLipkart](../media/painel-administracao.jpg)](.)||
 
 
-|<img src="../media/painel-administracao.jpg" width="150">||
+|<img src="../media/painel-administracao.jpg" width="150">|treste |
 
 > Clique em uma das categorias abaixo, para selecionar o tipo de registro RADOC.
 
