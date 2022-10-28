@@ -56,18 +56,18 @@
 |6|Exposições e apresentações artísticas locais ou regionais|-|-|
 |6.1|.... Participação individual, camerista, solista ou ator principal|16|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |6.2|.... Participação coletiva ou coadjuvante|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|7	Exposições e apresentações artísticas nacionais|-|-|
+|7|Exposições e apresentações artísticas nacionais|-|-|
 |7.1|.... Participação individual, camerista, solista ou ator principal|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |7.2|.... Participação coletiva ou coadjuvante|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|8	Exposições e apresentações artísticas internacionais|-|-|
+|8|Exposições e apresentações artísticas internacionais|-|-|
 |8.1|.... Participação individual, camerista, solista ou ator principal|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |8.2|.... Participação coletiva ou coadjuvante|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|9	Composições musicais|-|-|
+|9|Composições musicais|-|-|
 |9.1|.... Editadas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9.2|.... Publicadas em revistas científicas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9.3|.... Gravadas|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9.4|.... Executadas em apresentações públicas|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|10	Produção artística, arquitetônica ou de design premiada em evento|-|-|
+|10|Produção artística, arquitetônica ou de design premiada em evento|-|-|
 |10.1|.... Local ou regional|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |10.2|.... Nacional|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |10.3|.... Internacional|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
