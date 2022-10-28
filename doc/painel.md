@@ -2,11 +2,11 @@
 
 ## Painel de Informações
 
-> Os cartões abaixo orientam sobre o RADOC/SICAD+
->> Sugestão: inicie por "Apresentação" e siga os cartões em sentido horário.
+> Os cartões abaixo orientam sobre o RADOC/SICAD+:<br>&#9749; Sugestão: inicie por "Apresentação" e siga os cartões em sentido horário.
 
 |[![FLipkart](../media/painel-zero-apresentacao.jpg)](./lattes.md/)[![FLipkart](../media/painel-zero-apoio-institucional.jpg)](./apoio-institucional.md/)[![FLipkart](../media/painel-zero-fluxo.jpg)](./lattes.md/)
 [![FLipkart](../media/painel-zero-interacao.jpg)](./interacao.md/)[![FLipkart](../media/painel-zero-insercao.jpg)](./painel-radoc.md/)[![FLipkart](../media/painel-zero-perguntas.jpg)](./perguntas-frequentes.md/)
+
 ---
 ## Cronograma
 
