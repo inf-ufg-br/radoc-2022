@@ -81,27 +81,19 @@
 
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Desenvolvimento de programa de computador (software) com registro no INPI<br>ou com disponibilização em ambientes de software livre|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|1.1|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1|Desenvolvimento de programa de computador (software) com registro<br>no INPI ou com disponibilização em ambientes de software livre|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|2|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|3|Desenvolvimento de software para uso institucional|5<br>(máx. 10)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|4|Desenvolvimento e registro no INPI de topografia de circuito integrado|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5|Desenvolvimento de produto, processo ou técnica<br>com registro de patente no INPI ou modelo de utilidade|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|6|Desenvolvimento e registro no INPI de desenho industrial|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|7|Desenvolvimento e registro no INPI de processo de indicação geográfica|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|8|Desenvolvimento e registro no INPI de marcas|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9|Membro de corpo editorial de periódicos com classificação Qualis<br>ou de editora universitária / científica|10<br>(para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
+|10|Parecer ad hoc de avaliação para publicação de<br>livros de editoras com corpo editorial|8<br>(máx. 30)|[O docente insere o registro](./fonte-insercao.md)|
 </details>
 
-1	Desenvolvimento de programa de computador (software) com registro no INPI ou com
-disponibilização em ambientes de software livre	20
-2	Desenvolvimento de software com divulgação em periódicos indexados e com corpo editorial
-ou em anais de congresso científico	10
-3	Desenvolvimento de software para uso institucional	5
-(máx. 10)
-4	Desenvolvimento e registro no INPI de topografia de circuito integrado	20
-5	Desenvolvimento de produto, processo ou técnica com registro de patente no INPI ou modelo
-de utilidade	20
-6	Desenvolvimento e registro no INPI de desenho industrial	20
-7	Desenvolvimento e registro no INPI de processo de indicação geográfica	20
-8	Desenvolvimento e registro no INPI de marcas	5
-9	Membro de corpo editorial de periódicos com classificação Qualis ou de editora universitária /
-científica	10
-(para 12 meses)
-10	Parecer ad hoc de avaliação para publicação de livros de editoras com corpo editorial	8
-(máx. 30)
+
 11	Parecer ad hoc de avaliação de artigos para publicação em periódicos especializados com
 corpo editorial	6
 (máx. 30)
