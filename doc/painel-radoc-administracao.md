@@ -2,7 +2,7 @@
 
 <img src="../media/painel-administracao.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
-<details><summary><b><H3><ins>TABELA IV – 1)</ins> DIREÇÃO E FUNÇÃO GRATIFICADA</H3></b></summary>
+<details><summary><b><H3><ins>TABELA IV–1)</ins> DIREÇÃO E FUNÇÃO GRATIFICADA</H3></b></summary>
 
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
@@ -24,7 +24,7 @@
 </details>
 
 
-<details><summary><b><H3>TABELA IV – 2) ATIVIDADES ADMINISTRATIVAS</H3></b></summary>
+<details><summary><b><H3><ins>TABELA IV – 2)</ins> ATIVIDADES ADMINISTRATIVAS</H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
@@ -43,7 +43,7 @@
 |6.6|.... Com carga horária maior do que 150 horas|12 (para 12 meses)|[Registro oriundo de Portaria](./portaria.md)|
 </details>
 
-<details><summary><b><H3>TABELA IV – 3) OUTRAS ATIVIDADES ADMINISTRATIVAS</H3></b></summary>
+<details><summary><b><H3>TABELA IV – 3) <ins>OUTRAS ATIVIDADES ADMINISTRATIVAS</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
