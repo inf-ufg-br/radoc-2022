@@ -82,7 +82,7 @@
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
 |1|Desenvolvimento de programa de computador (software) com registro no INPI<br>ou com disponibilização em ambientes de software livre|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|1.1|Desenvolvimento de software com divulgação em periódicos indexados e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1.1|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
 1	Desenvolvimento de programa de computador (software) com registro no INPI ou com
