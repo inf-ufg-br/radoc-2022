@@ -77,4 +77,76 @@
 |14|Fotos publicitárias, jornalísticas, portfólio ou dossiê jornalístico,<br>ensaio jornalístico ou artístico, charge ou ilustração|3 (máx. 15)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
+<details><summary><b><H3>TABELA II–3) <ins>PRODUÇÃO TÉCNICA E TECNOLÓGICA</ins></H3></b></summary>
+
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|-|-|-|-|
+|1|Desenvolvimento de programa de computador (software) com registro no INPI<br>ou com disponibilização em ambientes de software livre|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1.1|Desenvolvimento de software com divulgação em periódicos indexados e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+</details>
+
+1	Desenvolvimento de programa de computador (software) com registro no INPI ou com
+disponibilização em ambientes de software livre	20
+2	Desenvolvimento de software com divulgação em periódicos indexados e com corpo editorial
+ou em anais de congresso científico	10
+3	Desenvolvimento de software para uso institucional	5
+(máx. 10)
+4	Desenvolvimento e registro no INPI de topografia de circuito integrado	20
+5	Desenvolvimento de produto, processo ou técnica com registro de patente no INPI ou modelo
+de utilidade	20
+6	Desenvolvimento e registro no INPI de desenho industrial	20
+7	Desenvolvimento e registro no INPI de processo de indicação geográfica	20
+8	Desenvolvimento e registro no INPI de marcas	5
+9	Membro de corpo editorial de periódicos com classificação Qualis ou de editora universitária /
+científica	10
+(para 12 meses)
+10	Parecer ad hoc de avaliação para publicação de livros de editoras com corpo editorial	8
+(máx. 30)
+11	Parecer ad hoc de avaliação de artigos para publicação em periódicos especializados com
+corpo editorial	6
+(máx. 30)
+12	Parecer ad hoc referente a trabalhos a serem apresentados em eventos	-
+(máx. 20)
+12.1	Trabalho completo	5
+12.2	Resumo expandido	3
+12.3	Resumo	1
+13	Revisão ad hoc de periódico científico com classificação Qualis ou de livro publicado com
+selo de editora que possua corpo editorial	10
+(máx. 20)
+14	Coordenação de mesas redondas, simpósios ou sessões de comunicações	2
+(máx. 10)
+15	Projeto, parecer ou relatório técnico realizado em consultoria ou assessoria oficializada por convite,
+convênio, contrato ou designação	-
+15.1	Parecer com anotação de responsabilidade técnica (ART) ou registro de responsabilidade
+técnica (RRT)	10
+15.2	Parecer sem anotação de responsabilidade técnica (ART) ou registro de responsabilidade
+técnica (RRT)	5
+15.3	Projeto ou relatório técnico com anotação de responsabilidade técnica (ART) ou registro de
+responsabilidade técnica (RRT)	20
+15.4	Projeto ou relatório técnico sem anotação de responsabilidade técnica (ART) ou registro de
+responsabilidade técnica (RRT)	10
+16	Anais, manuais, catálogos, boletins, com ficha bibliográfica (organizador / redator)	5
+17	Produção e publicação de mapas, cartas ou similares	10
+18	Desenvolvimento de maquete	5
+19	Manutenção de obra artística	-
+19.1	Restauração de obra artística	20
+19.2	Conservação de obra artística	10
+(para 12 meses)
+20	Curadoria de exposições	5
+21	Produção de cinema, vídeo, rádio, TV ou mídias digitais vinculados aos projetos de ensino, pesquisa e extensão e veiculados na mídia	-
+21.1	Editor, roteirista, diretor e produtor	20
+(para 12 meses)
+21.2	Participante	3
+(máx. 9)
+22	Criação e manutenção de páginas em Rede sociais, websites e blogs, vinculados aos projetos de ensino, pesquisa e extensão, na área de atuação do professor	4
+(para 12 meses) (máx. 4)
+23	Participação em entrevista, mesa redonda, comentário ou programa de rádio, TV, impressos e
+mídia digital, vinculados à área de atuação do professor	-
+(máx 10)
+23.1	Regional/Local	2
+23.2	Nacional	3
+23.3	Internacional	4
+
+
+
 Fim &#9997;
