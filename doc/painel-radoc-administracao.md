@@ -28,7 +28,7 @@
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Coordenador de projeto institucional com financiamento ou de contratos e convênio com plano de trabalho aprovado|5 (para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
+|1|Coordenador de projeto institucional com financiamento<br>ou de contratos e convênio com plano de trabalho aprovado|5 (para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |2|Coordenador de curso de especialização, residência médica ou residência multiprofissional em saúde|10 (para 12 meses) (máx. 10)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |3|Vice-Diretor do CIAR ou Subcoordenadores de Cursos de Graduação<br>e de Pós-Graduação stricto sensu|4 (por mês)|[Registro oriundo de Portaria](./fonte-portaria.md)|
 |4|Membro representante de classe da carreira docente no CONSUNI|10 (para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
