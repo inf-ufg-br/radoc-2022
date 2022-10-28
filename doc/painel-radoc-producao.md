@@ -28,7 +28,7 @@
 |10|Edição ou organização de livro (coletânea) publicado<br>com selo de editora que possua corpo editorial|12|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5 (máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |12|Tradução de livro publicado com selo de editora que possua corpo editorial|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|13|Tradução de artigos publicados em periódicos com classificação no Qualis|10|[O docente insere o registro](./fonte-insercao.md)|
+|13|Tradução de artigos publicados em periódicos<br>com classificação no Qualis|10|[O docente insere o registro](./fonte-insercao.md)|
 |14|Resenhas, prefácios ou verbetes|5|[O docente insere o registro](./fonte-insercao.md)|
 |15|Tradução de resenhas, prefácios ou verbetes|2|[O docente insere o registro](./fonte-insercao.md)|
 |16|Livro didático desenvolvido para projetos institucionais/governamentais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
