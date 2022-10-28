@@ -49,7 +49,7 @@
 |1.1|.... Locais ou regionais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |1.2|.... Nacionais|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |1.3|.... Internacionais|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|2|Criação e produção do projeto gráfico de livros: concepção gráfica (mancha gráfica, diagramação, escolha de fonte)|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|2|Criação e produção do projeto gráfico de livros: concepção gráfica<br>(mancha gráfica, diagramação, escolha de fonte)|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |3|Criação de trilha sonora para cinema, televisão ou teatro|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4|Criação e produção de projeto de iluminação cênica,<br>figurinos, formas animadas e similares|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5|Design de impressos por peça|1<br>(máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
