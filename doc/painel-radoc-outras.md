@@ -6,7 +6,7 @@
   
 |Item|Descrição|Pontos|**Fonte do registro**|
 |-|-|-|-|
-|1|Aluno orientado em tese de doutorado defendida e aprovada|20|[&#9752; Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|1|Aluno orientado em tese de doutorado defendida e aprovada|20|[&#9752; _Lattes_](./fonte-lattes.md)|
 |2|Aluno co-orientado em tese de doutorado defendida e aprovada|7|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |3|Aluno orientado em tese de doutorado em andamento|10|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4|Aluno co-orientado em tese de doutorado em andamento|4|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
