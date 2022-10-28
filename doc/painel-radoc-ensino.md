@@ -2,7 +2,7 @@
 
 <img src="../media/painel-ensino.jpg" width="150"> Clique em uma das categorias abaixo, para **instruções** sobre o tipo de registro RADOC.
 
-<details><summary><H3><u>TABELA I-1</u><b>GRADUAÇÃO / EDUCAÇÃO BÁSICA</H3></b></summary>
+<details><summary><H3><u>TABELA I-1</u><b> GRADUAÇÃO / EDUCAÇÃO BÁSICA</H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
