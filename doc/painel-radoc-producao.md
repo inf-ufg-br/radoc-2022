@@ -4,7 +4,7 @@
 
 <details><summary><b><H3>TABELA II–1) <ins>PRODUÇÃO CIENTÍFICA</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Origem do registro**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Artigo completo ou texto literário publicado em periódico|-|-|
 |1.1|.... Com classificação no Qualis/CAPES **A**|25|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
@@ -43,7 +43,7 @@
 
 <details><summary><b><H3>TABELA II–2) <ins>PRODUÇÃO ARTÍSTICA E CULTURAL</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Origem do registro**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Criação, produção e direção de filmes, vídeos, discos,<br>audiovisuais, coreografias, peças teatrais, óperas ou musicais,<br>ou musicais apresentados em eventos|-|-|
 |1.1|.... Locais ou regionais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
@@ -79,7 +79,7 @@
 
 <details><summary><b><H3>TABELA II–3) <ins>PRODUÇÃO TÉCNICA E TECNOLÓGICA</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Origem do registro**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Desenvolvimento de programa de computador (software) com registro<br>no INPI ou com disponibilização em ambientes de software livre|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |2|Desenvolvimento de software com divulgação em periódicos indexados<br>e com corpo editorial ou em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
@@ -122,7 +122,7 @@
 
 <details><summary><b><H3>TABELA II–4) <ins>OUTRO TIPO DE PRODUÇÃO</ins></H3></b></summary>
 
-|Item|Descrição|Pontos|**Origem do registro**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Artigos de opinião veiculados em jornais e revistas<br>(eletrônico ou impresso)|1|[O docente insere o registro](./fonte-insercao.md)|
 |2|Texto ou material didático para uso institucional<br>(não fracionados e com ampla divulgação)|2|[O docente insere o registro](./fonte-insercao.md)|
