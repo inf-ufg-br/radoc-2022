@@ -4,7 +4,7 @@
 
 <details><summary><H3><b>TABELA III-2) <ins>ATIVIDADES DE EXTENSÃO</ins></H3></b></summary>
   
-|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|Item|Descrição|Pontos|**Origem do Registro**|
 |-|-|-|-|
 |1|Coordenador de programa ou projeto de extensão aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[Registro importado de Sistemas UFG](./fonte-sistema.md)|
 |2|Coordenador de programa ou projeto de extensão/cultura cadastrado na PROEC III|5<br>(para 12 meses)<br>(máx. 15)|[Registro importado de Sistemas UFG](./fonte-sistema.md)|
