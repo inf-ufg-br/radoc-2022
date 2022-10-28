@@ -6,7 +6,7 @@
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1||||
+|1|Artigo completo ou texto literário publicado em periódico|||
 |1.1|.... Com classificação no Qualis*/CAPES A|25|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
