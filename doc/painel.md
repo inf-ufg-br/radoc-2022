@@ -8,7 +8,7 @@
 [![](../media/painel-zero-perguntas-frequentes.jpg)](./perguntas-frequentes.md/)
 [![](../media/painel-zero-radoc.jpg)](./painel-radoc.md/)
 [![](../media/painel-zero-cronograma.jpg)](./form-cronograma.md/)
-[![](../media/painel-zero-comissao.jpg)](./interacao.md/)
+[![](../media/painel-zero-comissao.jpg)](./form-comissao.md/)
 
 Fim	&#9749;
 
