@@ -6,12 +6,50 @@
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
-|1|Representante titular em conselho de classe profissional<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./fonte-portaria.md)|
-|2|Presidente do Sindicato de Docentes da UFG|10 (para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
-|3|Diretor do Sindicato de Docentes da UFG|3 (para 12 meses)|[Registro oriundo de Portaria](./fonte-portaria.md)|
-|4|Representante sindical<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./fonte-portaria.md)|
-|5|Representante em entidade científica, artística e cultural<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./fonte-portaria.md)|
-|6|Representante em comissão de órgão governamental<br>com carga horária igual ou superior a 150 horas|10 (para 12 meses) (para 150h)|[Registro oriundo de Portaria](./fonte-portaria.md)|
+|1|Aluno orientado em tese de doutorado defendida e aprovada|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|2|Aluno co-orientado em tese de doutorado defendida e aprovada|7|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|3|Aluno orientado em tese de doutorado em andamento|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|4|Aluno co-orientado em tese de doutorado em andamento|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5|Aluno orientado em dissertação de mestrado defendida e aprovada|15|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|6|Aluno co-orientado em dissertação de mestrado defendida e aprovada|5|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|7|Aluno orientado em dissertação de mestrado em andamento|8|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|8|Aluno co-orientado em dissertação de mestrado em andamento|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9|Aluno orientado em monografia de especialização aprovada|8<br>(máx. 24)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|10|Aluno orientado em monografia de especialização em andamento|4<br>(máx. 12)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
+
+
+
+
+11	Aluno orientado em residência médica ou em residência multiprofissional em saúde	5
+12	Aluno orientado em estágio curricular obrigatório	3
+13	Aluno orientado em projeto de final de curso	3
+14	Aluno de outra IFE orientado em tese de doutorado defendida e aprovada	6
+15	Aluno de outra IFE co-orientado em tese de doutorado defendida e aprovada	3
+16	Aluno de outra IFE orientado em tese de doutorado em andamento	3
+17	Aluno de outra IFE co-orientado em tese de doutorado em andamento	2
+18	Aluno de outra IFE orientado em dissertação de mestrado defendida e aprovada	4
+19	Aluno de outra IFE co-orientado em dissertação de mestrado defendida e aprovada	2
+20	Aluno de outra IFE orientado em dissertação de mestrado em andamento	2
+21	Aluno de outra IFE co-orientado em dissertação de mestrado em andamento	1
+22	Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)	6
+23	Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares	5
+24	Aluno orientado em programa especial de treinamento (PET)	5
+25	Aluno com bolsa orientado em projetos de pesquisa / inovação / extensão / cultura / ensino	4
+26	Aluno sem bolsa orientado em projetos de pesquisa, inovação, extensão, cultura e ensino	3
+27	Aluno orientado em programa de monitoria	3
+28	Aluno orientado em estágio curricular não obrigatório ou estágio docência	2
+29	Aluno orientado em prática como componente curricular (PCC)	1
+30	Aluno com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação orientado em programa de apoio pedagógico ou em trabalho final de curso	20
+(máx. 40)
+31	Pesquisador supervisionado em estágio de pós-doutoramento (PRODOC, PNPD, DCR, PDJ,
+PDS e similares)	8
+32	Aluno orientado em atividade de Preceptoria	1
+33	Aluno orientado em atividade de Tutoria	1
+34	Aluno orientado em Programa de Intercâmbio Internacional	1
+35	Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial	4
+(máx. 20)
+
+
 
 Fim &#9997;
