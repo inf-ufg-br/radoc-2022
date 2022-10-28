@@ -38,7 +38,7 @@
 |17.3|.... Regional ou Local|5|[O docente insere o registro](./fonte-insercao.md)|
 |18|Dissertação de Mestrado defendida e aprovada<br>(sendo o docente o autor da dissertação)|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |19|Tese de Doutorado defendida e aprovada<br>(sendo o docente o autor da tese)|40|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|20|Bolsista de Produtividade do CNPq|20 (para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
+|20|Bolsista de Produtividade do CNPq|20<br>(para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
 </details>
 
 Fim &#9997;
