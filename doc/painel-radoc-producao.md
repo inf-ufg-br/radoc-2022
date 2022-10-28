@@ -21,18 +21,16 @@
 |5.1|.... Internacional|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5.2|.... Nacional|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |5.3|.... Regional ou Local|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|6|Trabalho completo publicado em anais de congresso científico|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|7|Livro publicado com selo de editora que possua corpo editorial|40|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|8|Livro publicado com selo de editora que não possua corpo editorial|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|9|Capítulo de livro publicado com selo de editora que possua corpo editorial|10 (máx. 40)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|10|Edição ou organização de livro (coletânea) publicado<br>com selo de editora que possua corpo editorial|12|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|11|Capítulo traduzido de livro publicado<br>com selo de editora que possua corpo editorial|5(máx. 20)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|12|Tradução de livro publicado com selo de editora que possua corpo editorial|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
-6	Trabalho completo publicado em anais de congresso científico	10
-7	Livro publicado com selo de editora que possua corpo editorial	40
-8	Livro publicado com selo de editora que não possua corpo editorial	10
-9	Capítulo de livro publicado com selo de editora que possua corpo editorial	10
-(máx. 40)
-10	Edição ou organização de livro (coletânea) publicado com selo de editora que possua corpo
-editorial	12
-11	Capítulo traduzido de livro publicado com selo de editora que possua corpo editorial	5
-(máx. 20)
-12	Tradução de livro publicado com selo de editora que possua corpo editorial	20
+
 13	Tradução de artigos publicados em periódicos com classificação no Qualis	10
 14	Resenhas, prefácios ou verbetes	5
 15	Tradução de resenhas, prefácios ou verbetes	2
