@@ -16,8 +16,8 @@
 |8|Aluno co-orientado em dissertação de mestrado em andamento|3|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9|Aluno orientado em monografia de especialização aprovada|8<br>(máx. 24)|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |10|Aluno orientado em monografia de especialização em andamento|4<br>(máx. 12)|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|11|Aluno orientado em residência médica ou em residência multiprofissional em saúde|5|&#10084; [O docente insere o registro](./fonte-insercao.md)|
-|12|Aluno orientado em estágio curricular obrigatório|3|[O docente insere o registro](./fonte-insercao.md)|
+|11|Aluno orientado em residência médica ou em residência multiprofissional em saúde|5|&#9728; [O docente insere o registro](./fonte-insercao.md)|
+|12|Aluno orientado em estágio curricular obrigatório|3|[&#9728; O docente insere o registro](./fonte-insercao.md)|
 |13|Aluno orientado em projeto de final de curso|3|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |14|Aluno de outra IFE orientado em tese de doutorado defendida e aprovada|6|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |15|Aluno de outra IFE co-orientado em tese de doutorado defendida e aprovada|3|&#9752; [Registro oriundo do _Lattes_](./fonte-lattes.md)|
