@@ -43,4 +43,35 @@
 |35|Aluno de baixo rendimento acompanhado/orientado por meio de um projeto de ensino aprovado em reunião do Conselho Diretor da Unidade Acadêmica ou em reunião do Colegiado da Unidade Acadêmica Especial|4<br>(máx. 20)|[&#9728; Manual](./fonte-manual.md)|
 </details>
 
+<details><summary><b><H3>TABELA V–2) <ins>ATIVIDADES ACADÊMICAS – BANCAS E CURSOS</ins></H3></b></summary>
+  
+|Item|Descrição|Pontos|**COMO<br>INCLUIR**|
+|-|-|-|-|
+|1|Membro de banca de concurso para docente efetivo|-|-|
+|1.1|.... Na instituição|4|[&#9752; _Lattes_](./fonte-lattes.md)|
+|1.2|.... Em outra instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|2|Membro de banca de concurso para docente substituto|2|[&#9752; _Lattes_](./fonte-lattes.md)|
+|3|Membro de banca de defesa de dissertação de mestrado|-|-|
+|3.1|.... Na instituição|4|[&#9752; _Lattes_](./fonte-lattes.md)|
+|3.2|.... Em outra instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4|Membro de banca de defesa de tese de doutorado|-|-|
+|4.1|.... Na instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|4.2|.... Em outra instituição|8|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5|Membro de banca de qualificação de mestrado|-|-|
+|5.1|.... Na instituição|3|[&#9752; _Lattes_](./fonte-lattes.md)|
+|5.2|.... Em outra instituição|4|[&#9752; _Lattes_](./fonte-lattes.md)|
+|6|Membro de banca de qualificação de doutorado|-|-|
+|6.1|.... Na instituição|5|[&#9752; _Lattes_](./fonte-lattes.md)|
+|6.2|.... Em outra instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|7|Membro de banca de avaliação de memorial ou de tese inédita para promoção à Classe E, com denominação de Professor Titular|-|-|
+|7.1|.... Na instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
+|7.2|.... Em outra instituição|8|[&#9752; _Lattes_](./fonte-lattes.md)|
+|8|Membro de banca de defesa de monografia, projeto final de curso e outros tipos de bancas|3<br>(máx. 12)|[&#9752; _Lattes_](./fonte-lattes.md)<br>OU<br>[&#9728; Manual](./fonte-manual.md)|
+|9|Membro de corpo de júri|-|-|
+|9.1|.... Concursos internacionais|8|[&#9728; Manual](./fonte-manual.md)|
+|9.2|.... Concursos nacionais|6|[&#9728; Manual](./fonte-manual.md)|
+|10|Cursos, palestras ou treinamento não curricular ministrados para docentes, funcionários ou alunos da UFG|2|[&#9728; Manual](./fonte-manual.md)|
+|11|Coordenador de projeto institucional de intercâmbio internacional|10<br>(para 12 meses)|[&#9728; Manual](./fonte-manual.md)|
+</details>
+
 Fim &#9997;
