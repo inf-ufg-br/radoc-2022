@@ -16,22 +16,20 @@
 |8|Aluno co-orientado em dissertação de mestrado em andamento|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |9|Aluno orientado em monografia de especialização aprovada|8<br>(máx. 24)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |10|Aluno orientado em monografia de especialização em andamento|4<br>(máx. 12)|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|11|Aluno orientado em residência médica ou em residência multiprofissional em saúde|5|[O docente insere o registro](./fonte-insercao.md)|
+|12|Aluno orientado em estágio curricular obrigatório|3|[O docente insere o registro](./fonte-insercao.md)|
+|13|Aluno orientado em projeto de final de curso|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|14|Aluno de outra IFE orientado em tese de doutorado defendida e aprovada|6|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|15|Aluno de outra IFE co-orientado em tese de doutorado defendida e aprovada|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|16|Aluno de outra IFE orientado em tese de doutorado em andamento|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|17|Aluno de outra IFE co-orientado em tese de doutorado em andamento|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|18|Aluno de outra IFE orientado em dissertação de mestrado defendida e aprovada|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|19|Aluno de outra IFE co-orientado em dissertação de mestrado defendida e aprovada|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|20|Aluno de outra IFE orientado em dissertação de mestrado em andamento|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|21|Aluno de outra IFE co-orientado em dissertação de mestrado em andamento|1|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
 
-
-
-11	Aluno orientado em residência médica ou em residência multiprofissional em saúde	5
-12	Aluno orientado em estágio curricular obrigatório	3
-13	Aluno orientado em projeto de final de curso	3
-14	Aluno de outra IFE orientado em tese de doutorado defendida e aprovada	6
-15	Aluno de outra IFE co-orientado em tese de doutorado defendida e aprovada	3
-16	Aluno de outra IFE orientado em tese de doutorado em andamento	3
-17	Aluno de outra IFE co-orientado em tese de doutorado em andamento	2
-18	Aluno de outra IFE orientado em dissertação de mestrado defendida e aprovada	4
-19	Aluno de outra IFE co-orientado em dissertação de mestrado defendida e aprovada	2
-20	Aluno de outra IFE orientado em dissertação de mestrado em andamento	2
-21	Aluno de outra IFE co-orientado em dissertação de mestrado em andamento	1
 22	Aluno orientado em programas institucionais de iniciação científica, tecnológica, extensão, ensino e similares (PIBIC / PIVIC / PIBITI / PIVITI / ITI / ITC / PROLICEN / PICMEOBMEP / PROBEC / PROVEC / PIBID)	6
 23	Aluno orientado em programas institucionais de iniciação científica júnior, jovens talentos, apoio técnico e similares	5
 24	Aluno orientado em programa especial de treinamento (PET)	5
