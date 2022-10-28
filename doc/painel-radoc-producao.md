@@ -2,7 +2,7 @@
 
 <img src="../media/painel-producao-intelectual.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
-<details><summary><b><H3>TABELA IV–4) <ins>ATIVIDADES DE REPRESENTAÇÃO FORA DA UFG</ins></H3></b></summary>
+<details><summary><b><H3>TABELA II–1) <ins>PRODUÇÃO CIENTÍFICA</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
