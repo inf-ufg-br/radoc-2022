@@ -18,4 +18,12 @@
 |2|Aulas do ensino a distância na pós-graduação|10 * has (horas no ano/32)|[Registro importado de Sistemas UFG](./portaria.md)|
 </details>
 
+<details><summary><H3><b>TABELA I-3) <ins>PROJETOS DE ENSINO</ins></H3></b></summary>
+  
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|-|-|-|-|
+|1|Coordenador de projeto de ensino com comprovação de financiamento (exceto bolsas)|10|[Registro importado de Sistemas UFG](./portaria.md)|
+|2|	Coordenador de projeto de ensino sem financiamentoo|5 (máx. 10)|[Registro importado de Sistemas UFG](./portaria.md)|
+</details>
+
 Fim &#9997;
