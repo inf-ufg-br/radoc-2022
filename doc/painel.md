@@ -1,7 +1,6 @@
 # Mural INF/UFG sobre o RADOC/SICAD+
 
-O painel apresentado a seguir apoia o docente no processo de alimentar o seu RADOC, no contexto do SICAD+.
-<br><br>
+## Cronograma
 
 <table>
     <thead>
