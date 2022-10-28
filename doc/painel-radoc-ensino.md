@@ -22,8 +22,8 @@
   
 |Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
-|1|Coordenador de projeto de ensino<br>com comprovação de financiamento (exceto bolsas)|10|[&#10084; Sistemas](./fonte-sistema.md)|
-|2|Coordenador de projeto de ensino<br>sem financiamento|5 (máx. 10)|[&#10084; Sistemas](./fonte-sistema.md)|
+|1|Coordenador de projeto de ensino com comprovação de financiamento (exceto bolsas)|10|[&#10084; Sistemas](./fonte-sistema.md)|
+|2|Coordenador de projeto de ensino sem financiamento|5 (máx. 10)|[&#10084; Sistemas](./fonte-sistema.md)|
 </details>
 
 Fim &#9997;
