@@ -17,13 +17,12 @@
 |4.1|....	Internacional|8|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4.2|.... Nacional|6|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |4.3|....	Regional ou Local|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5|Resumo simples publicado em anais de congresso|(máx. 10)|-|
+|5.1|Internacional|4|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5.2|Nacional|3|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|5.3|Regional ou Local|2|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 </details>
 
-5	Resumo simples publicado em anais de congresso	-
-(máx. 10)
-5.1	Internacional	4
-5.2	Nacional	3
-5.3	Regional ou Local	2
 6	Trabalho completo publicado em anais de congresso científico	10
 7	Livro publicado com selo de editora que possua corpo editorial	40
 8	Livro publicado com selo de editora que não possua corpo editorial	10
