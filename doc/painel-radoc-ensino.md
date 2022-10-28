@@ -1,8 +1,8 @@
 # RADOC &#x2015; Ensino
 
-<img src="../media/painel-ensino.jpg" width="150"> Clique em uma das tabelas abaixo, para **instruções** sobre o tipo de registro RADOC.
+<img src="../media/painel-ensino.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
-<details><summary><H3><b>TABELA I-1) GRADUAÇÃO / EDUCAÇÃO BÁSICA</H3></b></summary>
+<details><summary><H3><b>TABELA I-1) <ins>GRADUAÇÃO / EDUCAÇÃO BÁSICA</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
 |-|-|-|-|
