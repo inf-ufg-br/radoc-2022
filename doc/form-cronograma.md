@@ -1,7 +1,5 @@
 # Cronograma
 
-## Cronograma
-
 |Seq|ATIVIDADE|QUEM|**DATA LIMITE**|
 |-|-|-|-|
 |1|Alimentar e enviar o RADOC para a Comissão|Docente|**15 Nov 2022**|
