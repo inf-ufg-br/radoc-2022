@@ -2,6 +2,13 @@
 
 <img src="../media/painel-producao-intelectual.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
+<details><summary><b><H3>TABELA IV–1) <ins>DIREÇÃO E FUNÇÃO GRATIFICADA</ins></H3></b></summary>
+
+|Item|Descrição|Pontos|**_Link_ para Instruções**|
+|-|-|-|-|
+|1|Reitor ou Vice-Reitor ou Pró-Reitor|14 (por mês)|[Registro oriundo de Portaria](./portaria.md)|
+</details>
+
 <details><summary><b><H3>TABELA II–1) <ins>PRODUÇÃO CIENTÍFICA</ins></H3></b></summary>
   
 |Item|Descrição|Pontos|**_Link_ para Instruções**|
