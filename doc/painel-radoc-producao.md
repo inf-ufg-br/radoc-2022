@@ -31,13 +31,13 @@
 |13|Tradução de artigos publicados em periódicos<br>com classificação no Qualis|10|[O docente insere o registro](./fonte-insercao.md)|
 |14|Resenhas, prefácios ou verbetes|5|[O docente insere o registro](./fonte-insercao.md)|
 |15|Tradução de resenhas, prefácios ou verbetes|2|[O docente insere o registro](./fonte-insercao.md)|
-|16|Livro didático desenvolvido para projetos institucionais/governamentais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|16|Livro didático desenvolvido para projetos<br>institucionais/governamentais|10|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |17|Editor de Anais de Eventos|(máx. 1 evento)|-|
 |17.1|.... Internacional|15|[O docente insere o registro](./fonte-insercao.md)|
 |17.2|.... Nacional|10|[O docente insere o registro](./fonte-insercao.md)|
 |17.3|.... Regional ou Local|5|[O docente insere o registro](./fonte-insercao.md)|
-|18|Dissertação de Mestrado defendida e aprovada (sendo o docente o autor da dissertação)|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
-|19|Tese de Doutorado defendida e aprovada (sendo o docente o autor da tese)|40|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|18|Dissertação de Mestrado defendida e aprovada<br>(sendo o docente o autor da dissertação)|20|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
+|19|Tese de Doutorado defendida e aprovada<br>(sendo o docente o autor da tese)|40|[Registro oriundo do _Lattes_](./fonte-lattes.md)|
 |20|Bolsista de Produtividade do CNPq|20 (para 12 meses)|[O docente insere o registro](./fonte-insercao.md)|
 (para 12 meses)</details>
 
