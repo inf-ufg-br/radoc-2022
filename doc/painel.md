@@ -13,28 +13,19 @@ O painel apresentado a seguir apoia o docente no processo de alimentar o seu RAD
     </thead>
     <tbody>
         <tr>
-            <td>Alimentar o RADOC</td>
+            <td>Alimentar e enviar o RADOC para a Comissão</td>
             <td>Docente</td>
             <td><b>15 Nov 2022</b></td>
         </tr>    
         <tr>
-            <td>Analisar o RADOC</td>
+            <td>Analisar e devolver o RADOC com anotações ao Docente </td>
             <td>Comissão</td>
-            <td><b>28Nov 2022</b></td>
+            <td><b>28 Nov 2022</b></td>
         </tr>    
         <tr>
-            <td><b>Alterar RADOC</b></td>
-            <td><i>backlog</i></td>
-            <td>Dec 05, 2022</td>
+            <td>Ajustar o RADOC conforme anotações e devolver a Comissão</td>
             <td>Docente</td>
-            <td>Enviado para a comissão: RADOC alterado conforme anotações</td>
-        </tr>    
-        <tr>
-            <td><b>Avaliar RADOC</b></td>
-            <td><i>backlog</i></td>
-            <td>Dec 15, 2022</td>
-            <td>Comissão</td>
-            <td>Enviado para o CD: Relatórios finais</td>
+            <td><b>05 Dez 2022</b></td>
         </tr>    
     </tbody>
 </table>
