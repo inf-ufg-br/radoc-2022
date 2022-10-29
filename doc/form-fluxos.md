@@ -20,7 +20,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 </tr>
 <tr>
 <td> <img src="../media/icon-portaria.jpg" width=100> </td>
-<td><a href="./lattes.md">O registro é importado a partir de portarias emitidas pela UFG (via software SIGRH-Portarias, ou via formulário para informar uma portaria).</a></td>
+<td><a href="./lattes.md">O registro é importado de portarias emitidas pela UFG (via software SIGRH-Portarias ou formulário específico).</a></td>
 </tr>
 <tr>
 <td> <img src="../media/icon-sistemas.jpg" width=100> </td>
