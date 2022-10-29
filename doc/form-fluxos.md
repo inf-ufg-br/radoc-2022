@@ -11,7 +11,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 
 <table>
 <tr>
-<td> <img src="../media/icon-lattes.jpg"> </td>
+<td> <img src="../media/icon-lattes.jpg" width=100> </td>
 <td> teste </td>
 </tr>
 <tr>
