@@ -4,6 +4,13 @@ A Figura abaixo busca a esclarecer o **fluxo principal** para a inclusão de reg
 
 <img src="../media/fluxo-principal.jpg" width="600">
 
+O fluxo exibido na figura é recorrente para as atividades executadas pelo docente em 2022:
+1. O docente realiza uma atividade em 2022.
+1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro caminhos
+
+
+1. O fluxo inicia com o docente 
+
 **Falar com a Comissão é <ins>SIMPLES</ins>**:
 - A interação ocorre via "issues" do **GitHub**:
 - Clique [**AQUI**](https://github.com/signup) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
