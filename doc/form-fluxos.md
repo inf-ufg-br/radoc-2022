@@ -8,18 +8,15 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 1. O docente realiza uma atividade em 2022.
 1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro alternativas principais para a inclusão do registro:
 
-|-|-|
-|<img src="../media/fluxo-principal.jpg" width="150">|<img src="../media/fluxo-principal.jpg" width="150">|
-
 
 <table>
 <tr>
 <td> <img src="../media/fluxo-principal.jpg" width="150"> </td>
-<td> <img src="../media/fluxo-principal.jpg" width="150"> </td>
+<td> teste </td>
 </tr>
 <tr>
 <td> <img src="../media/fluxo-principal.jpg" width="150"> </td>
-<td> <img src="../media/fluxo-principal.jpg" width="150"> </td>
+<td> teste </td>
 </tr>
 </table>
 
