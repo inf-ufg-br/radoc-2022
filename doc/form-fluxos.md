@@ -15,8 +15,8 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 <th>Descrição</th>
 </tr>
 <tr>
-<td> [![](../media/icon-lattes.jpg)](./lattes.md/) </td>
-<td> teste </td>
+<td> <img src="../media/icon-lattes.jpg" width=100> </td>
+  <td> <a href="O docente alimenta o <i>Lattes</i>, o registro é importado do <">"./lattes.md"</a>teste </td>
 </tr>
 <tr>
 <td> <img src="../media/icon-portaria.jpg" width=100> </td>
