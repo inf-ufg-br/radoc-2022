@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td> <img src="../media/icon-lattes.jpg" width=100> </td>
-  <td><a href="./lattes.md"><H>Registros oriundos do <i>Lattes</i></H></a></td>
+  <td><a href="./lattes.md"><H1>Registros oriundos do <i>Lattes</i></H1></a></td>
 </tr>
 </table>
 
