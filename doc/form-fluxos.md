@@ -24,12 +24,13 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 </tr>
 <tr>
 <td> <img src="../media/icon-sistemas.jpg" width=100> </td>
-<td><a href="./lattes.md">O registro é importado a partir de sistemas UFG, tais como SIGAA-Ensino, SIGAA-Extensão, etc.</a><</td>
+<td><a href="./lattes.md">O registro é importado a partir de sistemas UFG, tais como SIGAA-Ensino, SIGAA-Extensão, etc.</a></td>
 </tr>
 <tr>
 <td> <img src="../media/icon-manual.jpg" width=100> </td>
   <td><a href="./lattes.md">O docente é responsável por <i>explicitamente</i> inserir (digitar) o registro no RADOC.</a></td>
 </tr>
 </table>
+3. O docente utiliza o SICAD+ para conferir se o registro está corretamente inserido no RADOC.
 
 Fim &#9997;
