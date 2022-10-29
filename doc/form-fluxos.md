@@ -2,14 +2,14 @@
 
 A Figura abaixo busca a esclarecer o **fluxo principal** para a inclusão de registros no RADOC, no contexto do SICAD+.
 
-<img src="../media/fluxo-principal.jpg" width="600">
+<img src="../media/fluxo-principal.jpg" width="650">
 
 O fluxo exibido na figura é recorrente para as atividades executadas pelo docente em 2022:
 1. O docente realiza uma atividade em 2022.
 1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro alternativas principais para a inclusão do registro:
 
 
-
+|<img src="../media/fluxo-principal.jpg" width="50">|<img src="../media/fluxo-principal.jpg" width="50">|
 
 
 
