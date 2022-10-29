@@ -2,6 +2,8 @@
 
 O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão.
 
+<img src="../media/fluxo-principal.jpg" width="700">
+
 **Falar com a Comissão é <ins>SIMPLES</ins>**:
 - A interação ocorre via "issues" do **GitHub**:
 - Clique [**AQUI**](https://github.com/signup) para cadastrar uma conta (gratuita) no GitHub, caso não tenha.
