@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td> <img src="../media/icon-lattes.jpg" width=100> </td>
-  <td><a href="./lattes.md">O docente alimenta o <i>Lattes</i>, o registro é importado a partir do <i>Lattes</i>, o docente complementa os dados do registro.</a></td>
+  <td><a href="./lattes.md">Registros oriundos do <i>Lattes</i>.</a></td>
 </tr>
 </table>
 
