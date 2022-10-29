@@ -12,7 +12,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 <table>
 <tr>
 <th>Alternativa</th>
-<th>Descrição</th>
+  <th>Descrição (<i>clique na descrição para obter detalhes</i>)</th>
 </tr>
 <tr>
 <td> <img src="../media/icon-lattes.jpg" width=100> </td>
