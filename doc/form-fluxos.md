@@ -28,7 +28,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 </tr>
 <tr>
 <td> <img src="../media/icon-manual.jpg" width=100> </td>
-<td><a href="./lattes.md">O docente é responsável por inserir (digitar) o registro no RADOC.</a><</td>
+<td><a href="./lattes.md">O docente é responsável por _explicitamente_ inserir (digitar) o registro no RADOC.</a></td>
 </tr>
 </table>
 
