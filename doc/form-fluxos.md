@@ -1,5 +1,12 @@
 # Fluxos RADOC/SICAD+
 
+<table>
+<tr>
+<td> <img src="../media/icon-lattes.jpg" width=100> </td>
+  <td><a href="./lattes.md">O docente alimenta o <i>Lattes</i>, o registro é importado a partir do <i>Lattes</i>, o docente complementa os dados do registro.</a></td>
+</tr>
+</table>
+
 A Figura abaixo busca a esclarecer o **FLUXO GERAL** para a inclusão de registros no RADOC, no contexto do SICAD+.
 
 <img src="../media/fluxo-principal.jpg" width="650">
