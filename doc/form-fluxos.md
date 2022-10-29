@@ -6,7 +6,11 @@ A Figura abaixo busca a esclarecer o **fluxo principal** para a inclusão de reg
 
 O fluxo exibido na figura é recorrente para as atividades executadas pelo docente em 2022:
 1. O docente realiza uma atividade em 2022.
-1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro caminhos
+1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro alternativas principais para a inclusão do registro:
+
+
+
+
 
 
 1. O fluxo inicia com o docente 
