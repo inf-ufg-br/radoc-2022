@@ -1,12 +1,5 @@
 # Fluxos RADOC/SICAD+
 
-<table>
-<tr>
-<td> <img src="../media/icon-lattes.jpg" width=100> </td>
-  <td><a href="./lattes.md"><H1>Registros oriundos do <i>Lattes</i></H1></a></td>
-</tr>
-</table>
-
 A Figura abaixo busca a esclarecer o **FLUXO GERAL** para a inclusão de registros no RADOC, no contexto do SICAD+.
 
 <img src="../media/fluxo-principal.jpg" width="650">
