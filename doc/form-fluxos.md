@@ -11,19 +11,23 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 
 <table>
 <tr>
+<th>Alternativa</th>
+<th>Descrição</th>
+</tr>
+<tr>
 <td> <img src="../media/icon-lattes.jpg" width=100> </td>
 <td> teste </td>
 </tr>
 <tr>
-<td> <img src="../media/icon-portaria.jpg"> </td>
+<td> <img src="../media/icon-portaria.jpg" width=100> </td>
 <td> teste </td>
 </tr>
 <tr>
-<td> <img src="../media/icon-sistemas.jpg"> </td>
+<td> <img src="../media/icon-sistemas.jpg" width=100> </td>
 <td> teste </td>
 </tr>
 <tr>
-<td> <img src="../media/icon-manual.jpg"> </td>
+<td> <img src="../media/icon-manual.jpg" width=100> </td>
 <td> teste </td>
 </tr>
 </table>
