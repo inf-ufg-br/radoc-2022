@@ -1,4 +1,5 @@
 # Mural INF/UFG sobre o RADOC/SICAD+
+###### *by [Comissão RADOC 2022](./doc/x-index.md)*
 
 > Os cartões abaixo orientam sobre o RADOC/SICAD+:<br>&#9749; Sugestão: inicie por "Apresentação" e siga os cartões em sentido horário.
 
