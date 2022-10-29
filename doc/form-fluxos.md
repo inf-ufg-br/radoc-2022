@@ -15,7 +15,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 <th>Descrição</th>
 </tr>
 <tr>
-<td> <img src="../media/icon-lattes.jpg" width=100> </td>
+<td> [![](../media/icon-lattes.jpg)](./lattes.md/) </td>
 <td> teste </td>
 </tr>
 <tr>
