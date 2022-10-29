@@ -1,4 +1,4 @@
-# Mural INF/UFG sobre o RADOC/SICAD+
+# Mural sobre o RADOC/SICAD+
 
 > Os cartões abaixo orientam sobre o RADOC/SICAD+:<br>&#9749; Sugestão: inicie por "Apresentação" e siga os cartões em sentido horário.
 
