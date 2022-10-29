@@ -33,7 +33,7 @@ O fluxo exibido na figura é recorrente para as atividades executadas pelo docen
 </tr>
 </table>
 
-3. O docente utiliza o SICAD+ para conferir se o registro está corretamente inserido no RADOC.
+3. O docente utiliza o SICAD+ para conferir se o registro foi corretamente inserido no RADOC.
 
 
 Fim &#9997;
