@@ -11,4 +11,4 @@
 [![](../media/painel-zero-comissao.jpg)](./form-comissao.md/)
 
 Fim	&#9749;
-
+###### *by [Comissão RADOC 2022](./doc/x-index.md)*
