@@ -1,4 +1,9 @@
-# Mural INF/UFG &#x27FC; Registros RADOC oriundos do _Lattes_
+<table>
+<tr>
+<td> <img src="../media/icon-lattes.jpg" width=100> </td>
+  <td><a href="./lattes.md"><H1>Registros RADOC oriundos do <i>Lattes</i></H1></a></td>
+</tr>
+</table>
 
 O conteúdo do _Currículo Lattes_ é uma das **fontes de informação do RADOC**:
 - Os tipos de registro passíveis de importação a partir do _Lattes_ são ilustrados [aqui](../media/lattes.jpg).
