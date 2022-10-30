@@ -19,6 +19,8 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
         - o docente AGUARDA o processamento do formulário (solicitação de inserção).
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
+### OFÍCIO CIRCULAR 8 (3159832) no Processo SEI 23070.047822/2022-40
+
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
 1. O docente AGUARDA a importação dos registros no _**Lattes**_ para o RADOC.
