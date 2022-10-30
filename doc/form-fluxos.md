@@ -7,7 +7,7 @@ A Figura abaixo busca a esclarecer o **FLUXO GERAL** para a inclusão de registr
 O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas pelo docente em 2022:<br>
 
 1. O docente realiza uma atividade em 2022.
-1. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro alternativas principais para a inclusão do registro:
+2. A atividade é então inserida no RADOC. A depender da natureza da atividade, um tipo de registro é escolhido para inserir a atividade no RADOC. Há quatro alternativas principais para a inclusão do registro:
 
 |Alternativa|Descrição (_clique para detalhes sobre cada alternativa_)|
 |-|-|
@@ -16,6 +16,6 @@ O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas
 |[<img src="../media/icon-sistemas.jpg" width=100>](./fonte-sistemas.md)|[O registro é importado a partir de SISTEMAS da UFG](./fonte-sistemas.md)|
 |[<img src="../media/icon-manual.jpg" width=100>](./fonte-manual.md)|[O registro é inserido de forma manual pelo docente](./fonte-manual.md)|
 
-2. O docente utiliza o SICAD+ para conferir se o registro foi corretamente inserido no RADOC.
+3. O docente utiliza o SICAD+ para conferir se o registro foi corretamente inserido no RADOC.
 
 Fim &#9997;
