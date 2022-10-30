@@ -4,7 +4,7 @@ O conteúdo do _Currículo Lattes_ é uma das **fontes de informação do RADOC*
 
 > Os tipos de registro passíveis de importação a partir do _Lattes_ são ilustrados [**AQUI**](../media/interface-lattes.jpg).
 
-A figura a seguir ilustra o **Fluxo para Registros RADOC oriundos do _Lattes_**.
+A figura a seguir ilustra o <ins>**Fluxo para Registros RADOC oriundos do _Lattes_**</ins>.
 
 <img src="../media/fluxo-lattes.jpg" width="700">
 
