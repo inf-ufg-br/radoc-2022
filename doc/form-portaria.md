@@ -21,9 +21,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
 
 Fim &#9997;
 ___
-## Ofício Circular 8 (3159832) no Processo SEI 23070.047822/2022-40
-
-### Para fins de informação ...
+### Para fins de informação ...<br>Ofício Circular 8 (3159832) no Processo SEI 23070.047822/2022-40
 
 O Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022-40** versa sobre o uso do software **SIGRH-Portarias**[^1]:
 - Sobre as portarias emitidas pela ADMINISTRAÇÃO CENTRAL (Reitoria, Pró-reitorias, etc.):
