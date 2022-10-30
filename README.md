@@ -11,8 +11,8 @@ Em 2022, a UFG passa a usar o software **SICAD+**[^2]:
 
 <br>
 
-[^1]: **RADOC** denota "Relatório de Atividades DOCentes". leftwards_arrow_with_hook
-[^2]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes). leftwards_arrow_with_hook
+[^1]: **RADOC** denota "Relatório de Atividades DOCentes".
+[^2]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes).
 [^3]: A **Comissão RADOC 2022** foi designada pelo INF/UFG para apoiar os docentes da unidade acadêmica na elaboração do RADOC, pertinente às tarefas desempenhas em 2022.
 
 Fim &#9997;
