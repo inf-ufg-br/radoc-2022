@@ -1,4 +1,4 @@
-# Falar com a Comissão RADOC 2022
+# Falar com a Comissão
 
 O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão.
 
