@@ -1,4 +1,4 @@
-# RADOC &#x2015; Administrativas
+# RADOC: Administrativas
 
 <img src="../media/painel-administracao.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
