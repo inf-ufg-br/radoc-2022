@@ -1,5 +1,5 @@
 # Área de apoio do INF/UFG para o RADOC 2022
-###### *by [Comissão RADOC 2022](./doc/x-index.md)* [^1]
+###### *by [Comissão RADOC 2022](./doc/x-index.md#comissão-radoc-2022)* [^1]
 
 ## Apresentação
 
