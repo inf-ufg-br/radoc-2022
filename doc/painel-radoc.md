@@ -1,4 +1,4 @@
-# Alimentar o RADOC
+# Painel: Alimentar o RADOC
 
 > O Painel abaixo busca a orientar o docente sobre **inserir registros** no RADOC/SICAD+:
 1. Clique no quadro que melhor denota o registro a ser inserido.
