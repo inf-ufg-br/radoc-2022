@@ -1,4 +1,4 @@
-# RADOC &#x2015; Extensão
+# RADOC: Extensão
 
 <img src="../media/painel-extensao.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
