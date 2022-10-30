@@ -2,7 +2,7 @@
 
 Alguns registros do RADOC devem ser inseridos pelo docente de forma MANUAL, pois tais não são importados:
 
-> Os tipos de registro passíveis de inserção manual listados [**AQUI**](./fonte-manual-registros.md).
+> Os tipos de registro passíveis de inserção manual são listados [**AQUI**](./fonte-manual-registros.md).
 
 ## FLUXO para Registros RADOC oriundos do _LATTES_
 
