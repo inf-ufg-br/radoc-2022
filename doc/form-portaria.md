@@ -23,7 +23,7 @@ Fim &#9997;
 ___
 ## <ins>Ofício Circular</ins> 8 (3159832) no <ins>Processo SEI</ins> 23070.047822/2022-40
 
-Fara fins de informação, o Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022-40** versa sobre o uso do software **SIGRH-Portarias**[^1]:
+<ins>Para fins de informação</ins>, o Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022-40** versa sobre o uso do software **SIGRH-Portarias**[^1]:
 - Sobre as portarias emitidas pela ADMINISTRAÇÃO CENTRAL (Reitoria, Pró-reitorias, etc.):
   - As portarias FORAM EMITIDAS via **SIGRH-Portarias**.
 - Sobre as portarias emitidas por ÓRGÃOS, UNIDADES ACADÊMICAS ou UNIDADES ACADÊMICAS ESPECIAIS, **que é o caso do INF**:
