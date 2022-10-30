@@ -12,7 +12,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
    - Portarias que mencionam o seu nome; E
    - Portarias com vigência [de pelo menos um dia] em 2022:
      - inclui portarias emitidas em anos anteriores.
-1. Para <ins>**cada uma de suas portarias**</ins>CADA UMA DE SUAS PORTARIAS:
+1. Para <ins>**cada uma de suas portarias**</ins>:
    1. O docente utiliza o SICAD+ para CHECAR se a portaria (e sua pontuação) está no RADOC:
       - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
       - O docente AGUARDA o processamento do formulário (pedido de inserção).
