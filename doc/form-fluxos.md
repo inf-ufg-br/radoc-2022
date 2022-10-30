@@ -1,4 +1,4 @@
-# Fluxos RADOC
+# Fluxos RADOC/SICAD+
 
 A Figura abaixo busca a esclarecer o **FLUXO GERAL** para a inclusão de registros no RADOC, no contexto do SICAD+.
 
