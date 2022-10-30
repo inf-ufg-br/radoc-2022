@@ -31,7 +31,7 @@ ___
     - As portarias emitidas **A PARTIR DE 05 de setembro de 2022** FORAM emitidas via **SIGRH-Portarias**.
 
 Apesar de saber que as portarias emitidas via **SIGRH-Portarias** são automaticamente importadas para o RADOC:
-  - CABE AO DOCENTE AVERIGUAR se a portaria está presente no RADOC:
+  - CABE AO DOCENTE AVERIGUAR se <ins>cada uma e suas portarias</ins> está presente no RADOC:
     - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
   - As portarias em anos anteriores (por exemplo, em 2021) e vigentes em 2022 DEVEM SER CONSIDERADAS.
 
