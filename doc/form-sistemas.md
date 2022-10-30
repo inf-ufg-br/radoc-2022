@@ -5,7 +5,7 @@ Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
 
 ## FLUXO para Registros RADOC importados a partir de Sistemas da UFG
 
-[<img src="../media/fluxo-sistemas.jpg" width="850">](#fluxo-para-registros-radoc-importados-a-partir-de-sistemas-da-ufg)
+[<img src="../media/fluxo-sistemas.jpg" width="750">](#fluxo-para-registros-radoc-importados-a-partir-de-sistemas-da-ufg)
 
 Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
 1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
