@@ -12,10 +12,10 @@ Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos*
 1. Para <ins>**cada dos registros oriundos de Sistemas UFG**</ins>:
    1. O docente CHECA [via SICAD+] se o registro [e sua pontuação] estão no RADOC:
       - Em caso NEGATIVO:
-        1. o docente AVERIGUA que <i>**Reguisitos do Registro**</i> estão PENDENTES:
-          - consultar a coluna REQUISITOS em [Fontes de Informação](https://cercomp.ufg.br/p/mapeamento-sicad).
-        2. o docente RESOLVE os <i>**Requisitos do Registro**</i>.
-        - o docente AGUARDA o processamento do formulário (solicitação de inserção).
+        1. o docente AVERIGUA que <i>**Requisitos do Registro**</i> estão PENDENTES:
+           - consultar a coluna REQUISITOS em [Fontes de Informação](https://cercomp.ufg.br/p/mapeamento-sicad).
+        1. o docente RESOLVE os <i>**Requisitos do Registro**</i>.
+        1. o docente AGUARDA o processamento dos requisitos.
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
 Fim &#9997;
