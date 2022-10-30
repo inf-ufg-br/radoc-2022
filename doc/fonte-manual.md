@@ -2,13 +2,13 @@
 
 Alguns registros do RADOC devem ser inseridos pelo docente de forma MANUAL, pois tais não são importados:
 
-> Os tipos de registro passíveis de inserção manual são listados [**AQUI**](./fonte-manual-registros.md).
+> Os tipos de registro <ins>passíveis de inserção manual</ins> são listados [**AQUI**](./fonte-manual-registros.md).
 
 ## FLUXO para Registros RADOC inseridos de forma MANUAL
 
 [<img src="../media/fluxo-lattes.jpg" width="850">](#fluxo-para-registros-radoc-oriundos-do-lattes)
 
-Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
+Cabe ao docente INSERIR via SIGAA os registros de forma manual:
 
 
 **Outros tipos de registro** podem ser inseridos no RADOC:
