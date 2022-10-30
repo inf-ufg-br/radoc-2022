@@ -8,11 +8,11 @@ A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de PORTAR
 <img src="../media/fluxo-portaria.jpg" width="850">
 
 Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
-1. Inicialmente, o docente precisa IDENTIFICAR todas as portarias que:
-   - Mencionam o seu nome; e
-   - Possuem vigência em 2022:
+1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
+   - Portarias que encionam o seu nome; E
+   - Portarias com vigência [de pelo menos um dia em] 2022:
      - inclui portarias emitidas em anos anteriores.
-1. Para **cada portaria identificada**:
+1. Para <ins>**cada portaria identificada**</ins>:
    1. O docente utiliza o SICAD+ para CHECAR se a portaria (e sua pontuação) está no RADOC:
       - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
       - O docente AGUARDA o processamento do formulário (pedido de inserção).
