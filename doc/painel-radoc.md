@@ -1,7 +1,7 @@
 # Painel: Alimentar o RADOC
 
 O Painel abaixo busca a orientar o docente sobre **como inserir registros** no RADOC:
-> Clique no quadro que melhor denota o registro a ser inserido.
+> Clique no cartão que melhor denota o registro a ser inserido.
 
 [![](../media/painel-ensino.jpg)](./painel-radoc-ensino.md#radoc-ensino/)[![](../media/painel-producao-intelectual.jpg)](./painel-radoc-producao.md/#radoc-produção-intelectual)[![](../media/painel-pesquisa.jpg)](./painel-radoc-pesquisa.md#radoc-pesquisa/)
 [![](../media/painel-extensao.jpg)](./painel-radoc-extensao.md#radoc-extensão/)[![](../media/painel-administracao.jpg)](./painel-radoc-administracao.md/#radoc-administrativas)[![](../media/painel-representacao.jpg)](./painel-radoc-representacao.md#radoc-representação/)
