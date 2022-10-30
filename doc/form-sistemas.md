@@ -7,7 +7,7 @@ Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
 
 [<img src="../media/fluxo-sistemas.jpg" width="750">](#fluxo-para-registros-radoc-importados-a-partir-de-sistemas-da-ufg)
 
-Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
+Cabe ao docente AVERIGUAR <i>**se os requisitos dos registros foram atendidos**</i>:
 1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
    - Portarias que mencionam o seu nome; E
    - Portarias com vigência [de pelo menos um dia] em 2022:
