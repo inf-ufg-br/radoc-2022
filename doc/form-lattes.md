@@ -1,3 +1,6 @@
+# <img src="../media/icon-lattes.jpg" width=100> Registros RADOC oriundos do <i>Lattes</i>
+
+
 <table>
 <tr>
 <td> <img src="../media/icon-lattes.jpg" width=100> </td>
