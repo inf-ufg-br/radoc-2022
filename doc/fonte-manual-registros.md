@@ -3,7 +3,7 @@
 Abaixo estão as categorias (grupos) para os tipos de registros RADOC inseridos manualmente:
 > Clique nas categorias abaixo, para consultar os tipos de registro de cada categoria.
 
-<br><br>
+<br>
 <details><summary>Atividades Acadêmicas – Bancas e Cursos:</summary>
 <p>
 - Coordenador de projeto institucional de intercâmbio internacional<br>
