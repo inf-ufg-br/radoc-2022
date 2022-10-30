@@ -1,0 +1,22 @@
+# [<img src="../media/icon-sistemas.jpg" width=100>](./form-portaria.md) Registros RADOC importados a partir de SISTEMAS da UFG
+
+As Portarias emitidas pela UFG são _potencialmente_ uma das <ins>**Fontes de informação do RADOC**</ins>:
+> As portarias emitidas via **SIGRH-Portarias**[^1] são automaticamente importadas para o RADOC:
+
+## FLUXO para Registros RADOC oriundos de PORTARIAS
+
+[<img src="../media/fluxo-portaria.jpg" width="850">](#fluxo-para-registros-radoc-oriundos-de-portarias)
+
+Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
+1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
+   - Portarias que mencionam o seu nome; E
+   - Portarias com vigência [de pelo menos um dia] em 2022:
+     - inclui portarias emitidas em anos anteriores.
+1. Para <ins>**cada uma de suas portarias**</ins>:
+   1. O docente CHECA [via SICAD+] se a portaria [e sua pontuação] estão no RADOC:
+      - Em caso NEGATIVO:
+        - o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8);
+        - o docente AGUARDA o processamento do formulário (solicitação de inserção).
+   1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
+
+Fim &#9997;
