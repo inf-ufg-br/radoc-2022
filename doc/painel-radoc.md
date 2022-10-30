@@ -1,6 +1,6 @@
 # Painel: Alimentar o RADOC
 
-O Painel abaixo busca a orientar o docente sobre **como inserir registros** no RADOC:
+O Painel abaixo busca a orientar o docente sobre <ins>**como inserir registros**</ins> no RADOC:
 > O painel é baseado na _interface_ do SICAR+.<br>Clique no cartão que melhor denota o registro a ser inserido.
 
 [![](../media/painel-ensino.jpg)](./painel-radoc-ensino.md#radoc-ensino/)[![](../media/painel-producao-intelectual.jpg)](./painel-radoc-producao.md/#radoc-produção-intelectual)[![](../media/painel-pesquisa.jpg)](./painel-radoc-pesquisa.md#radoc-pesquisa/)
