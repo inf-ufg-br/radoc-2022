@@ -1,4 +1,4 @@
-# RADOC &#x2015; Afastamentos
+# RADOC: Afastamentos
 
 <img src="../media/painel-afastamento.jpg" width="150">
 
