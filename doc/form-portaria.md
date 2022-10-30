@@ -5,6 +5,8 @@ As Portarias emitidas pela UFG são _potencialmente_ uma das <ins>**Fontes de in
 
 A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de PORTARIAS**</ins>.
 
+### FLUXO para Registros RADOC oriundos de PORTARIAS
+
 <img src="../media/fluxo-portaria.jpg" width="850">
 
 Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
