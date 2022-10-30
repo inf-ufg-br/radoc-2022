@@ -9,11 +9,7 @@ Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
 
 Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos**</ins>:
 1. Os Sistemas da UFG são ALIMENTADOS durante o Ano 2022.
-1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
-   - Portarias que mencionam o seu nome; E
-   - Portarias com vigência [de pelo menos um dia] em 2022:
-     - inclui portarias emitidas em anos anteriores.
-1. Para <ins>**cada uma de suas portarias**</ins>:
+1. Para <ins>**cada dos registros oriundos de Sistemas UFG**</ins>:
    1. O docente CHECA [via SICAD+] se a portaria [e sua pontuação] estão no RADOC:
       - Em caso NEGATIVO:
         - o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8);
