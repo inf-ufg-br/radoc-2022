@@ -6,7 +6,7 @@ Alguns registros do RADOC devem ser inseridos pelo docente de forma MANUAL, pois
 
 ## FLUXO para Registros RADOC inseridos de forma MANUAL
 
-[<img src="../media/fluxo-manual.jpg" width="850">](#fluxo-para-registros-inseridos-de-forma-manul)
+[<img src="../media/fluxo-manual.jpg" width="600">](#fluxo-para-registros-inseridos-de-forma-manul)
 
 Cabe ao docente INSERIR via SIGAA os registros de forma manual:
 1. Inicialmente, o docente ACESSA a _interface_ para **Outras Produções** no SIGAA:
