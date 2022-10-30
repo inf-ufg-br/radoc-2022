@@ -15,7 +15,7 @@ A figura a seguir ilustra o **Fluxo para Registros RADOC oriundos do _Lattes_**.
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
-1. O docente AGUARDA para que os registros no _**Lattes**_ sejam importados para o RADOC.
+1. O docente AGUARDA a importação dos registros no _**Lattes**_ para o RADOC.
 1. O docente ACESSA a _interface_ para **Produções Lattes** no SIGAA:
    - Entre no SIGAA.
    - Selecione "Produção Intelectual" >> "Minhas Produções - Lattes".
@@ -25,7 +25,7 @@ Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
    - O docente precisa complementar:
         - projeto associado; e
         - classificação Qualis/CAPES.
-   - Observe que o docente deve complementar o conteúdo da área editável na _interface_ 1.<br><img src="../media/interface-lattes-2.jpg" width="400">
+   - Observe que o docente deve complementar o conteúdo da área editável na _interface_.<br><img src="../media/interface-lattes-2.jpg" width="400">
 1. O docente AGUARDA o processamento dos complementos realizados.
 1. O docente CONFERE os dados dos registros no RADOC via SICAD+.
 
