@@ -27,7 +27,7 @@ ___
 
 O Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022-40** versa sobre o uso do software **SIGRH-Portarias**[^1]:
 - Sobre as portarias emitidas pela ADMINISTRAÇÃO CENTRAL (Reitoria, Pró-reitorias, etc.):
-  - As portarias FORAM EMITIDAS via **SIGRH-Portarias**.
+  - As portarias FORAM EMITIDAS em 2022 via **SIGRH-Portarias**.
 - Sobre as portarias emitidas por ÓRGÃOS, UNIDADES ACADÊMICAS ou UNIDADES ACADÊMICAS ESPECIAIS, **que é o caso do INF**:
     - As portarias emitidas **ANTES DE 05 de setembro de 2022** NÃO FORAM emitidas via **SIGRH-Portarias**.
     - As portarias emitidas **A PARTIR DE 05 de setembro de 2022** FORAM emitidas via **SIGRH-Portarias**.
