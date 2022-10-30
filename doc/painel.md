@@ -7,7 +7,7 @@
 [![](../media/painel-zero-apoio-institucional.jpg)](./form-apoio-institucional.md#apoio-institucional/)
 [![](../media/painel-zero-radoc.jpg)](./painel-radoc.md#painel-alimentar-o-radoc/)
 [![](../media/painel-zero-perguntas-frequentes.jpg)](./form-perguntas-frequentes.md#perguntas-frequentes/)
-[![](../media/painel-zero-comissao.jpg)](./form-comissao.md/)
+[![](../media/painel-zero-comissao.jpg)](./form-comissao.md#falar-com-a-comissão/)
 [![](../media/painel-zero-cronograma.jpg)](./form-cronograma.md#cronograma/)
 
 Fim	&#9749;
