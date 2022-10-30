@@ -1,8 +1,7 @@
-# Mural INF/UFG &#x27FC; Outros Registros RADOC
+# [<img src="../media/icon-manual.jpg" width=100>](./fonte-manual-registros.md) Tipos de Registros inseridos de forma MANUAL</i>
 
-Abaixo estão as categorias (grupos) para os tipos de registros RADOC:
+Abaixo estão as categorias (grupos) para os tipos de registros RADOC inseridos manualmente:
 - Clique nas categorias abaixo, para consultar os tipos de registro de cada categoria.
-- Os registros desses tipos DEVEM SER INSERIDOS pelo docente, conforme descrito [**AQUI**](./outras.md).
 
 <details><summary>Atividades Acadêmicas – Bancas e Cursos:</summary>
 <p>
