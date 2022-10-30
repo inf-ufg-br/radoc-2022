@@ -20,7 +20,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
 ___
-### <ins>Ofício Circular</ins> 8 (3159832) no <ins>Processo SEI</ins> 23070.047822/2022-40
+## <ins>Ofício Circular</ins> 8 (3159832) no <ins>Processo SEI</ins> 23070.047822/2022-40
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
