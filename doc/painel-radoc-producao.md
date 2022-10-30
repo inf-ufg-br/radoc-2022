@@ -1,4 +1,4 @@
-# RADOC &#x2015; Produção Intelectual
+# RADOC: Produção Intelectual
 
 <img src="../media/painel-producao-intelectual.jpg" width="150"> Clique em uma das tabelas abaixo, para <ins>**instruções**</ins> sobre o tipo de registro RADOC.
 
