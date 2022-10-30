@@ -15,6 +15,8 @@ Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos*
       - Em caso NEGATIVO:
         1. o docente AVERIGUA que <i>**Requisitos do Registro**</i> estão PENDENTES:
            - consultar a coluna **"Requisitos"** em [<ins>Fontes de Informação</ins>](https://cercomp.ufg.br/p/mapeamento-sicad/);
+           - por exemplo, sobre a atividade "III-2.2 Coordenador de programa ou projeto de extensão/cultura cadastrado na PROEC", para que a atividade seja importada e pontuada no RADOC, um dos requisitos é:
+             - "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".
         1. o docente RESOLVE os <i>**Requisitos do Registro**</i>;
         1. o docente AGUARDA o processamento dos requisitos.
    1. O docente CONFERE os dados do registro no RADOC via SICAD+.
