@@ -13,7 +13,7 @@ Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos*
 1. Para <ins>**cada dos registros oriundos de Sistemas UFG**</ins>:
    1. O docente CHECA [via SICAD+] se o registro [e sua pontuação] estão no RADOC:
       - Em caso NEGATIVO:
-        1. o docente AVERIGUA que <i>**Requisitos do Registro**</i> estão PENDENTES:
+        1. o docente AVERIGUA que <ins>**REQUISITOS**</ins> estão PENDENTES:
            - consultar a coluna **"Requisitos"** em [<ins>Fontes de Informação</ins>](https://cercomp.ufg.br/p/mapeamento-sicad/);
            - por exemplo, sobre a atividade "III-2.2 Coordenador de programa ou projeto de extensão/cultura cadastrado na PROEC", para que a atividade seja importada e pontuada no RADOC, um dos requisitos é:
              - "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".
