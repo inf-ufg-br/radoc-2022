@@ -14,32 +14,6 @@ O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas
 |[<img src="../media/icon-lattes.jpg" width=100>](./fonte-lattes.md)|[O registro é importado a partir do <i>LATTES</i>](./fonte-lattes.md)|
 |[<img src="../media/icon-portaria.jpg" width=100>](./fonte-portaria.md)|[O registro é importado de PORTARIAS emitidas pela UFG](./fonte-portaria.md)|
 |[<img src="../media/icon-sistemas.jpg" width=100>](./fonte-sistemas.md)|[O registro é importado a partir de SISTEMAS da UFG](./fonte-sistemas.md)|
-
-
-<table>
-<tr>
-<th>Alternativa</th>
-  <th>Descrição (<i>clique na linha para detalhes sobre cada alternativa</i>)</th>
-</tr>
-<tr>
-<td> <img src="../media/icon-lattes.jpg" width=100> </td>
-  <td><a href="./form-lattes.md">O docente alimenta o <i>Lattes</i>, o registro é importado a partir do <i>Lattes</i>, o docente complementa os dados do registro.</a></td>
-</tr>
-<tr>
-<td> <img src="../media/icon-portaria.jpg" width=100> </td>
-<td><a href="./lattes.md">O registro é importado de portarias emitidas pela UFG (via software SIGRH-Portarias ou via formulário específico).</a></td>
-</tr>
-<tr>
-<td> <img src="../media/icon-sistemas.jpg" width=100> </td>
-<td><a href="./lattes.md">O registro é importado a partir de sistemas UFG, tais como SIGAA-Ensino, SIGAA-Extensão, etc.</a></td>
-</tr>
-<tr>
-<td> <img src="../media/icon-manual.jpg" width=100> </td>
-  <td><a href="./lattes.md">O docente é responsável por <i>explicitamente</i> inserir (digitar) o registro no RADOC.</a></td>
-</tr>
-</table>
-
-3. O docente utiliza o SICAD+ para conferir se o registro foi corretamente inserido no RADOC.
-
+|[<img src="../media/icon-manual.jpg" width=100>](./fonte-manual.md)|[O registro é inserido de forma manual pelo docente](./fonte-manual.md)|
 
 Fim &#9997;
