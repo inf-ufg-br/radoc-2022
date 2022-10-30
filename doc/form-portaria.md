@@ -19,6 +19,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
         - o docente AGUARDA o processamento do formulário (solicitação de inserção).
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
+Fim &#9997;
 ___
 ## <ins>Ofício Circular</ins> 8 (3159832) no <ins>Processo SEI</ins> 23070.047822/2022-40
 
