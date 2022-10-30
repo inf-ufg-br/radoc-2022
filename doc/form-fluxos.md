@@ -11,7 +11,7 @@ O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas
 
 |Alternativa|Descrição (_clique para detalhes sobre cada alternativa_)|
 |-|-|
-|[<img src="../media/icon-lattes.jpg" width=100>](./form-lattes.md)|[O docente alimenta o seu _Lattes_, o registro é importado a partir do ___Lattes_, o docente complementa os dados do registro.](./form-lattes.md)|
+|[<img src="../media/icon-lattes.jpg" width=100>](./form-lattes.md)|[O docente alimenta o <i>Lattes</i>, o registro é importado a partir do <i>Lattes</i>, o docente complementa os dados do registro.](./form-lattes.md)|
 
 
 <table>
