@@ -1,8 +1,8 @@
 ## Apoio do INF/UFG para o RADOC 2022
 
-Este portal visa a contribuir com o processo de elaboração do RADOC[^1] 2022 dos docentes do INF/UFG.
+Este portal visa a contribuir com o processo de elaboração do RADOC 2022.
 
-Em 2022, a UFG passa a usar o software **SICAD+**[^2]:
+Em 2022, a UFG passa a usar o software **SICAD+** [^1]:
 > O SICAD+ é utilizado pelo docente APENAS para <ins>consultar o conteúdo</ins> do RADOC.<br>Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.
 <br>
 
@@ -11,9 +11,8 @@ Em 2022, a UFG passa a usar o software **SICAD+**[^2]:
 
 <br>
 
-[^1]: **RADOC** denota "Relatório de Atividades DOCentes".
-[^2]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes).
-[^3]: A **Comissão RADOC 2022** foi designada pelo INF/UFG para apoiar os docentes da unidade acadêmica na elaboração do RADOC, pertinente às tarefas desempenhas em 2022.
+[^1]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes).
+[^2]: A **Comissão RADOC 2022** foi designada pelo INF/UFG para apoiar os docentes da unidade acadêmica na elaboração do RADOC, pertinente às tarefas desempenhas em 2022.
 
 Fim &#9997;
-##### by [Comissão RADOC 2022](./doc/x-index.md#comissão-radoc-2022) [^3]
+##### by [Comissão RADOC 2022](./doc/x-index.md#comissão-radoc-2022) [^2]
