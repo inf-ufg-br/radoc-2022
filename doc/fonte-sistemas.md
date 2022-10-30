@@ -14,8 +14,8 @@ Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos*
    1. O docente CHECA [via SICAD+] se o registro [e sua pontuação] estão no RADOC:
       - Em caso NEGATIVO:
         1. o docente AVERIGUA que <i>**Requisitos do Registro**</i> estão PENDENTES:
-           - consultar a coluna **"Requisitos"** em [Fontes de Informação](https://cercomp.ufg.br/p/mapeamento-sicad).
-        1. o docente RESOLVE os <i>**Requisitos do Registro**</i>.
+           - consultar a coluna **"Requisitos"** em <a href="https://cercomp.ufg.br/p/mapeamento-sicad" target="_blank">[Fontes de Informação]</a>;
+        1. o docente RESOLVE os <i>**Requisitos do Registro**</i>;
         1. o docente AGUARDA o processamento dos requisitos.
    1. O docente CONFERE os dados do registro no RADOC via SICAD+.
 
