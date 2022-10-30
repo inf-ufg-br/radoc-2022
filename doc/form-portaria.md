@@ -35,7 +35,7 @@ O Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022
 Apesar de saber que as portarias emitidas via **SIGRH-Portarias** são automaticamente importadas para o RADOC:
   - CABE AO DOCENTE AVERIGUAR se <ins>cada uma e suas portarias</ins> está presente no RADOC:
     - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
-  - As portarias em anos anteriores (por exemplo, em 2021) e vigentes em 2022 DEVEM SER AVERIGUADAS.
+  - As portarias de anos anteriores (por exemplo, em 2021) e vigentes em 2022 DEVEM SER AVERIGUADAS.
 
 [^1]: **SIGRH-Portarias** é o sistema gerenciador de portarias na UFG.
 
