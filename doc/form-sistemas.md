@@ -1,7 +1,7 @@
 # [<img src="../media/icon-sistemas.jpg" width=100>](./form-sistemas.md) Registros RADOC importados de <i>SISTEMAS UFG</i>
 
 Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
-> Contudo, há requisitos para que os registros sejam importados e pontuados no RADOC.<br>Para saber os tipos de registro importados dos SISTEMAS UFG, busque o ícone [<img src="../media/icon-sistemas.jpg" width=100>] a partir do [Painel SICAD+](./painel-radoc.md).
+> Contudo, há requisitos para que os registros sejam importados e pontuados no RADOC.
 
 ## FLUXO para Registros RADOC importados a partir de Sistemas da UFG
 
