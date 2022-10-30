@@ -1,4 +1,4 @@
-# Área de apoio do INF/UFG para o RADOC 2022
+## Apoio do INF/UFG para o RADOC 2022
 
 Este portal visa a contribuir com o processo de elaboração do RADOC[^1] 2022 dos docentes do INF/UFG.
 
