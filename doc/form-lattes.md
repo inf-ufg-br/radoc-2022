@@ -6,7 +6,7 @@ O conteúdo do _Currículo Lattes_ é uma das **fontes de informação do RADOC*
 
 A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos do _Lattes_**</ins>.
 
-<img src="../media/fluxo-lattes.jpg" width="800">
+[<img src="../media/fluxo-lattes.jpg" width="800">](./form-lattes.md)
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
