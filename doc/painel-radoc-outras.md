@@ -1,4 +1,4 @@
-# RADOC &#x2015; Outras Atividades
+# RADOC: Outras Atividades
 
 <img src="../media/painel-outras-atividades.jpg" width="150"> Clique em uma das tabelas abaixo, para saber COMO INCLUIR um registro RADOC.
 
