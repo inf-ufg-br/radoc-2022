@@ -7,7 +7,7 @@ A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de PORTAR
 
 ## FLUXO para Registros RADOC oriundos de PORTARIAS
 
-<img src="../media/fluxo-portaria.jpg" width="850">
+[<img src="../media/fluxo-portaria.jpg" width="850">](#fluxo-para-registros-radoc-oriundos-de-portarias)
 
 Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
 1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
