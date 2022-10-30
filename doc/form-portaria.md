@@ -7,6 +7,17 @@ A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de PORTAR
 
 <img src="../media/fluxo-portaria.jpg" width="850">
 
+Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
+1. Inicialmente, o docente precisa IDENTIFICAR todas as portarias que:
+   - Mencionam o seu nome; e
+   - Possuem vigência em 2022:
+     - inclui portarias emitidas em anos anteriores.
+1. Para **cada portaria identificada**:
+   1. O docente utiliza o SICAD+ para CHECAR se a portaria (e sua pontuação) está no RADOC:
+      - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
+      - O docente AGUARDA o processamento do formulário (pedido de inserção).
+   1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
+
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
 1. O docente AGUARDA a importação dos registros no _**Lattes**_ para o RADOC.
