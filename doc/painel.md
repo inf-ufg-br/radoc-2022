@@ -4,7 +4,7 @@
 
 [![](../media/painel-zero-apresentacao.jpg)](./lattes.md/)
 [![](../media/painel-zero-fluxos.jpg)](./form-fluxos.md/)
-[![](../media/painel-zero-apoio-institucional.jpg)](./form-apoio-institucional.md/)
+[![](../media/painel-zero-apoio-institucional.jpg)](./form-apoio-institucional.md#apoio-instutucional/)
 [![](../media/painel-zero-perguntas-frequentes.jpg)](./form-perguntas-frequentes.md/)
 [![](../media/painel-zero-radoc.jpg)](./painel-radoc.md#alimentar-o-radoc/)
 [![](../media/painel-zero-cronograma.jpg)](./form-cronograma.md/)
