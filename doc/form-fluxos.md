@@ -2,7 +2,7 @@
 
 A Figura abaixo busca a esclarecer o **FLUXO GERAL** para a inclusão de registros no RADOC, no contexto do SICAD+.
 
-<img src="../media/fluxo-principal.jpg" width="650">
+[<img src="../media/fluxo-principal.jpg" width="650">](./form-fluxos.md)
 
 O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas pelo docente em 2022:<br>
 
