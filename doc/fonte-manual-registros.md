@@ -1,8 +1,8 @@
 # [<img src="../media/icon-manual.jpg" width=100>](./fonte-manual-registros.md) Tipos de Registros inseridos de forma MANUAL</i>
 
 Abaixo estão as categorias (grupos) para os tipos de registros RADOC inseridos manualmente:
-- Clique nas categorias abaixo, para consultar os tipos de registro de cada categoria.
-
+> Clique nas categorias abaixo, para consultar os tipos de registro de cada categoria.
+<br><br>
 <details><summary>Atividades Acadêmicas – Bancas e Cursos:</summary>
 <p>
 - Coordenador de projeto institucional de intercâmbio internacional<br>
