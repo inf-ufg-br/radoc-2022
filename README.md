@@ -7,7 +7,7 @@ Em 2022, a UFG passa a usar o software **SICAD+**[^2]:
 
 <br>
 
-|### Clique [AQUI](./doc/painel-radoc.md#painel-alimentar-o-radoc/) para acessar o **Portal INF/UFG para o RADOC 2022**.|
+|<H3>Clique [AQUI](./doc/painel-radoc.md#painel-alimentar-o-radoc/) para acessar o **Portal INF/UFG para o RADOC 2022**.</H3>|
 
 <br><br>
 [^1]: **RADOC** denota "Relatório de Atividades DOCentes". leftwards_arrow_with_hook
