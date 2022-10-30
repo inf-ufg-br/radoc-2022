@@ -1,4 +1,4 @@
-# [<img src="../media/icon-sistemas.jpg" width=100>](./form-portaria.md) Registros RADOC importados a partir de SISTEMAS da UFG
+# [<img src="../media/icon-sistemas.jpg" width=100>](./form-portaria.md) Registros RADOC importados de SISTEMAS da UFG
 
 As Portarias emitidas pela UFG são _potencialmente_ uma das <ins>**Fontes de informação do RADOC**</ins>:
 > As portarias emitidas via **SIGRH-Portarias**[^1] são automaticamente importadas para o RADOC:
