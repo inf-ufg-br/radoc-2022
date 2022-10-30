@@ -14,7 +14,7 @@ A figura a seguir ilustra o **Fluxo para Registros RADOC oriundos do _Lattes_**.
 <img src="../media/fluxo-lattes.jpg" width="700">
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
-1. O docente ALIMENTA o _**Lattes**_ com os dados de duas produções e atividades.
+1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
 1. O docente AGUARDA para que os registros no _**Lattes**_ sejam importados para o RADOC.
 1. O docente ACESSA a _interface_ para **Produções Lattes** no SIGAA:
    - Entre no SIGAA.
