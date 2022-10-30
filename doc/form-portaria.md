@@ -14,8 +14,9 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
      - inclui portarias emitidas em anos anteriores.
 1. Para <ins>**cada uma de suas portarias**</ins>:
    1. O docente utiliza o SICAD+ para CHECAR se a portaria (e sua pontuação) está no RADOC:
-      - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
-      - O docente AGUARDA o processamento do formulário (pedido de inserção).
+      - Em caso NEGATIVO:
+        - o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8);
+        - o docente AGUARDA o processamento do formulário (solicitação de inserção).
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
