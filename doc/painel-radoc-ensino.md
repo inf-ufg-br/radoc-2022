@@ -1,4 +1,4 @@
-# RADOC &#x2015; Ensino
+# RADOC: Ensino
 
 <img src="../media/painel-ensino.jpg" width="150"> Clique em uma das tabelas abaixo, para saber COMO INCLUIR um registro RADOC.
 
