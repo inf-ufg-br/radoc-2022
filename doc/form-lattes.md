@@ -25,8 +25,7 @@ Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
    - O docente precisa complementar:
         - projeto associado; e
         - classificação Qualis/CAPES.
-   - Observe que o docente deve complementar o conteúdo da área editável na _interface_ 1.
-<img src="../media/interface-lattes-2.jpg" width="300">
+   - Observe que o docente deve complementar o conteúdo da área editável na _interface_ 1.<br><img src="../media/interface-lattes-2.jpg" width="400">
 1. O docente AGUARDA o processamento dos complementos realizados.
 1. O docente CONFERE os dados dos registros no RADOC via SICAD+.
 
