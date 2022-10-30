@@ -4,9 +4,9 @@ O conteúdo do _Currículo Lattes_ é uma das <ins>**Fontes de informação do R
 
 > Os tipos de registro passíveis de importação a partir do _Lattes_ são ilustrados [**AQUI**](../media/interface-lattes.jpg).
 
-A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos do _LATTES_**</ins>.
+## FLUXO para Registros RADOC oriundos do _LATTES_
 
-<img src="../media/fluxo-lattes.jpg" width="850">
+[<img src="../media/fluxo-lattes.jpg" width="850">](#fluxo-para-registros-radoc-oriundos-do-lattes)
 
 Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
 1. O docente ALIMENTA o _**Lattes**_ com os dados de suas produções e atividades.
