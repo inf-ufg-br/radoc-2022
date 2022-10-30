@@ -4,7 +4,7 @@
 ## Apresentação
 
 
-- Acesso ao Painel [Alimentar o RADOC](./doc.painel-radoc.md#radoc-alimentar-o-radoc/)
+- Acesso ao Painel [Alimentar o RADOC](./doc/painel-radoc.md#radoc-alimentar-o-radoc/)
 
 Este portal visa a contribuir com o processo de elaboração do RADOC[^2] 2022 dos docentes do INF/UFG:
 - Os tipos de registro do RADOC estão descritos no **Anexo II** da [Resolução CONSUNI 18/2017](https://sistemas.ufg.br/consultas_publicas/resolucoes/arquivos/Resolucao_CONSUNI_2017_0018.pdf).
