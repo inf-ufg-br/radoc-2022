@@ -1,6 +1,6 @@
 # [<img src="../media/icon-lattes.jpg" width=100>](./form-lattes.md) Registros RADOC oriundos do <i>LATTES</i>
 
-O conteúdo do _Currículo Lattes_ é uma das **fontes de informação do RADOC**:
+O conteúdo do _Currículo Lattes_ é uma das <ins>**fontes de informação do RADOC**</ins>:
 
 > Os tipos de registro passíveis de importação a partir do _Lattes_ são ilustrados [**AQUI**](../media/interface-lattes.jpg).
 
