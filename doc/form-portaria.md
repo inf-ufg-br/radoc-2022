@@ -1,9 +1,9 @@
 # [<img src="../media/icon-portaria.jpg" width=100>](./form-lattes.md) Registros RADOC oriundos de <i>PORTARIA</i>
 
-As portarias emitidas pela UFG são _potencialmente_ uma das **fontes de informação do RADOC**:
+As Portarias emitidas pela UFG são _potencialmente_ uma das <ins>**Fontes de informação do RADOC**</ins>:
 > As portarias emitidas via **SIGRH-Portarias**[^1] são automaticamente importadas para o RADOC:
 
-A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de Portarias**</ins>.
+A figura a seguir ilustra o <ins>**FLUXO para Registros RADOC oriundos de PORTARIAS**</ins>.
 
 <img src="../media/fluxo-portaria.jpg" width="850">
 
