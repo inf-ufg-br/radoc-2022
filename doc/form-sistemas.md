@@ -17,6 +17,6 @@ Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos*
            - consultar a coluna **"Requisitos"** em [Fontes de Informação](https://cercomp.ufg.br/p/mapeamento-sicad).
         1. o docente RESOLVE os <i>**Requisitos do Registro**</i>.
         1. o docente AGUARDA o processamento dos requisitos.
-   1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
+   1. O docente CONFERE os dados do registro no RADOC via SICAD+.
 
 Fim &#9997;
