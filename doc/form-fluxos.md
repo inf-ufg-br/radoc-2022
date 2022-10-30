@@ -11,9 +11,9 @@ O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas
 
 |Alternativa|Descrição (_clique para detalhes sobre cada alternativa_)|
 |-|-|
-|[<img src="../media/icon-lattes.jpg" width=100>](./form-lattes.md)|[O registro é importado a partir do <i>LATTES</i>](./form-lattes.md)|
-|[<img src="../media/icon-portaria.jpg" width=100>](./form-portaria.md)|[O registro é importado de PORTARIAS emitidas pela UFG](./form-portaria.md)|
-|[<img src="../media/icon-sistemas.jpg" width=100>](./form-sistemas.md)|[O registro é importado a partir de SISTEMAS da UFG](./form-sistemas.md)|
+|[<img src="../media/icon-lattes.jpg" width=100>](./fonte-lattes.md)|[O registro é importado a partir do <i>LATTES</i>](./fonte-lattes.md)|
+|[<img src="../media/icon-portaria.jpg" width=100>](./fonte-portaria.md)|[O registro é importado de PORTARIAS emitidas pela UFG](./fonte-portaria.md)|
+|[<img src="../media/icon-sistemas.jpg" width=100>](./fonte-sistemas.md)|[O registro é importado a partir de SISTEMAS da UFG](./fonte-sistemas.md)|
 
 
 <table>
