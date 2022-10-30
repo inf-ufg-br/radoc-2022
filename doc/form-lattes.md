@@ -20,8 +20,8 @@ Cabe ao docente COMPLEMENTAR via SIGAA os registros oriundos do _Lattes_:
    - Entre no SIGAA.
    - Selecione "Produção Intelectual" >> "Minhas Produções - Lattes".
    - Uma tela (_interface_) é exibida, com os tipos de registro passíveis de importação a partir do _Lattes_:
-     - clique [**_AQUI_**](../media/lattes.jpg) para ver a _interface_ exibida.
-1. Para **cada tipo de registro** na _interface_:
+     - clique [**AQUI**](../media/lattes.jpg) para ver a _interface_ exibida.
+1. O docente COMPLEMENTA o registro oriundo do _**Lattes**_:
    1. Selecione (clique em) um tipo de registro:
    1. Para **cada registro** do tipo de registro selecionado:
       - o docente COMPLEMENTA o conteúdo do registro;
