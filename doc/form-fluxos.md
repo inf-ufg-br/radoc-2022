@@ -11,7 +11,7 @@ O fluxo exibido na figura é <ins>recorrente</ins> para as atividades executadas
 
 |Alternativa|Descrição (_clique para detalhes sobre cada alternativa_)|
 |-|-|
-|[<img src="../media/icon-lattes.jpg" width=100>](./fonte-lattes.md)|[O registro é importado a partir do <i>LATTES</i>](./fonte-lattes.md)|
+|[<img src="../media/icon-lattes.jpg" width=100>](./fonte-lattes.md#registros-radoc-oriundos-do-lattes)|[O registro é importado a partir do <i>LATTES</i>](./fonte-lattes.md)|
 |[<img src="../media/icon-portaria.jpg" width=100>](./fonte-portaria.md)|[O registro é importado de PORTARIAS emitidas pela UFG](./fonte-portaria.md)|
 |[<img src="../media/icon-sistemas.jpg" width=100>](./fonte-sistemas.md)|[O registro é importado a partir de SISTEMAS da UFG](./fonte-sistemas.md)|
 |[<img src="../media/icon-manual.jpg" width=100>](./fonte-manual.md)|[O registro é inserido de forma manual pelo docente](./fonte-manual.md)|
