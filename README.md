@@ -4,6 +4,8 @@
 ## Apresentação
 
 
+Fim &#9997;
+
 - Acesso ao Painel [Alimentar o RADOC](./doc/painel-radoc.md#painel-alimentar-o-radoc/)
 
 Este portal visa a contribuir com o processo de elaboração do RADOC[^2] 2022 dos docentes do INF/UFG:
