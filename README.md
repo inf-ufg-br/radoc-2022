@@ -1,4 +1,4 @@
-RADOC 2022
+I &#10084; RADOC 2022
 
 Este portal visa a contribuir com o processo de elaboração do RADOC 2022.
 
