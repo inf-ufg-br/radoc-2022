@@ -1,9 +1,8 @@
 # RADOC / SICAD+
 
-### Este portal visa a contribuir com o processo de elaboração do RADOC 2022.
-
-### Em 2022, a UFG passa a usar o software **SICAD+** [^1].
-
+|<H3> Este portal visa a contribuir com o processo de elaboração do RADOC 2022.</H3>|
+|-|
+|<H3> Em 2022, a UFG passa a usar o software **SICAD+** [^1].</H3>|
 |<H3>O SICAD+ é utilizado pelo docente APENAS para <ins>consultar o conteúdo</ins> do RADOC.</H3>|
 |-|
 |<H3>Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.</H3>|
