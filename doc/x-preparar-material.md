@@ -16,7 +16,7 @@
         </tr>    
         <tr>
             <td rowspan=2><i>done</i></td>
-            <td>Revisar as instruções [das Comissões RADOC anteriores] sobre as atividades docentes, visando a adaptá-las aos <b>Fluxos RADOC/SICAD+</b>:<br/>&#x26BE;; Clicar <a href="https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429">aqui</a> para acessar as instruções.</td>
+            <td>Revisar as instruções [das Comissões RADOC anteriores] sobre as atividades docentes, visando a adaptá-las aos <b>Fluxos RADOC/SICAD+</b>:<br/>&#x26BE;; Clicar <a href="https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429"><ins><b>AQUI</b></ins></a> para acessar as instruções.</td>
         </tr>    
         <tr>
             <td>&#x26A0; A comissão decidiu disponibilizar as instruções no portal, contudo sem adaptá-las aos Fluxos RADOC/SICAD+.</td>
