@@ -1,4 +1,4 @@
-# Painel: Visão geral
+# Painel Visão geral
 
 > Os cartões abaixo orientam sobre o RADOC no contexto do SICAD+:<br>&#9749; Sugestão: inicie pelo primeiro cartão e siga os cartões em sentido horário.
 
