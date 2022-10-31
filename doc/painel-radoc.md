@@ -8,4 +8,4 @@ O Painel abaixo busca a orientar o docente sobre <ins>**como inserir registros**
 [![](../media/painel-outras-atividades.jpg)](./painel-radoc-outras.md#radoc-outras-atividades/)[![](../media/painel-afastamento.jpg)](./painel-radoc-afastamento.md#radoc-afastamentos/)
 
 Fim &#9997;
-##### by [Comissão RADOC 2022](./doc/x-index.md#comissão-radoc-2022)
+###### *by [Comissão RADOC 2022](./x-index.md#comissão-radoc-2022)*
