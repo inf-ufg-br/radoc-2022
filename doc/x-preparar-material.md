@@ -30,7 +30,7 @@
             <td>Espelhar no <b>GoogleDocs</b> o conteúdo informativo presente no <b>Github</b>.</td>
         </tr>    
         <tr>
-            <td>&#x26A0; A tarefa não é necessária:<br/>&#x2015; O usuário não precisa ter conta no GitHub para 'navegar' no portal.<br>>&#x2015; Contudo, a interação do docente com a comissão requer que o decente tenha uma conta no GitHub, conforme descrito [<ins>**AQUI**</ins>]./form-interacao.md].</td>
+            <td>&#x26A0; A tarefa não é necessária:<br/>&#x2015; O usuário não precisa ter conta no GitHub para 'navegar' no portal.<br>>&#x2015; Contudo, a interação do docente com a comissão requer que o decente tenha uma conta no GitHub, conforme descrito <a href="./form-interacao.md">[<ins><b>AQUI</b></ins>]</h>.</td>
         </tr>    
         <tr>
             <td><i>in progress</i></td>
