@@ -1,5 +1,4 @@
-# RADOC / SICAD+
-# &#9752; &#8505; &#10084; &#9728;
+# RADOC / SICAD+<br>&#9752; &#8505; &#10084; &#9728;
 
 #### Este portal visa a contribuir com o processo de elaboração do RADOC 2022.
 
