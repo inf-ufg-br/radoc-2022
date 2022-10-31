@@ -1,7 +1,7 @@
 # Perguntas frequentes
 
 
-|O Apoio Institucional da UFG possui uma FAQ para o RADOC/DICAD+?|
+|O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+?|
 |-|
 |Sim, a FAQ do Apoio Institucional está disponível  [<ins>**AQUI**</ins>](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).|
 
