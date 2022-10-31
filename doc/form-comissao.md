@@ -1,6 +1,6 @@
 # Falar com a Comissão
 
-O docente pode relatar suas dificuldades sobre o RADOC/SICAD+, ou apresentar sugestões para a comissão.
+O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUGESTÕES para a comissão.
 
 **Falar com a Comissão é <ins>SIMPLES</ins>**:
 - A interação ocorre via "issues" do **GitHub**:
