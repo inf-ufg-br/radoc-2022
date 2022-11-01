@@ -36,8 +36,11 @@
             <td>&#x26A0; A tarefa não é necessária:<br/>&#x2015; O usuário não precisa ter conta no GitHub para 'navegar' no portal.<br>&#x2015; Contudo, a interação com a comissão requer que o docente tenha uma conta no GitHub, conforme descrito <a href="./form-comissao.md"><ins><b>AQUI</b></ins></h>.</td>
         </tr>    
         <tr>
-            <td><i>in progress</i></td>
-            <td>Escrever e-mail com as orientações iniciais, que inclui: cronograma, fontes de consulta sobre dúvidas, etc.:<br/>&#x26BE; É importante que os membros da comissão revisem o conteúdo do e-mail antes do seu envio.</td>
+            <td rowspan=2><i>in progress</i></td>
+            <td>Escrever e-mail com as instruções iniciais, que inclui: cronograma, fontes de consulta sobre dúvidas, etc.:<br/>&#x26BE; É importante que os membros da comissão revisem o conteúdo do e-mail antes do seu envio.</td>
+        </tr>    
+        <tr>
+            <td>&#x2714; As instruções foram enviadas ao docente, a partir da lista _prof_ do domínio inf.ufg.br.</td>
         </tr>    
         <tr>
             <td rowspan=2><i>done</i></td>
