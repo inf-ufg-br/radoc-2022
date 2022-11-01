@@ -9,3 +9,5 @@ Instruções:
    - Logar-se no seu E-mail Institucional.
    - Clicar no [<ins><b>FORMULÁRIO</b></ins>](https://forms.gle/1aWcmUiBpP5vBXvj8) para fazer UPLOAD do RADOC (arquivo PDF).
    - Conferir confirmação de envio no seu E-mail Institucional.
+
+Fim &#9997;
