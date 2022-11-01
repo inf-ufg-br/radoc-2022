@@ -7,5 +7,5 @@ Instruções:
 2. O docente utiliza o SICAD+ para GERAR o PDF do seu RADOC.
 3. O docente ENVIA o RADOC para a Comissão, até 15/Nov/2022:
    - Logar-se no seu E-mail Institucional.
-   - Clicar e preencher o [<ins><b>FORMULÁRIO</b></ins>](https://forms.gle/1aWcmUiBpP5vBXvj8).
+   - Clicar no [<ins><b>FORMULÁRIO</b></ins>](https://forms.gle/1aWcmUiBpP5vBXvj8) para fazer UPLOAD do RADOC (arquivo PDF).
    - Conferir confirmação de envio no seu E-mail Institucional.
