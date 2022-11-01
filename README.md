@@ -7,8 +7,8 @@
 &#x26BE; Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.
 
 ### Atividade em andamento
-&#x261B; Alimentar e [enviar o RADOC](x-radoc-envio-1.md) para a Comissão.
-&#x261B; Data limite: <ins>15/Nov/2022</ins>
+&#x261B; Alimentar e [enviar o RADOC](x-radoc-envio-1.md) para a Comissão.<br>
+&#x261B; Data limite: <ins>15/Nov/2022</ins><br>
 
 |<H2>Clique [AQUI](./doc/painel.md#painel-visao-geral/) para acessar o Portal.</H2>|
 |-|
