@@ -6,7 +6,7 @@
 
 |Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
-|1|Artigo completo ou texto literário publicado em periódico<br>IMPORTANTE: Para ter o <ins><b>QUALIS</b></ins> este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf)|-|-|
+|1|Artigo completo ou texto literário publicado em periódico<br>IMPORTANTE: Para ter o <ins><b>QUALIS</b></ins>, use este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf)|-|-|
 |1.1|.... Com classificação no Qualis/CAPES **A**|25|[&#9752; _Lattes_](./fonte-lattes.md)|
 |1.2|.... Com classificação no Qualis/CAPES **B**|20|[&#9752; _Lattes_](./fonte-lattes.md)|
 |1.3|.... Com classificação no Qualis/CAPES **C**|15|[&#9752; _Lattes_](./fonte-lattes.md)|
