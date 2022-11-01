@@ -6,7 +6,6 @@ Instruções:
 1. O docente ALIMENTA o conteúdo do RADOC, conforme o instruções no [PORTAL](https://github.com/inf-ufg-br/radoc-2022).
 2. O docente utiliza o SICAD+ para GERAR o PDF do seu RADOC.
 3. O docente ENVIA o RADOC para a Comissão, até 15/Nov/2022:
-   - Logar-se no E-mail Institucional.
+   - Logar-se no seu E-mail Institucional.
    - Clicar e preencher o [<ins><b>FORMULÁRIO</b></ins>](https://forms.gle/1aWcmUiBpP5vBXvj8).
-   - Conferir confirmação de envio no E-mail Institucional.
-
+   - Conferir confirmação de envio no seu E-mail Institucional.
