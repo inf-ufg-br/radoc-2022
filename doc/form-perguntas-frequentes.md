@@ -11,6 +11,6 @@
 
 |Como obter o QUALIS de Periódicos, que é necessário ao **Item 1** da <ins>Tabela II-1 Produção Científica</ins>?|
 |-|
-|Para ter o <ins><b>QUALIS</b></ins>, use este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf)|
+|Para ter o <ins><b>QUALIS</b></ins>, use este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf).|
 
 Fim &#9997;
