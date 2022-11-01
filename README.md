@@ -6,7 +6,7 @@
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar o conteúdo** do RADOC.<br>
 &#x26BE; Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.
 
-### Atividade em andamento
+### Atividade em andamento:
 &#x261B; Alimentar e [enviar o RADOC](x-radoc-envio-1.md) para a Comissão.<br>
 &#x261B; Data limite: <ins>15/Nov/2022</ins><br><br>
 
