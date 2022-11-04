@@ -11,7 +11,7 @@
 
 |Como obter acesso às "Minhas Portarias" com vigência em 2022</ins> ?|
 |-|
-|Para ter acesso às portarias que envolve os docentes do INF, favor acessar o [<ins><b>RELATÓRIO DE PORTARIAS</b></ins>](https://www.inf.ufg.br/p/43568-relatorio-de-emissao-de-portarias):<br>- O docente pode "filtar" informações presentes na tabela.<br>- A última coluna da tabela é o _link_ para o arquivo da portaria.|
+|Para ter acesso às portarias que envolvem os docentes do INF, favor acessar o [<ins><b>RELATÓRIO DE PORTARIAS</b></ins>](https://www.inf.ufg.br/p/43568-relatorio-de-emissao-de-portarias):<br>- O docente pode "filtar" informações presentes na tabela.<br>- A última coluna da tabela é o _link_ para o arquivo da portaria.|
 
 |As instruções [das Comissões RADOC anteriores] sobre as atividades docentes estão disponíveis?|
 |-|
