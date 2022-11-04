@@ -1,15 +1,15 @@
 # Perguntas frequentes
 
 
-|O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+?|
+|O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
 |-|
 |Sim, a FAQ do Apoio Institucional está disponível  [<ins>**AQUI**</ins>](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).|
 
-|Como obter o QUALIS de Periódicos, que é necessário ao **Item 1** da <ins>Tabela II-1 Produção Científica</ins>?|
+|Como obter o QUALIS de Periódicos, que é necessário ao **Item 1** da <ins>Tabela II-1 Produção Científica</ins> ?|
 |-|
 |Para ter o <ins><b>QUALIS</b></ins>, use este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf).|
 
-|Como obter acesso às "Minhas Portarias" com vigência em 2022?</ins>?|
+|Como obter acesso às "Minhas Portarias" com vigência em 2022</ins> ?|
 |-|
 |Para ter acesso às portarias que envolve os docentes do INF, favor acessar o [<ins><b>RELATÓRIO DE PORTARIAS</b></ins>](https://www.inf.ufg.br/p/43568-relatorio-de-emissao-de-portarias):<br>- O docente pode "filtar" informações presentes na tabela.<br>- A última coluna da tabela é o _link_ para o arquivo da portaria.|
 
