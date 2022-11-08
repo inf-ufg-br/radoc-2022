@@ -1,12 +1,12 @@
 ## &#8505; &#9752; &#9728; &#10084; RADOC/SICAD+
-
+<p dir='rtl' align='right'>by <a href="./doc/x-index.md#comissão-radoc-2022"><b>Comissão INF/UFG para o RADOC 2022</b></a></p>
 ### Em 2022, a UFG passa a usar o software **SICAD+**[^1]:<br>
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
 &#x26BE; Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
 ### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
-<p dir='rtl' align='right'>by <a href="./doc/x-index.md#comissão-radoc-2022">Comissão INF/UFG para o RADOC 2022</a></p>
+
 
 ---
 ### Atividade em andamento, segundo o [Planejamento](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md):
