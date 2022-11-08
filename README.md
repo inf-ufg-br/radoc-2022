@@ -7,7 +7,7 @@
 ### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
 ---
-### Atividade em andamento:
+### Atividade em andamento, segundo o Cronograma:
 &#x261B; Alimentar e [enviar o RADOC](./doc/x-radoc-envio-1.md) para a Comissão.<br>
 &#x261B; Data limite: <ins>15/Nov/2022</ins>
 
