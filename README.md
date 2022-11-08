@@ -6,6 +6,8 @@
 
 ### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
+<p dir='rtl' align='right'>test</p>
+
 ---
 ### Atividade em andamento, segundo o [Planejamento](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md):
 &#x261B; Alimentar e [**enviar o RADOC**](./doc/x-radoc-envio-1.md) para a Comissão.<br>
