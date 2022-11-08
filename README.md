@@ -8,7 +8,7 @@
 
 ---
 ### Atividade em andamento, segundo o [Planejamento](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md):
-&#x261B; Alimentar e [enviar o RADOC](./doc/x-radoc-envio-1.md) para a Comissão.<br>
+&#x261B; Alimentar e [**enviar o RADOC**](./doc/x-radoc-envio-1.md) para a Comissão.<br>
 &#x261B; Data limite: <ins>15/Nov/2022</ins>
 
 ###### *by [Comissão INF/UFG para o RADOC 2022](./doc/x-index.md#comissão-radoc-2022)* [^2]
