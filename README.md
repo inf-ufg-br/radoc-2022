@@ -4,11 +4,12 @@
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar o conteúdo** do RADOC.<br>
 &#x26BE; Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.
 
+### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
+
+---
 ### Atividade em andamento:
 &#x261B; Alimentar e [enviar o RADOC](./doc/x-radoc-envio-1.md) para a Comissão.<br>
 &#x261B; Data limite: <ins>15/Nov/2022</ins>
-
-### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
 Fim	&#9749;
 ###### *by [Comissão RADOC 2022](./doc/x-index.md#comissão-radoc-2022)* [^2]
