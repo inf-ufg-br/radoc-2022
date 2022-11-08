@@ -4,7 +4,7 @@
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
 &#x26BE; Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
-### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/),<br>para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
+### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 ---
 #### Atividade em andamento, segundo o [Planejamento](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md):
 &#x261B; Alimentar e [**enviar o RADOC**](./doc/x-radoc-envio-1.md) para a Comissão.<br>
