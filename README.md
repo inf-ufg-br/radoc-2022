@@ -9,7 +9,7 @@
 &#x261B; Alimentar e [enviar o RADOC](./doc/x-radoc-envio-1.md) para a Comissão.<br>
 &#x261B; Data limite: <ins>15/Nov/2022</ins><br><br>
 
-### Para acessar o Portal de Instruções, favor clicar [<H1>AQUI</H1>](./doc/painel.md#painel-visao-geral/)
+### Para acessar o Portal de Instruções, favor clicar [<H2>AQUI</H2>](./doc/painel.md#painel-visao-geral/)
 
 |<H2>Clique [AQUI](./doc/painel.md#painel-visao-geral/) para acessar o Portal.</H2>|
 |-|
