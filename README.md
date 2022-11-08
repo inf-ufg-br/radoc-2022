@@ -1,8 +1,8 @@
 ## We can &#10084; RADOC/SICAD+
 
 ### Em 2022, a UFG passa a usar o software **SICAD+**[^1]:<br>
-&#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar o conteúdo** do RADOC.<br>
-&#x26BE; Não é possível alterar o conteúdo do RADOC via a _interface_ de usuário do SICAD+.
+&#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
+&#x26BE; Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
 ### Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
