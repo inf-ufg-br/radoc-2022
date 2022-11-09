@@ -1,4 +1,4 @@
-# I &#10084; RADOC/SICAD+
+## I &#10084; RADOC/SICAD+
 
 ### Em 2022, a UFG passa a usar o software **SICAD+**[^1]:<br>
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
