@@ -3,7 +3,7 @@
 Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
 > Contudo, há requisitos para que os registros sejam importados e pontuados no RADOC.
 
-## FLUXO para Registros RADOC importados a partir de Sistemas da UFG
+## FLUXO para Registros RADOC importados a partir de SISTEMAS da UFG
 
 [<img src="../media/fluxo-sistemas.jpg" width="750">](#fluxo-para-registros-radoc-importados-a-partir-de-sistemas-da-ufg)
 
