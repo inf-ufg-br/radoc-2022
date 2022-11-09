@@ -15,7 +15,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
 1. Para <ins>**cada uma de suas portarias**</ins>:
    1. O docente CHECA [via SICAD+] se a portaria [e sua pontuação] estão no RADOC:
       - Em caso NEGATIVO:
-        - o docente SOLICITA a inserção do registro da portaria no RADOC via [<ins><b>FORMULÁRIO</b></ins>](https://forms.gle/ZTpzozkuU1vyBHUB8);
+        - o docente SOLICITA a inserção do registro da portaria no RADOC via [<H2><ins><b>FORMULÁRIO</b></ins></H2>](https://forms.gle/ZTpzozkuU1vyBHUB8);
         - o docente AGUARDA o processamento do formulário (solicitação de inserção).
    1. O docente CONFERE os dados do registro da Portaria no RADOC via SICAD+.
 
