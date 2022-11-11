@@ -1,6 +1,6 @@
 # Perguntas frequentes
 
-[<img src="../media/icon-faq.jpg" width="650">](./form-fluxos.md#fluxos-sicad)
+[<img src="../media/icon-faq.jpg" width="20">](./form-fluxos.md#fluxos-sicad)
 
 |O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
 |-|
