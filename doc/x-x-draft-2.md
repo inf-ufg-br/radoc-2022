@@ -1,7 +1,5 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
-[<img src="../media/icon-faq.jpg" width="80">](./form-fluxos.md#fluxos-sicad)
-
 |O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
 |-|
 |Sim, a FAQ do Apoio Institucional está disponível  [<ins>**AQUI**</ins>](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).|
