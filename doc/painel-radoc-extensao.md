@@ -11,8 +11,8 @@
 |3|Coordenador de contratos e de convênios de cooperação institucional internacional|5<br>(para 12 meses)|[&#8505; Portaria](./fonte-portaria.md)|
 |4|Coordenador de contratos e de convênios de cooperação institucional nacional|3<br>(para 12 meses)|[&#8505; Portaria](./fonte-portaria.md)|
 |5|Participante de projeto de extensão/cultura cadastrado na PROEC|3<br>(para 12 meses)<br>(máx. 15)|[&#10084; Sistemas](./fonte-sistema.md)|
-|6|Curso de extensão ministrado com 20 ou mais horas|5<br>(máx. 15)|[&#10084; Sistema](./fonte-sistemas.md)|
-|7|Curso de extensão ministrado com menos de 20 horas|2<br>(máx. 10)|[&#10084; Sistema](./fonte-sistemas.md)|
+|6|Curso de extensão ministrado com 20 ou mais horas|5<br>(máx. 15)|[&#10084; Sistemas](./fonte-sistema.md)|
+|7|Curso de extensão ministrado com menos de 20 horas|2<br>(máx. 10)|[&#10084; Sistemas](./fonte-sistema.md)|
 |8|Palestrante, conferencista, participante ou coordenador de mesa redonda em evento científico, cultural ou artístico|-|-|
 |8.1|.... Evento internacional|10<br>(máx. 20)|[&#10084; Sistemas](./fonte-sistema.md)|
 |8.2|.... Evento nacional|6<br>(máx. 12)|[&#10084; Sistemas](./fonte-sistema.md)|
