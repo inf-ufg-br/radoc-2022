@@ -1,4 +1,4 @@
-# Perguntas frequentes
+# <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
 [<img src="../media/icon-faq.jpg" width="80">](./form-fluxos.md#fluxos-sicad)
 
