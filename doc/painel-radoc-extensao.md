@@ -7,7 +7,7 @@
 |Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
 |1|Coordenador de programa ou projeto de extensão aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[&#10084; Sistemas](./fonte-sistema.md)|
-|2|Coordenador de programa ou projeto de extensão/cultura cadastrado na PROEC III|5<br>(para 12 meses)<br>(máx. 15)|[&#10084; Sistemas](./fonte-sistemas.md)|
+|2|Coordenador de programa ou projeto de extensão/cultura cadastrado na PROEC III|5<br>(para 12 meses)<br>(máx. 15)|[&#10084; Sistemas](./fonte-sistema.md)|
 |3|Coordenador de contratos e de convênios de cooperação institucional internacional|5<br>(para 12 meses)|[&#8505; Portaria](./fonte-portaria.md)|
 |4|Coordenador de contratos e de convênios de cooperação institucional nacional|3<br>(para 12 meses)|[&#8505; Portaria](./fonte-portaria.md)|
 |5|Participante de projeto de extensão/cultura cadastrado na PROEC|3<br>(para 12 meses)<br>(máx. 15)|[&#10084; Sistemas](./fonte-sistema.md)|
