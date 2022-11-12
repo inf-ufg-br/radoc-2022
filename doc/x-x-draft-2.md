@@ -1,5 +1,7 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
+Por favor, considere  estão questões respondidas e questões não respondidados 
+
 # Questões NÃO RESPONDIDAS
 
 <details><summary><H3><b>Questões NÃO RESPONDIDAS</ins></H3></b></summary>
