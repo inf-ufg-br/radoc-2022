@@ -1,8 +1,11 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
 Por favor, considere  estão questões respondidas e questões não respondidados 
+<details><summary><H3><b>Questões NÃO RESPONDIDAS</ins></H3></b></summary>
 
 ### Pergunta 022
+
+</details>
 
 Questões NÃO RESPONDIDAS
 
