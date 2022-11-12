@@ -2,10 +2,11 @@
 
 Por favor, considere  estão questões respondidas e questões não respondidados 
 
-### Pergunta 022
+### Pergunta 001
 |O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
 |-|
 |Sim, a FAQ do Apoio Institucional está disponível  [<ins>**AQUI**</ins>](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).|
+### Pergunta 002
 
 Questões NÃO RESPONDIDAS
 
@@ -60,7 +61,7 @@ Questões NÃO RESPONDIDAS
 |-|
 |Sim, a instruções estão disponíveis [<ins>**AQUI**</ins>](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429).|
 
-[x](./x-x-draft-2.md#pergunta-022)
+[x](./x-x-draft-2.md#pergunta-001)
 
 
 Fim &#9997;
