@@ -2,12 +2,10 @@
 
 ## Índice de Perguntas
 
-<details><summary><H3><b>Clique para acessar o Índice de Perguntas</ins></H3></b></summary>
 <a href="#q001">FAQ da UFG sobre o RADOC/SICAD</a><br/>
 <a href="#q002">QUALIS de Periódicos</a><br/>
 <a href="#q003">Portarias vigentes para o docente</a><br/>
 <a href="#q004">Instruções RADOC de anos anteriores</a><br/>
-</details>
 
 ## Perguntas
 
