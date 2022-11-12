@@ -3,10 +3,10 @@
 ## Índice de Perguntas
 
 <a href="#q001">Apoio institucional - FAQ da UFG sobre o RADOC/SICAD</a><br/>
-<a href="#q002">Qualis de Periódicos - como saber o Qualis de um peródico</a><br/>
-<a href="#q003">Portarias - como saber as portarias do docente emitidas</a><br/>
-<a href="#q004">RADOCs de anos anteriores - quais as instruções até 2021 para alimentar o RADOC</a><br/>
 <a href="#q005">Orientações - como inserir orientação de monitoria</a><br/>
+<a href="#q003">Portarias - como saber as portarias do docente emitidas</a><br/>
+<a href="#q002">Qualis de Periódicos - como saber o Qualis de um peródico</a><br/>
+<a href="#q004">RADOCs de anos anteriores - quais as instruções até 2021 para alimentar o RADOC</a><br/>
 
 ---
 ## Perguntas
