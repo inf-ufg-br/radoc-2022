@@ -1,12 +1,15 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
+## Índice de Perguntas
 
-<details><summary><H3><b>Índice de Perguntas</ins></H3></b></summary>
+<details><summary><H3><b>Clique para acessar o Índice de Perguntas</ins></H3></b></summary>
 [FAQ da UFG](#q001)<br>
 [QUALIS de Periódicos](#q002)<br>
 [Portarias vigentes para o docente](#q003)<br>
 [Instruções RADOC de anos anteriores](#q004)<br>
 </details>
+
+## Perguntas
 
 ### q001
 |O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
