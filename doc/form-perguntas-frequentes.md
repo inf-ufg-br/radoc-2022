@@ -3,6 +3,7 @@
 ## Índice de Perguntas
 
 <a href="#q001">Apoio institucional - FAQ da UFG sobre o RADOC/SICAD</a><br/>
+<a href="#q007">Eventos - como inserir produção/promoção de eventos</a><br/>
 <a href="#q005">Orientações - como inserir orientação de monitoria</a><br/>
 <a href="#q003">Portarias - como saber as portarias do docente emitidas</a><br/>
 <a href="#q006">Portarias - participação em reuniões do CD</a><br/>
@@ -38,5 +39,9 @@
 |Serão emitidas portarias pertinentes à participação em reuniões do CD, em reuniões da CPG e no planejamento pedagógico?|
 |-|
 |Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinente a cada portaria será calculada pela administração do INF.|
+### q007
+|Como inserir no RADOC a produção/promoção de eventos (regionais, nacionais, internacionais)?|
+|-|
+|Sobre a promoção ou produção de eventos artísticos e científicos (regionais, nacionais e internacionais (Tabela III-2 Atividades de Extensão), segundo o documento [Fontes das informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), o registro é importado do sistema **SIGAA > Extensão**, ou seja, essa atividade de extensão precisa estar previamente cadastrada no sistema. Contudo, há requisitos para a importação, tal como "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".|
 
 Fim &#9997;
