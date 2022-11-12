@@ -3,7 +3,9 @@
 Por favor, considere  estão questões respondidas e questões não respondidados 
 
 ### Pergunta 022
-|1|Coordenador de programa ou projeto de extensão aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[&#10084; Sistemas](./fonte-sistema.md)|
+|O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
+|-|
+|Sim, a FAQ do Apoio Institucional está disponível  [<ins>**AQUI**</ins>](https://cercomp.ufg.br/p/41772-faq-perguntas-frequentes-sicad).|
 
 Questões NÃO RESPONDIDAS
 
