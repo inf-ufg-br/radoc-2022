@@ -7,7 +7,6 @@
 |teste|
 |-|
 |<details><summary><H3><b>TABELA III-2) <ins>ATIVIDADES DE EXTENSÃO</ins></H3></b></summary>
-
 |Item|Descrição|Pontos|**COMO<br>INCLUIR**|
 |-|-|-|-|
 |1|Coordenador de programa ou projeto de extensão aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[&#10084; Sistemas](./fonte-sistema.md)|
