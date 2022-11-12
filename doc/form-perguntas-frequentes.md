@@ -37,6 +37,6 @@
 ### q006
 |Serão emitidas portarias pertinentes à participação em reuniões do CD, em reuniões da CPG e no planejamento pedagógico?|
 |-|
-|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias.|
+|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinente a cada portaria será calculada pela administração do INF.|
 
 Fim &#9997;
