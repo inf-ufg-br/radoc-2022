@@ -3,11 +3,10 @@
 ## Índice de Perguntas
 
 <details><summary><H3><b>Clique para acessar o Índice de Perguntas</ins></H3></b></summary>
-<a href="#q001">FAQ da UFG</a><br/>
-<A[FAQ da UFG](#q001)<br>
-[QUALIS de Periódicos](#q002)<br>
-[Portarias vigentes para o docente](#q003)<br>
-[Instruções RADOC de anos anteriores](#q004)<br>
+<a href="#q001">FAQ da UFG sobre o RADOC/SICAD</a><br/>
+<a href="#q002">QUALIS de Periódicos</a><br/>
+<a href="#q003">Portarias vigentes para o docente</a><br/>
+<a href="#q004">Instruções RADOC de anos anteriores</a><br/>
 </details>
 
 ## Perguntas
