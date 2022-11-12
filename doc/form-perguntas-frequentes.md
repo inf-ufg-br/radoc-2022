@@ -8,7 +8,7 @@
 <a href="#q003">Portarias - como saber as portarias do docente emitidas</a><br/>
 <a href="#q006">Portarias - participação em reuniões do CD</a><br/>
 <a href="#q006">Portarias - participação em reuniões da CPG</a><br/>
-<a href="#q006">Portarias - participação no planejamento pedagógico</a><br/>
+<a href="#q006">Portarias - participação no planejamento pedagógico e administrativo</a><br/>
 <a href="#q002">Qualis de Periódicos - como saber o Qualis de um peródico</a><br/>
 <a href="#q004">RADOCs de anos anteriores - quais as instruções até 2021 para alimentar o RADOC</a><br/>
 
@@ -36,9 +36,9 @@
 |-|
 |A orientação de monitoria ocorre via importação a partir do software SIGAA>Monitoria. Contudo, conforme posto em [Fontes das Informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), a Atividade V-1.27 (Aluno orientado em programa de monitoria) está em manutenção, a  saber: "Ajuste em andamento no Módulo Monitoria e critérios para importação". Vamos aguardar um pouco para que essa importação se torne funcional.|
 ### q006
-|Serão emitidas portarias pertinentes à participação em reuniões do CD, em reuniões da CPG e no planejamento pedagógico?|
+|Serão emitidas portarias sobre a participação em reuniões do CD, da CPG e do planejamento pedagógico e administrativo?|
 |-|
-|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinentes a cada portaria será calculada pela administração do INF.|
+|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinentes a cada portaria será calculada pela administração do INF.<br>Em tempo: As Portarias 4754 de 08/11/2022 e 4864 de 11/11/2022 pertinente aos planejamentos pedagógico e administrativo foram emitidas e enviadas aos docentes via e-mail.|
 ### q007
 |Como inserir no RADOC a produção/promoção de eventos (regionais, nacionais, internacionais)?|
 |-|
