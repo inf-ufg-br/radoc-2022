@@ -17,3 +17,5 @@ E agora, o que fazer?
 
 3) diretrizes para avaliar os RADOCs
 V er
+
+[https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-x-draft-2.md###teste](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-x-draft-2.md###teste)
