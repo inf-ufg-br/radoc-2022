@@ -1,11 +1,9 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
 Por favor, considere  estão questões respondidas e questões não respondidados 
-<details><summary><H3><b>Questões NÃO RESPONDIDAS</ins></H3></b></summary>
 
 ### Pergunta 022
-
-</details>
+|1|Coordenador de programa ou projeto de extensão aprovado com comprovação de financiamento (exceto para os que são exclusivamente destinado a bolsas)|10<br>(para 12 meses)|[&#10084; Sistemas](./fonte-sistema.md)|
 
 Questões NÃO RESPONDIDAS
 
