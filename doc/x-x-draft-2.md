@@ -18,12 +18,16 @@
 |-|
 |Para ter o <ins><b>QUALIS</b></ins>, use este [<ins><b>PORTAL</b></ins>]( https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/), que é baseado no [<ins><b>RELATÓRIO DE ÁREA</b></ins>]( https://www.gov.br/capes/pt-br/centrais-de-conteudo/documentos/avaliacao/qualis_periodico_eventos_cientifico_Ciencia_Computacao.pdf).|
 ### q003
-|Como obter acesso às "Minhas Portarias" com vigência em 2022</ins> ?|
+|Como obter acesso às portarias do docente com vigência em 2022</ins>?|
 |-|
 |Para ter acesso a TODAS as portarias que envolvem os docentes do INF, favor acessar o [<ins><b>RELATÓRIO DE PORTARIAS</b></ins>](https://www.inf.ufg.br/p/43568-relatorio-de-emissao-de-portarias):<br>- O docente pode "filtar" informações presentes na tabela.<br>- A última coluna da tabela é o _link_ para o arquivo da portaria.<br>- <ins>O docente deve estar atendo se a portaria tem vigência em 2022</ins>.|
 ### q004
 |As instruções [das Comissões RADOC anteriores] sobre as atividades docentes estão disponíveis?|
 |-|
 |Sim, a instruções estão disponíveis [<ins>**AQUI**</ins>](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429).|
+### q005
+|Como inserir no RADOC as orientações de monitoria?|
+|-|
+|A orientação de monitoria ocorre via importação a partir do software SIGAA>Monitoria. Contudo, conforme posto em [Fontes das Informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), a Atividade V-1.27 (Aluno orientado em programa de monitoria) está em manutenção, a  saber: "Ajuste em andamento no Módulo Monitoria e critérios para importação". Vamos aguardar um pouco para que essa importação se torne funcional.|
 
 Fim &#9997;
