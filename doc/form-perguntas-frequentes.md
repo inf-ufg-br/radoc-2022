@@ -38,7 +38,7 @@
 ### q006
 |Serão emitidas portarias sobre a participação em reuniões do CD, da CPG e do planejamento pedagógico e administrativo?|
 |-|
-|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinentes a cada portaria será calculada pela administração do INF.<br>Em tempo: As Portarias 4754 de 08/11/2022 e 4864 de 11/11/2022 pertinente aos planejamentos pedagógico e administrativo foram emitidas e enviadas aos docentes via e-mail.|
+|Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinentes a cada portaria será calculada pela administração do INF.<br>Em tempo: As Portarias 4754 de 08/11/2022 e 4864 de 11/11/2022, pertinentes aos planejamentos pedagógico e administrativo, foram emitidas e enviadas aos docentes via e-mail.|
 ### q007
 |Como inserir no RADOC a produção/promoção de eventos (regionais, nacionais, internacionais)?|
 |-|
