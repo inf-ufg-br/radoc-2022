@@ -3,7 +3,8 @@
 ## Índice de Perguntas
 
 <details><summary><H3><b>Clique para acessar o Índice de Perguntas</ins></H3></b></summary>
-[FAQ da UFG](#q001)<br>
+<p>ww <a href="#q001" target="_blank" rel="noopener noreferrer">FAQ da UFG</a>.</p>
+<A[FAQ da UFG](#q001)<br>
 [QUALIS de Periódicos](#q002)<br>
 [Portarias vigentes para o docente](#q003)<br>
 [Instruções RADOC de anos anteriores](#q004)<br>
