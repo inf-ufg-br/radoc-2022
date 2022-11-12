@@ -1,9 +1,13 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
 ---
-# Questões NÃO RESOLVIDAS
+# Questões NÃO RESPONDIDAS
 
+<details><summary><H3><b>Questões NÃO RESPONDIDAS</ins></H3></b></summary>
 
+</details>
+
+# Questões RESPONDIDAS
 
 <details><summary><H3><b>TABELA III-2) <ins>ATIVIDADES DE EXTENSÃO</ins></H3></b></summary>
 
