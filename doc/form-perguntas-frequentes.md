@@ -42,6 +42,6 @@
 ### q007
 |Como inserir no RADOC a produção/promoção de eventos (regionais, nacionais, internacionais)?|
 |-|
-|Sobre a promoção ou produção de eventos artísticos e científicos (regionais, nacionais e internacionais (Tabela III-2 Atividades de Extensão), segundo o documento [Fontes das informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), o registro é importado do sistema **SIGAA > Extensão**, ou seja, essa atividade de extensão precisa estar previamente cadastrada no sistema. Contudo, há requisitos para a importação, tal como "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".|
+|A promoção ou produção de eventos artísticos e científicos (regionais, nacionais e internacionais (Tabela III-2 Atividades de Extensão), segundo o documento [Fontes das informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), é importada no RADOC a partir do sistema **SIGAA > Extensão**, ou seja, essa atividade de extensão precisa estar previamente cadastrada no sistema. Contudo, há requisitos para a importação, tal como "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".|
 
 Fim &#9997;
