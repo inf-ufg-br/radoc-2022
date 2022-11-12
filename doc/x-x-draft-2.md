@@ -1,6 +1,12 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
-Por favor, considere  estão questões respondidas e questões não respondidados 
+
+<details><summary><H3><b>Índice de Pesguntas</ins></H3></b></summary>
+[FAQ da UFG](#q001)<br>
+[QUALIS de Periódicos](#q002)<br>
+[Portarias vigentes para o docente](#q003)<br>
+[Instruções RADOC de anos anteriores](#q004)<br>
+</details>
 
 ### q001
 |O Apoio Institucional da UFG possui uma FAQ sobre o RADOC/SICAD+ ?|
@@ -18,18 +24,5 @@ Por favor, considere  estão questões respondidas e questões não respondidado
 |As instruções [das Comissões RADOC anteriores] sobre as atividades docentes estão disponíveis?|
 |-|
 |Sim, a instruções estão disponíveis [<ins>**AQUI**</ins>](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429).|
-### Pergunta 005
-### Pergunta 006
-### Pergunta 007
-### Pergunta 008
-### Pergunta 009
-
-
-
-[FAQ da UFG](#q001)<br>
-[QUALIS de Periódicos](#q002)<br>
-[Portarias vigentes para o docente](#q003)<br>
-[Instruções RADOC de anos anteriores](#q004)<br>
-
 
 Fim &#9997;
