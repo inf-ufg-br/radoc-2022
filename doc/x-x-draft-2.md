@@ -43,5 +43,7 @@ Por favor, considere  estão questões respondidas e questões não respondidado
 
 [x](./x-x-draft-2.md#pergunta-001)
 
+[x](#pergunta-001)
+
 
 Fim &#9997;
