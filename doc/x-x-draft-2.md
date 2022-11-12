@@ -1,5 +1,9 @@
 # <img src="../media/icon-faq.jpg" width="80"> Perguntas frequentes
 
+---
+# Questões NÃO RESOLVIDAS
+
+
 |teste|
 |-|
 |<details><summary><H3><b>TABELA III-2) <ins>ATIVIDADES DE EXTENSÃO</ins></H3></b></summary>
