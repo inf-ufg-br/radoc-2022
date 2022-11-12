@@ -3,7 +3,7 @@
 ## Índice de Perguntas
 
 <details><summary><H3><b>Clique para acessar o Índice de Perguntas</ins></H3></b></summary>
-<p>ww <a href="#q001" target="_blank" rel="noopener noreferrer">FAQ da UFG</a>.</p>
+<a href="#q001">FAQ da UFG</a><br/>
 <A[FAQ da UFG](#q001)<br>
 [QUALIS de Periódicos](#q002)<br>
 [Portarias vigentes para o docente](#q003)<br>
