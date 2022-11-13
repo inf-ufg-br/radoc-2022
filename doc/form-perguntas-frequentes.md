@@ -9,7 +9,7 @@
 <a href="#q006">Portarias - participação em reuniões do CD</a><br/>
 <a href="#q006">Portarias - participação em reuniões da CPG</a><br/>
 <a href="#q006">Portarias - participação no planejamento pedagógico e administrativo</a><br/>
-<a href="#q002">Qualis de Periódicos - como saber o Qualis de um peródico</a><br/>
+<a href="#q002">Qualis de Periódicos - como saber o Qualis de um periódico</a><br/>
 <a href="#q004">RADOCs de anos anteriores - quais as instruções até 2021 para alimentar o RADOC</a><br/>
 
 ---
