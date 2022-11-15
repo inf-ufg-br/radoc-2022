@@ -13,14 +13,14 @@
     <tbody>
         <tr>
             <td><b>Preparar material</b></td>
-            <td><i>in progress</i></td>
+            <td><i>done</i></td>
             <td>Oct 31, 2022</td>
             <td>Comissão</td>
             <td>Apresentado: Vídeo com orientações<br/>Enviado: E-mail com orientações</td>
         </tr>    
         <tr>
             <td><b>Alimentar RADOC</b></td>
-            <td><i>backlog</i></td>
+            <td><i>in progress</i></td>
             <td>Nov 15, 2022</td>
             <td>Docente</td>
             <td>Enviado para a comissão: RADOC</td>
