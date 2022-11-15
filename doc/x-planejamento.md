@@ -21,7 +21,7 @@
         <tr>
             <td><b>Alimentar RADOC</b></td>
             <td><i>in progress</i></td>
-            <td>Nov 15, 2022</td>
+            <td>Nov 17, 2022</td>
             <td>Docente</td>
             <td>Enviado para a comissão: RADOC</td>
         </tr>    
