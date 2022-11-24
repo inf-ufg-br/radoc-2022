@@ -35,7 +35,7 @@
         <tr>
             <td><b>Alterar RADOC</b></td>
             <td><i>backlog</i></td>
-            <td>Dec 05, 2022</td>
+            <td>Dec 04, 2022</td>
             <td>Docente</td>
             <td>Enviado para a comissão: RADOC alterado conforme anotações</td>
         </tr>    
