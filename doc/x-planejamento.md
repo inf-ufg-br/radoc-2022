@@ -20,21 +20,21 @@
         </tr>    
         <tr>
             <td><b>Alimentar RADOC</b></td>
-            <td><i>in progress</i></td>
+            <td><i>done</i></td>
             <td>Nov 17, 2022</td>
             <td>Docente</td>
             <td>Enviado para a comissão: RADOC</td>
         </tr>    
         <tr>
-            <td><b>Anotar RADOC</b></td>
-            <td><i>backlog</i></td>
+            <td><b>Anotar RADOC (Parecer)</b></td>
+            <td><i>done</i></td>
             <td>Nov 28, 2022</td>
             <td>Comissão</td>
             <td>Enviado para o docente: RADOC anotado</td>
         </tr>    
         <tr>
             <td><b>Alterar RADOC</b></td>
-            <td><i>backlog</i></td>
+            <td><i>in progress</i></td>
             <td>Dec 04, 2022</td>
             <td>Docente</td>
             <td>Enviado para a comissão: RADOC alterado conforme anotações</td>
