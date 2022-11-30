@@ -66,7 +66,7 @@
 |7|Membro de banca de avaliação de memorial ou de tese inédita para promoção à Classe E, com denominação de Professor Titular|-|-|
 |7.1|.... Na instituição|6|[&#9752; _Lattes_](./fonte-lattes.md)|
 |7.2|.... Em outra instituição|8|[&#9752; _Lattes_](./fonte-lattes.md)|
-|8|Membro de banca de defesa de monografia, projeto final de curso e outros tipos de bancas|3<br>(máx. 12)|[&#9752; _Lattes_](./fonte-lattes.md)<br>OU<br>[&#9728; Manual](./fonte-manual.md)|
+|8|Membro de banca de defesa de monografia, projeto final de curso e outros tipos de bancas|3<br>(máx. 12)|Graduação e Especialização via [&#9752; _Lattes_](./fonte-lattes.md)<br>Outros tipos de bancas via [&#9728; Manual](./fonte-manual.md)|
 |9|Membro de corpo de júri|-|-|
 |9.1|.... Concursos internacionais|8|[&#9728; Manual](./fonte-manual.md)|
 |9.2|.... Concursos nacionais|6|[&#9728; Manual](./fonte-manual.md)|
