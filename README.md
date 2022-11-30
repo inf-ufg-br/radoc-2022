@@ -7,7 +7,7 @@
 ## Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 ---
 #### Atividade em andamento, segundo o [Planejamento](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md):
-&#x261B; Alterar e **enviar o RADOC ALTERADO** para a Comissão, conforme instruções enviadas por [e-mail](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md).<br>
+&#x261B; Alterar e **enviar o RADOC ALTERADO** para a Comissão, conforme instruções enviadas por [e-mail](https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-planejamento.md#espelho-do-e-mail-enviado-aos-docentes).<br>
 &#x261B; Data limite: <ins>04/Dez/2022</ins>
 
 ###### *by [Comissão INF/UFG para o RADOC 2022](./doc/x-index.md#comissão-radoc-2022)* [^2]
